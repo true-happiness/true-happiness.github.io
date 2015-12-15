@@ -1,25 +1,22 @@
 ---
-layout: default
+layout: page
+title: "Archive"
 ---
 
-<div class="container">
 	<div class="row">
-			<div class="page-header">
-			  <h1>Archive <small>Subtext for header</small></h1>
-			</div>
 		<div class="col-md-10">
-			<ul>
+			<ul style="padding: 0;">
 			  {% for post in site.posts %}
 					{% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
 					{% if forloop.first %}
-					    <h3>{{ post_year }}</h3><div class="list-group">
+					    <h2>{{ post_year }}</h2><div class="list-group">
 					{% endif %}
 					
 					{% if forloop.first == false %}
 					    {% assign previous_index = forloop.index0 | minus: 1 %}
 					    {% capture previous_post_year %}{{ site.posts[previous_index].date | date: '%Y' }}{% endcapture %}
 					    {% if post_year != previous_post_year %}
-					        </div><h3>{{ post_year }}</h3><div class="list-group">
+					        </div><h2>{{ post_year }}</h2><div class="list-group">
 					    {% endif %}
 					{% endif %}					
 					<a href="{{ post.url }}/" class="list-group-item">
@@ -35,8 +32,7 @@ layout: default
 		<div class="col-md-2">
 			<h2>Tags</h2>
 			{% for data_tag in site.data.tags %}
-			        <a href="/tags/{{ data_tag.slug }}"><span class="label label-default">{{ data_tag.name }}</span></a>
+			        - <a href="/tags/{{ data_tag.slug }}"><small>{{ data_tag.name }}</small></a><br>
 			{% endfor %}
 		</div>
 	</div>
-</div>
