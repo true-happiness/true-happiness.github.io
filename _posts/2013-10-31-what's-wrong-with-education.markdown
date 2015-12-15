@@ -2,11 +2,11 @@
 layout:     post
 title:      "What's wrong with our education?"
 subtitle:   ""
-date:       2015-10-31 12:00:00
+date:       2013-10-31 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-01.jpg"
-category: "YOYO"
-tags: "YOYO"
+category: education
+tags: ["passion"]
 ---
 
 <h2 class="section-heading">Lacks Passion</h2>
