@@ -1,11 +1,14 @@
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 20px;
+  font-family: 'Open Sans', 'Times New Roman', serif;
+  font-size: 17px;
   color: #404040;
 }
 p {
+  font-family: 'Open Sans', 'Times New Roman', serif;
   line-height: 1.5;
   margin: 30px 0;
+  font-size: 17px;
+  font-weight: 300;
 }
 p a {
   text-decoration: underline;
@@ -17,14 +20,14 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 600;
+  font-weight: 400;
 }
 a {
   color: #404040;
 }
 a:hover,
 a:focus {
-  color: #0085a1;
+  color: #000000;
 }
 a img:hover,
 a img:focus {
@@ -69,7 +72,8 @@ hr.small {
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: rgba(255, 255, 255, 0.8);
+    /*color: rgba(255, 255, 255, 0.8);*/
+    color:#000000;
   }
   .navbar-custom .nav li a {
     color: black;
@@ -77,7 +81,8 @@ hr.small {
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: rgba(255, 255, 255, 0.8);
+    /*color: rgba(255, 255, 255, 0.8);*/
+    color:#000000;
   }
 }
 @media only screen and (min-width: 1170px) {
@@ -109,14 +114,14 @@ hr.small {
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
-    color: #0085a1;
+    color: #000000;
   }
   .navbar-custom.is-fixed .nav li a {
     color: #404040;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
-    color: #0085a1;
+    color: #000000;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -135,12 +140,12 @@ hr.small {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
 .intro-header .page-heading {
-  padding: 100px 0 50px;
+  /*padding: 50px 0;*/
   color: black;
 }
 @media only screen and (min-width: 768px) {
@@ -174,6 +179,11 @@ hr.small {
     font-size: 80px;
   }
 }
+.site-heading h1 {
+  text-transform: uppercase !important;
+  font-weight: 100 !important;
+}
+
 .intro-header .post-heading h1 {
   font-size: 35px;
 }
@@ -186,16 +196,18 @@ hr.small {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 24px;
   margin: 10px 0 30px;
-  font-weight: 600;
+  font-weight: 300;
 }
 .intro-header .post-heading .meta {
   font-family: 'Lora', 'Times New Roman', serif;
   font-style: italic;
   font-weight: 300;
-  font-size: 20px;
+  font-size: 16px;
+  color: #808080;
 }
 .intro-header .post-heading .meta a {
-  color: white;
+  color: #808080;
+  text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
@@ -211,7 +223,7 @@ hr.small {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #0085a1;
+  color: #000000;
 }
 .post-preview > a > .post-title {
   font-size: 30px;
@@ -235,7 +247,7 @@ hr.small {
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #0085a1;
+  color: #000000;
   text-decoration: underline;
 }
 @media only screen and (min-width: 768px) {
@@ -244,9 +256,9 @@ hr.small {
   }
 }
 .section-heading {
-  font-size: 36px;
+  font-size: 32px;
   margin-top: 60px;
-  font-weight: 700;
+  font-weight: 400;
 }
 .caption {
   text-align: center;
@@ -315,7 +327,7 @@ footer .copyright {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #0085a1;
+  color: #000000;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -335,8 +347,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  background-color: #000000;
+  border: 1px solid #000000;
   color: white;
 }
 .pager {
@@ -365,9 +377,9 @@ form .row:first-child .floating-label-form-group {
 }
 .pager li > a:hover,
 .pager li > a:focus {
-  color: white;
-  background-color: #0085a1;
-  border: 1px solid #0085a1;
+  color: #000000;
+  background-color: #eee;
+  border: 1px solid #ddd;
 }
 .pager .disabled > a,
 .pager .disabled > a:hover,
@@ -380,12 +392,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #000000;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #0085a1;
+  background: #000000;
 }
 img::selection {
   color: white;
@@ -396,7 +408,7 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #0085a1;
+  webkit-tap-highlight-color: #000000;
 }
 
 .social-share a {
@@ -429,4 +441,15 @@ section {
     background-image: url("/img/met-stars.png"), linear-gradient(#202023, #19283f);
     background-size: contain;
     background-repeat: repeat;
+}
+
+#post-meta a {
+  text-decoration: none;
+}
+
+.list-group-item {
+  border-bottom-right-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+  border-top-right-radius: 0px !important;
+  border-top-left-radius: 0px !important;
 }

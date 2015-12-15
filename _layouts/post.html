@@ -10,23 +10,21 @@ layout: default
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <h1>{{ page.title }}</h1>
+                    <h1>{{ page.title }}</h1><br>
                     {% if page.subtitle %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
-                    <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                    <span class="meta">Posted by {% if page.author %}<a href="/about" style="color:#808080;">{{ page.author }}</a>{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
                 </div>
             </div>
         </div>
     </div>
 </header>
-
 <!-- Post Content -->
 <article>
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
 				{{ content }}
 
                 {% if post.tags.size > 0 %}
@@ -50,15 +48,15 @@ layout: default
                 <p id="post-meta">Posted {{ tags_content }}</p>
                 
                 <hr>
-                <div class="text-center">
+                
+             <!--    <div class="text-center">
                     <h3>About Author</h3>
-                        <small>Supakorn Laohasongkram's dream is to open a university where the goal of teaching is <em>to inspire the students</em> through real-practical work which purpose is aim at actually bettering their lives the lives of all people around them.</small>
-                        <br>
+                        <p>Supakorn Laohasongkram's dream is to open a university where the goal of teaching is <em>to inspire the students</em> through real-practical work which purpose is aim at actually bettering their lives the lives of all people around them.</p>
                         <br><a href="/about" title="About Author">- Learn more here -</a>
                 </div>
+                <hr> -->
 
                 
-                <hr>
                 <aside class="social-share text-center">
                     <h3>Share this on</h3>
                         <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}{% if page.description %}&text={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}{% if site.twitter %}&via={{ site.twitter }}{% endif %}" title="Share on Twitter"><i class="fa fa-twitter fa-2x"> </i></a>
