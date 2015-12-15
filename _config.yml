@@ -4,13 +4,13 @@ header-img: img/home-bg.jpg
 email: laohasongkram.supakorn@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
-url: "http://supakornlaohasongkram.github.io"
+url: "http://true-happiness.github.io"
 twitter_username: klaoha06
 github_username:  klaoha06
 facebook_username:  supakorn.laohasongkram
 
 # Build settings
-gems: ['jekyll-paginate', 'jekyll-sitemap']
+gems: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-feed']
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
