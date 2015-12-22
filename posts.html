@@ -32,7 +32,7 @@ title: "Archive"
 		<div class="col-md-2">
 			<h2>Tags</h2>
 			{% for data_tag in site.data.tags %}
-			        - <a href="/tags/{{ data_tag.slug }}"><small>{{ data_tag.name }}</small></a><br>
+			       <hr class="small"><a href="/tags/{{ data_tag.slug }}"><li>{{ data_tag.name }}</li></a>
 			{% endfor %}
 		</div>
 	</div>
