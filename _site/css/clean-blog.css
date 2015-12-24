@@ -25,6 +25,33 @@
     font-style: italic;
 }
 
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/OpenSans-Regular.ttf");
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/OpenSans-Bold.ttf");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/OpenSans-Light.ttf");
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/OpenSans-RegItalic.ttf");
+    font-style: italic;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Open Sans";
+    src: url("fonts/OpenSans-LightItalic.ttf");
+    font-weight: 300;
+    font-style: italic;
+}
+
 body {
   font-family: 'Proxima Nova','Open Sans', 'Times New Roman', serif;
   font-size: 17px;
@@ -49,6 +76,9 @@ h5,
 h6 {
   font-family: 'Proxima Nova','Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 400;
+}
+h4 {
+  font-size: 20px;
 }
 a {
   color: #404040;
@@ -208,7 +238,7 @@ li {
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 85px;
   }
 }
 .site-heading h1 {
