@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "10 Reasons to 'Why am I unhappy?' Part one: Misplacing your happiness"
+title:      "'Why am I unhappy?' Part one: Misplacing your happiness"
 date:       2015-12-12 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-02.jpg"
