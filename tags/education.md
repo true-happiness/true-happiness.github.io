@@ -1,6 +1,7 @@
 ---
 layout: blog_by_tag
-title: 'Articles by tag: Education'
+title: 'Education'
+subtitle: 'Articles written by tag: "Education"'
 tag: education
 permalink: /tags/education/
 ---

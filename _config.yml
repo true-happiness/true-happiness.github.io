@@ -2,7 +2,7 @@
 title: True Happiness
 header-img: img/home-bg.jpg
 email: laohasongkram.supakorn@gmail.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "This website is a blog I share for others to learn more about how to become happier in life."
 baseurl: ""
 url: "http://true-happiness.github.io"
 twitter_username: klaoha06
@@ -16,3 +16,5 @@ highlighter: pygments
 permalink: pretty
 paginate: 7
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+collections: 
+- principles

@@ -1,0 +1,40 @@
+---
+layout:     post
+title:      "How to Master the Art of Living"
+subtitle:   "Many say exploration is part of our destiny, but it’s actually our duty to future generations."
+date:       2014-07-08 12:00:00
+author:     "Start Bootstrap"
+header-img: "img/post-bg-03.jpg"
+tags: ['passion']
+---
+
+<p>Imagine you had a gorgeous blueberry sitting on the otherwise empty plate in front of you. You pick it up gently, place it on your tongue, and begin to taste it.</p>
+<p>You already know how a blueberry tastes, and so when this one is a bit riper than you&#8217;d like, you make a face, feel the disappointment, swallow it with displeasure.</p>
+<p>Or perhaps it tastes exactly as you&#8217;d expected: no big deal. You swallow, and move on with your day.</p>
+<p>In the first case, the blueberry was disappointing because it didn&#8217;t meet expectations. In the second, it was boring because it met expectations.</p>
+<p>Now try this: have no expectations of how the blueberry will taste. You don&#8217;t know because you haven&#8217;t tried it yet. You&#8217;re curious, open to a variety of tastes.</p>
+<p>You taste it, and really pay attention. You notice the tanginess, the firmness of the skin, the sweet mushiness of the center, the complex flavors that emerge as you eat it. You didn&#8217;t know how it would taste, but this is brilliant! It&#8217;s new, because you&#8217;ve never tasted anything quite like it.</p>
+<p>This is sometimes called the Beginner&#8217;s Mind, but I think of it as a mind free of expectations.</p>
+<p>The blueberry, of course, can be anything in life: any experience, any person you meet, any cup of tea, any task before you, any interaction with a loved one, any thought that enters your head, any moment of the day.</p>
+<p>If you approach any of these with expectations, they will often disappoint or frustrate you &#8230; or be bland, blah, <em>usual</em>. And you move on to the next disappointing or frustration or usual experience, and so on, so that life is nothing but a series of things you barely like and barely notice.</p>
+<p>If you approach each moment, each task, each person, without expectations &#8230; and just see that moment or person <em>as they are</em> &#8230; then you will really see that moment. Really appreciate it. Experience it like you&#8217;ve never experienced anything before, because you haven&#8217;t.</p>
+<p>This is the Art of Living.</p>
+<h3>The Worlds That Open Up</h3>
+<p>When you learn to approach each person and moment and task without expectations, it transforms everything. New worlds open up to you.</p>
+<p>A handful of examples:</p>
+<ul>
+<li><strong>Procrastination</strong>: Let&#8217;s say you have been putting off a big task at work because you&#8217;re dreading doing it. Maybe it&#8217;s a big project, and you have this feeling of overwhelm. It&#8217;s a lot of work! You are <em>expecting</em> to have to do hard work you&#8217;re perhaps not good at, expecting failure or difficulty. But letting go of the expectations means you don&#8217;t know how this task will go &#8230; you go into it with an open mind. You try it and see how it goes. You learn from the experience no matter how it goes.</li>
+<li><strong>Habits</strong>: You enter a new habit with the expectation that it will be amazing, change your life, and you&#8217;ll do great. And when it is inevitably harder than you thought it would be, and you&#8217;re less successful at it, you&#8217;re disappointed, discouraged, frustrated. So you lose motivation, and give up. If instead, you let go of the fantasy of how this habit will go, and just be open to what emerges &#8230; you can just do the habit. Just be in the moment with it. Then, no matter how it turns out, you&#8217;ll learn something.</li>
+<li><strong>Frustrating person</strong>: This guy at work is frustrating you because he&#8217;s not doing the work the way he should, or maybe he&#8217;s being inconsiderate somehow. Your frustration stems from an <em>expectation</em> of how this person should act. They don&#8217;t act according to this ideal, and so you suffer. Instead, you can put aside this expectation that people will live up to your ideals &#8230; and just be open to them. They will behave imperfectly, just as you will. Accepting the person as they are doesn&#8217;t mean you do nothing &#8230; you can let go of the frustration, and see how they&#8217;re having difficulty, and it as a teaching opportunity or an opportunity to help them &#8230; with no expectation that they&#8217;ll love your lesson or follow it, but just with the intention of helping someone.</li>
+<li><strong>Kids don&#8217;t behave</strong>: When your kids behave badly, it&#8217;s the same problem &#8212; they aren&#8217;t acting according to your ideal. But of course they&#8217;re not! No kid behaves ideally, just as no adult behaves ideally. Do you behave ideally? I certainly don&#8217;t. I&#8217;m rude when I&#8217;m in a bad mood or tired. I&#8217;m not proud of that, but I struggle to be considerate or cheerful sometimes. Everyone does. Your kids are struggling, and you can be compassionate and help them. Kindly. That is, if you can let go of your expectations that they&#8217;ll behave perfectly, and accept them as struggling, beautiful people who just want to be happy, just like you.</li>
+<li><strong>Your body</strong>: You aren&#8217;t happy with your body, because it&#8217;s not perfect. It doesn&#8217;t meet your ideal, your expectation, and so you dislike it. That&#8217;s not good, because this self-discontent means that you&#8217;re less likely to do healthy things. Often we think that dissatisfaction with ourselves motivates us to change, but in my experience this discontent means that you don&#8217;t really trust yourself to stick to changes and so you make excuses when things get hard, and quit. I&#8217;ve done that a lot. When I am content with myself, I trust myself more, and I stick to things more. So let go of expectations that your body will be perfect, and just see your body as it is, for the beautiful thing it is, independent of society&#8217;s ideals of perfection. You&#8217;re great!</li>
+<li><strong>Each moment</strong>: As we enter each new moment, we expect things from it. We want it to be fun, amazing, productive, according to plan. And of course each moment has its own plan, and will be its own thing. So we are not happy with it. Instead, we can drop the expectations and just see the moment as it is. Just experience it, noticing, appreciating, being grateful. This is mastery.</li>
+</ul>
+<p>This is just the start. We can learn that plans, goals, ideals &#8230; these are all fantasies of what we&#8217;d like life to be like, and <a href="http://zenhabits.net/fantasies/">they&#8217;re not real</a>. We can learn to let go of the fantasies that inevitably occur, and just experience life as it is, as it happens.</p>
+<p>This is the Art of Living.</p>
+<h3>How to Master the Art</h3>
+<p>Mastering the Art of Living is not as easy as you&#8217;d expect, as you&#8217;d fantasize. It takes practice. It means learning to be mindful of when you have these ideals, expectations, fantasies. It means learning to see the frustrations, anger, sadness, loneliness, irritations as signals of the expectations you have and didn&#8217;t notice.</p>
+<p>It means practicing that, and then practicing letting them go.</p>
+<p>That means a lot of practice, and a lot of remembering to practice.</p>
+<p>But that&#8217;s the fun of it. You drop the expectation that you&#8217;ll be perfect at this practice, and just try it. You learn from the trying. You get better. You learn some more. And each moment, along the way, is a miracle to be appreciated and enjoyed, so the process of mastery is a succession of miracle moments.</p>
+<p>That&#8217;s a beautiful thing.</p>

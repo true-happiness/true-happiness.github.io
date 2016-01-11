@@ -1,0 +1,29 @@
+---
+layout:     post
+title:      "Top 5 Most Inspirational Videos on YouTube"
+date:       2012-10-14 12:00:00
+author:     "Supakorn Laohasongkram"
+header-img: "img/post-bg-05.jpg"
+tags: [""]
+---
+<blockquote><p>&#8220;Your time is limited, so don&#8217;t waste it living someone else&#8217;s life. Don&#8217;t be trapped by dogma &#8211; which is living with the results of other people&#8217;s thinking. Don&#8217;t let the noise of other&#8217;s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.&#8221; <strong>&#8211; Steve Jobs</strong></p></blockquote>
+<p>Sometimes we all can use a little inspiration. I thought I&#8217;d share some of my favorite inspirational videos with you, hoping that it&#8217;ll help pick you up today.</p>
+<p>Play these as needed. Warning: you might be inspired to greatness, so use with caution.</p>
+<p><strong>1. Randy Pausch&#8217;s Last Lecture: Achieving Your Childhood Dreams</strong><br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/ji5_MqicxSo&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/ji5_MqicxSo&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object><br />
+Watched by over 6 million viewers, this video of a Carnegie Mellon professor who is dying of pancreatic cancer contains more inspiration and wisdom than almost anything else you can watch online. Watch it!<span id="more-830"></span></p>
+<p><strong>2. A Father&#8217;s Amazing Love</strong><br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/zGRyYKF5jVY&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/zGRyYKF5jVY&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object></p>
+<p>Unless you&#8217;re a cold-hearted bastard (and none of you who read this blog are, I know), you will get teary-eyed watching this video. You can&#8217;t help it. There is no more powerful demonstration of a father&#8217;s love than this.</p>
+<p><strong>3. Steve Jobs&#8217;s Stanford Commencement Speech</strong><br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/UF8uR6Z6KLc&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/UF8uR6Z6KLc&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object></p>
+<p>I admit, I&#8217;m a Steve Jobs fanboy &#8212; the guy invented the Mac, the iPod, and Pixar for goodness sake! He&#8217;s also a minimalist, like me, and in this speech he shows the power of pursuing your dreams, something I fervently believe in. And Steve, if by any chance you happen to read this blog, drop me a line! (I know, not much of a chance, but I had to give it a shot.) <strong>Correction</strong>: Steve didn&#8217;t invent Pixar, as one reader pointed out. He probably didn&#8217;t invent the iPod either, but he did lead both to prominence.</p>
+<p><strong>4. Will Smith &#8211; Running &amp; Reading (The Key to Life)</strong><br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/KEMEBBwO6J8&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/KEMEBBwO6J8&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object></p>
+<p>Will Smith is <em>right on</em> in this speech. As an avid runner and reader myself, I&#8217;ve noticed these same phenomena have changed my life, and I recommend both to anyone I talk to.</p>
+<p><strong>5. Free Hugs Campaign</strong><br />
+<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="src" value="http://www.youtube.com/v/vr3x_RRJdd4&amp;hl=en&amp;fs=1" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/vr3x_RRJdd4&amp;hl=en&amp;fs=1" allowfullscreen="true"></embed></object><br />
+I&#8217;m a big fan of the <a href="http://www.freehugscampaign.org/">Free Hugs campaign</a>. Such a simple yet profound and revolutionary idea &#8212; offer free hugs to strangers and change their lives in small ways. I love it.</p>
+<p>&#8212;<br />
+<strong>Read about simple productivity, focus and getting great things done in my book, <a href="http://www.amazon.com/gp/product/1401309704?ie=UTF8&amp;tag=zenhab-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1401309704">The Power of Less</a>. </strong></p>
+<p><strong><a href="http://www.amazon.com/gp/product/1401309704?ie=UTF8&amp;tag=zenhab-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=1401309704"><img src="http://zenhabits.net/fotos/powerofless250.png" alt="" /></a></strong></p>
