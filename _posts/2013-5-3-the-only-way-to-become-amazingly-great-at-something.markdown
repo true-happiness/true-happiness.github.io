@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Savor Life"
-subtitle:   "The Only Way to Become Amazingly Great at Something"
+title:      "The Only Way to Become Amazingly Great at Something"
+subtitle:   ""
 date:       2013-10-31 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-01.jpg"
