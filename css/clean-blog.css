@@ -71,6 +71,9 @@ p {
 p a {
   text-decoration: underline;
 }
+article p {
+  text-align: justify;
+}
 h1,
 h2,
 h3,
