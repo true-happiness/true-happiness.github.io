@@ -12,7 +12,7 @@ facebook_username:  supakorn.laohasongkram
 # Build settings
 gems: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-feed']
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 paginate: 7
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
