@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "'Why am I unhappy?' Part two: Comparing Yourself to Others"
+title:      "Cause of Unhappiness Part two: Comparing Yourself to Others"
 date:       2015-12-19 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-02.jpg"

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "How Living Life Scientifically will Make You The Happiest Person Alive"
+title:      "How Living Life Scientifically Will Make You The Happiest Person Alive"
 subtitle:   ""
 date:       2016-1-07 12:00:00
 author:     "Supakorn Laohasongkram"
