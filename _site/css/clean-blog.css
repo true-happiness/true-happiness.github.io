@@ -570,3 +570,7 @@ hr.rainbow:after {
 .shadow {
   box-shadow: rgba(0, 0, 0, 0.0980392) 0px 0px 10px;
 }
+.post_content_padding {
+  padding-left: 25px;
+  padding-right: 25px;
+}

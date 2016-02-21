@@ -1,8 +1,9 @@
 # Site settings
 title: True Happiness
-header-img: img/home-bg.jpg
+header-img: "img/logo.png"
+header-author: "Supakorn Laohasongkram"
 email: laohasongkram.supakorn@gmail.com
-description: "This website is a blog I share for others to learn more about how to become happier in life."
+description: "This is a blog written by Supakorn Laohasongkram for others to learn more about how to become happier in life."
 baseurl: ""
 url: "http://true-happiness.github.io"
 twitter_username: klaoha06
