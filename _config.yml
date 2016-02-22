@@ -8,7 +8,7 @@ baseurl: ""
 url: "http://true-happiness.github.io"
 twitter_username: klaoha06
 github_username:  klaoha06
-facebook_username:  supakorn.laohasongkram
+facebook_username:  true-happiness.github.io
 
 # Build settings
 gems: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-feed']
