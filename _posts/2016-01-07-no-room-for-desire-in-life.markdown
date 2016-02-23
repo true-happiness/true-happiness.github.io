@@ -37,5 +37,5 @@ tags: []
 <h2 class="section-heading">What to take away</h2>
 
 <blockquote>
-	Life doesn't revolve around what we desire from reality because reality revolves around the absolute law of cause and effect. So forgot about all your fantasies about how reality should be. Instead, focus on, be satisfied, and accept what is. And keep on working with reality by making the right causes to achieve the right effect. 
+	Life doesn't revolve around what we desire from reality because reality revolves around the absolute law of cause and effect. So forget about all your fantasies about how reality should be. Instead, focus on, be satisfied, and accept what is. And keep on working with reality by making the right causes to achieve the right effect. 
 </blockquote>
