@@ -25,9 +25,12 @@ tags: ['why-am-i-unhappy']
 
 <p>We are so fearful that we will not have any meaning that we live our lives trying to add meaning to ourselves. We buy things we do not need to help boost our ego. We keep extending our identity to external things in life like a big home, a expensive car and etcs. </p>
 
-<p>There is no meaning to all these. We are born with nothing and we will die with nothing. So what's the big deal?</p>
-
+<p>There is no meaning to all these. We are born with nothing and we will die with nothing. Thus, it is a gift just to be alive. It is a gift to be born healthy.</p>
 
 <p>We are as meaningless as we want to be. It all depends on what do you compare yourself with.</p>
 
-<p>Life in essense is incomparable. </p>
+<p>Life in essense is incomparable to one another.</p>
+
+<p>It's ok to be meaninglessn.</p>
+
+<p></p>
