@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Science of Happiness"
-subtitle:   ""
+subtitle:   "	Life doesn't revolve around what we desire from reality because reality revolves around the absolute law of cause and effect."
 date:       2016-1-07 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-03.jpg"
@@ -18,7 +18,7 @@ tags: []
 
 <p>If the causes are right for an effect to occur, it will occur regardless of what one wants or do not want. Scientifically speaking, there is no room for desires in reality. There is only cause and effect.</p>
 
-<p>The common way, we, humans, achieve happiness in life is to put what we desire in front of the causes we must perform to achieve the result. We start a project by wanting it to be finished. We live by wishing that we would never die. Even when we are deeply in love with someone, we can't help ourselves feeling a little insecure about how long the good time will last. Humans always put what we want in front of what the reality is. For this reason, we have become constantly fearful, worried, impatient, and frustrated by what we demand from reality.</p>
+<p>The common way, we, humans, achieve happiness in life is to put what we desire in front of the causes we must perform to achieve the result. We start a project by wanting it to be finished. We run a business by only wanting to gain and never to lose. We begin living by being afraid of dying. Even when we are deeply in love with someone, we can't help ourselves feeling a little insecure about how long the good time will last. Humans always put our desire in front of what the reality is. For this reason, we have become constantly fearful, worried, impatient, and frustrated by what we demand from reality.</p>
 
 <p>One does not need desire in life to achieve whatever he or she wants. Because it doesn't matter how much you want something, what matters is whether or there is enough causes for the the effect to occur. Thus, our duty is to the law of cause and effect, not to what you want from reality. By creating the right causes, you can attain anything in life <em>with or without</em> the need to desire for it.</p>
 
@@ -37,5 +37,5 @@ tags: []
 <h2 class="section-heading">What to take away</h2>
 
 <blockquote>
-	Life doesn't revolve around what we desire from reality because reality revolves around the absolute law of cause and effect. So forget about all your fantasies about how reality should be. Instead, focus on, be satisfied, and accept what is. And keep on working with reality by making the right causes to achieve the right effect. 
+	Life doesn't revolve around what we desire from reality because reality revolves around the absolute law of cause and effect. So forget about all your fantasies about how reality should be. Instead, focus on, be satisfied, and accept what is. Begin living in the now! And keep on working with reality by making the right causes to achieve the right effect. 
 </blockquote>
