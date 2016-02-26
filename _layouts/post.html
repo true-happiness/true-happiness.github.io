@@ -12,7 +12,7 @@ layout: default
                 <div class="post-heading">
                     <h1>{{ page.title }}</h1><hr class="rainbow">
                     {% if page.subtitle %}
-                    <h3 class="subheading">{{ page.subtitle }}</h3>
+                    <h4 class="subheading">{{ page.subtitle }}</h4>
                     {% endif %}
                     <span class="meta">By {% if page.author %}<a href="/about" style="color:#808080;">{{ page.author }}</a>{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
                 </div>
