@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "Cause of Unhappiness Part two: Comparing Yourself to Others"
+subtitle:   "There is no true happiness to be found in the image of oneself."
 date:       2015-12-19 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-02.jpg"
