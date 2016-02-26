@@ -26,7 +26,7 @@ tags: []
 
 <p>The second way is to work toward your goal without the need to get ahead of ourselves. In other words, to work with and according to what the reality is, not work for what you want from reality. The man whose desire is with reality is always satisfied with what is. Since his desire is in tune with reality, he is not anxious or worry. This, in turn, allows him to become more composed, relaxed, and ultimately more productive while working toward his goal with a peace of mind.</p>
 
-<p>What I am explaining here is best summerised by Epictetus as follows:</p>
+<p>What I am explaining here is best summarized by Epictetus as follows:</p>
 
 <blockquote>Do not seek to have events happen as you want them to, but instead want them to happen as they do happen, and your life will go well.<br>-Epictetus</blockquote>
 
