@@ -1,14 +1,14 @@
 ---
 layout:     post
 title:      "Cause of Unhappiness Part one: Misplacing your happiness"
-subtitle:   "True happiness is not dependent upon anything."
+subtitle:   "True Happiness is not dependent upon anything."
 date:       2015-12-12 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-02.jpg"
 tags: ['why-am-i-unhappy']
 ---
 
-<h2 class="section-heading">Happiness is like a string which ties us to that which we believe is our happiness.</h2>
+<blockquote>Happiness is like a string which ties us to that which we believe is our happiness.</blockquote>
 
 <p>Let's say for example that if you tie your happiness with being rich and accepted, then as long as you are not rich or accepted you can not be happy. Similarly if you rest your happiness on your promotion then the promotion itself becomes the happiness which you have put outside of yourself.</p>
 
