@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Cause of Unhappiness Part one: Misplacing Your Happiness"
+title:      "Cause of Unhappiness Part One: Misplacing Your Happiness"
 subtitle:   "True Happiness is not dependent upon anything."
 date:       2015-12-12 12:00:00
 author:     "Supakorn Laohasongkram"
