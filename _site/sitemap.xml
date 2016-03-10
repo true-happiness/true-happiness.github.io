@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://true-happiness.github.io/2016/02/20/why-am-i-unhappy-3/</loc>
-    <lastmod>2016-02-20T19:00:00+07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://true-happiness.github.io/2016/02/20/why-am-i-unhappy-5/</loc>
-    <lastmod>2016-02-20T19:00:00+07:00</lastmod>
-  </url>
-  <url>
-    <loc>http://true-happiness.github.io/2016/02/20/why-am-i-unhappy-4/</loc>
-    <lastmod>2016-02-20T19:00:00+07:00</lastmod>
+    <loc>http://true-happiness.github.io/2016/03/09/why-am-i-unhappy-4/</loc>
+    <lastmod>2016-03-09T19:00:00+07:00</lastmod>
   </url>
   <url>
     <loc>http://true-happiness.github.io/2016/02/20/why-am-i-unhappy-3/</loc>
@@ -108,10 +100,16 @@
     <loc>http://true-happiness.github.io/about/</loc>
   </url>
   <url>
+    <loc>http://true-happiness.github.io/principles_of_happiness/cause_of_happiness/</loc>
+  </url>
+  <url>
     <loc>http://true-happiness.github.io/contact/</loc>
   </url>
   <url>
     <loc>http://true-happiness.github.io/tags/education/</loc>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/principles_of_happiness/how_of_happiness/</loc>
   </url>
   <url>
     <loc>http://true-happiness.github.io/</loc>
@@ -135,10 +133,13 @@
     <loc>http://true-happiness.github.io/tags/true-happiness-essentials/</loc>
   </url>
   <url>
-    <loc>http://true-happiness.github.io/principles_of_happiness/whatishappiness/</loc>
+    <loc>http://true-happiness.github.io/principles_of_happiness/what_is_happiness/</loc>
   </url>
   <url>
     <loc>http://true-happiness.github.io/tags/why-am-i-unhappy/</loc>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/principles_of_happiness/why_true_happiness/</loc>
   </url>
   <url>
     <loc>http://true-happiness.github.io/page2/</loc>
@@ -219,16 +220,178 @@
       <loc>http://true-happiness.github.io/2016/02/20/why-am-i-unhappy-3/</loc>
     </url>
     <url>
-      <loc>http://true-happiness.github.io/2016/02/20/why-am-i-unhappy-4/</loc>
-    </url>
-    <url>
-      <loc>http://true-happiness.github.io/2016/02/20/why-am-i-unhappy-5/</loc>
-    </url>
-    <url>
-      <loc>http://true-happiness.github.io/2016/02/20/why-am-i-unhappy-3/</loc>
+      <loc>http://true-happiness.github.io/2016/03/09/why-am-i-unhappy-4/</loc>
     </url>
   <url>
     <loc>http://true-happiness.github.io/googleace9067e30b64044.html</loc>
     <lastmod>2015-10-30T21:47:59+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2012/06/01/how-to-read-more/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2012/09/18/developing-selfless-compassion/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2012/10/14/top-5-most-inspirational-videos-on-youtube/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2014/02/18/how-to-live-a-better-life-with-less/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2014/05/30/things-i-wish-i-had-known-when-starting-out-in-life/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2014/07/08/how-to-master-the-art-of-living/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2014/09/24/how-to-live-well/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2014/10/22/why-i-dont-care-about-success/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2014/12/15/the-short-but-powerful-guide-to-finding-your-passion/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2015/01/20/number-one-habit/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2015/02/12/half/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2015/05/30/the-secret-habit-to-success-an-april-challenge/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2015/11/21/empty-handed-full-hearted/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2015/12/12/Why-am-I-unhappy-misplacing-your-happiness/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2015/12/19/Why-am-I-unhappy-2/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2015/12/24/six-greatest-gifts-you-can-give-your-loved-ones/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2016/01/07/no-room-for-desire-in-life/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/2016/02/20/why-am-i-unhappy-3/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/about/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/contact/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/education/2013/10/09/little-habits-that-can-change-your-life-and-how-to-form-them/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/education/2013/10/31/a-guide-for-young-people/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/education/2013/10/31/savor-life/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/education/2013/10/31/the-only-way-to-become-amazingly-great-at-something/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/googleace9067e30b64044.html</loc>
+    <lastmod>2015-10-30T21:47:59+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/join_us/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/page2/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/page3/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/page4/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/posts/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/principles_of_happiness/cause_of_happiness/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/principles_of_happiness/how_of_happiness/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/principles_of_happiness/what_is_happiness/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/principles_of_happiness/why_true_happiness/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/start_here/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/tags/education/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/tags/passion/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/tags/self-improvement/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/tags/true-happiness-essentials/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/tags/why-am-i-unhappy/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
+  </url>
+  <url>
+    <loc>http://true-happiness.github.io/rafts/yoyo/2015/08/24/simplify/index.html</loc>
+    <lastmod>2016-03-06T21:21:42+07:00</lastmod>
   </url>
 </urlset>
