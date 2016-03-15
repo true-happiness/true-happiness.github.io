@@ -577,3 +577,10 @@ hr.rainbow:after {
 .dropdown-menu li {
   margin-top: 0;
 }
+ol, ul {
+  margin-bottom: 30px;
+}
+.float-center {
+  display: block;
+  margin: 0 auto;
+}

@@ -4,14 +4,412 @@ title: "Why True Happiness Matters"
 description: "Saving the World Through Mindfulness One Breath At a Time"
 header-img: "img/about-bg.jpg"
 ---
+
+Would making the everyone in the world richer give us world peace? 
+
+We are so focused on generating incomes and raising GDP. But even if it rains in gold today, can we expect people to be happy and satified with what they have or can we expect a war where people would fight and kill one another for it. 
+
+<!-- We believe in making the world better and more efficient through technology. But even if we all have the best and latest technology in our hands, would that give us world peace?
+ -->
+We have poured billions of dollars into bettering our education system but does giving humans more power and skills without teaching them how to excerise that power lead us toward world peace? Or will we, once again, run in Theodore Roosevelt's truism whic he stated:
+
+<blockquote>A man who has never gone to school may steal from a freight car; but if he has a university education, he may steal the whole railroad."</blockquote>
+
+As long as people today still seeks happiness by "taking" rather than "giving", there will be no peace in this world.
+
+As long as people today still seeks happiness in being more power for themselves more than for the benefits of all, there will be no peace in this world.
+
+As long as people today still seeks happiness only for their own riches without any regards for others or the environment, there will be no peace in this world.
+
+As long as people today still seeks happiness in taking advantage of others, there will be no peace in the world.
+
+<h2>World Peace is Not Possible Without True Happiness.</h2>
+
+There is a world difference between what happiness and True Happiness is. <strong>Happiness is achieved by fulfilling our desire. True Happiness is achieved by overcoming it.</strong> True Happiness is about giving. Happiness is mostly about taking. True Happiness is not dependent on anything. Happiness is always depends on something. Happiness is relative happiness. True Happiness is absolute happiness. Happiness needs to be satisfied. True Happiness is the state of already being satisfied. Happiness is a chasing. True Happiness is that of a coming home. 
+
+The problem with happiness is that <strong>happiness could be attained in any ways imaginable</strong> from taking our kids our to dinner, sacrificing our lives for others, stealing billions of dollars, or getting a tattoo. By <a href="/principles_of_happiness/what_is_happiness">definition</a>, happiness is a match between what we want from reality and what reality is. No where does the definition of happiness tells us what to want or what we should change the reality into. Its only requirement is for us is to match the reality with our want in order to produce happiness. This therefore leave us with a freedom to want anything.
+
+Despite the nebulous nature of happiness, happiness could still be generalized into 3 main types.
+
+1. Happiness for oneself.
+
+2. Happiness for others.
+
+3. True Happiness
+
+Happiness if not developed always resort to the lowest possible form which is to seek hapiness only for oneself. This tendency to be selfish is innate and hardwired in our instinct. It is what living things do perserve itself and survive. This is precisely the reason why the world run by the law of "survial of the fittest". This is why we are fighting and taking advantagous of one another. This is why the world in some sense could be cruel and heartless.
+
+However, this does not mean that we can't change it. In fact, there is one crucial factor which sets humans apart from mere animals. And that is our ability <strong>to know ourselves.</strong> Animals do not have such privilege. When a mosquitos sees a blue light, its instinct tells it to fly toward it even though it might me a zapper. When the moth sees a flame, it has no choice but to instinctively fly toward the fire and its own death. Humans have similar instinct. When we see something we want, we want to take it. When we see a person we romantically interested we want to have him or her. Thus, what sets human apart is our <strong>ability to know and train our own instinct.</strong> This is why when we are attracted to someone we think twice before approaching someone. This is why even though we want something we do not steal.
+
+This leads us to the main point of this article which is...
+
+<h2>Happiness Can and Must be Developed</h2>
+
+We, humans, have put so much emphasis on building and improving what is outside of ourselves that we have neglected and forgotten how and why we should develop what is inside of ourselves. Happiness is what create our world, for good or for evil. It dictates people lives and decide how our world will be. Thus, happiness matters.
+
+World peace can not be achieved by changing what is outside of us, it is achieved by developing how each and everyone of us seek and define happiness inside of ourselves. It requires us to develop happiness ever higher. 
+
+It is the task that is needed most in todays world where happiness for oneself rules over the happiness for others. It is the task endowed specifically to humans to better ourselves. 
+
+So not only will you find True Happiness to make you a happier person anywhere at any time, but it will also benefits this world as a whole. This is what this website is about.
+
+<strong>World Peace Begins Here.</strong>
+
+<!-- 
+
+
+<strong>World Peace Begins Here In Our Journey Toward True Happiness</strong>
+
+But happiness is not enough. What is required is to develop our happiness to others and then to find True Happiness. 
+
+
+ Humans is endowed with the ability to train and improve our happiness ever higher. So what the world needs most at the moment is 
+
+
+
+
+
+W
+
+
+Happiness matters. 
+
+
+
+
+
+
+In the world where happiness for oneself rules over the happiness for others, True Happiness is what the world needs most.
+
+
+
+
+
+
+
+The task and skill of finding True Happiness is what needed most in our society. It is what we should teach our children if we want the peace today and in the future. 
+
+Despite how important happiness is in our lives as well as to the world, 
+
+Not many have dedicated their lives in learning the art of overcoming ourselves. Most will only indulge and follow whatever our desire lead us to. This
+
+
+
+
+Thus, happiness matters. 
+
+Aristotle understood the importance of developing our happiness this is why he said, 
+
+<blockquote>“Educating the mind without educating the heart is no education at all.”
+<br>- Aristotle</blockquote>
+
+He understood the crucial role happiness has to the world. 
+ -->
+
+
+<!-- 
+I really hope education see how important happiness is to this world. 
+
+
+
+Let's no longer ignore what will make us happy. Let's no longer 
+
+
+But happiness is not enough. This is why one must train oneself to find happiness in
+
+
+ What would truly give this world peace is True Happiness.
+
+The difference between happiness and True Happiness is this: <strong>happiness is achieved by fulfilling or giving in to our desire. True Happiness is achieved by overcoming it.</strong> True Happiness is about giving. Happiness is mostly about taking. True Happiness is not dependent on anything. Happiness is always depends on something. Happiness is relative. True Happiness is absolute. Happiness needs to be satisfied. True Happiness does not need to be satisfied because it is already satified. Happiness is a chasing. True Happiness is a coming home. 
+
+found a higher happiness than that of ourselves. 
+
+
+However, there is a catch about happiness in that <strong>happiness could be attained in any ways imaginable</strong> from taking our kids our to dinner, sacrificing our lives for others, stealing billions of dollars, or getting a tattoo. 
+
+
+ Overmore, our instinct can be trained to where 
+
+
+
+
+
+
+
+
+
+We are sentient being who can percieve our own desire in order to act accordingly. This is precisely what sets us part of mere animals.
+
+Thus, the lowest form of happiness is 
+
+
+But is resisting our temptation difficult? Of course it is.
+
+
+Just like other animals, we, humans, are hardwired to be selfish. It is our instinct to be perserved ourselves and to 
+
+
+<hr>
+
+
+Since 
+
+
+However, 
+
+
+
+
+
+
+ our human's survival instinct to be selfish. , we are hardwired to be so.
+
+
+
+
+
+There have been many attempts in catagorizing the types of happiness. However, after throughly looking into various disciplines from Psychology to Religion, there are three main type of happiness which one could improved.
+
+
+
+
+
+For some, stealing from others could be a source of happiness. And for many, taking advantage of others is enjoyable and is deemed as 'smart' or sometimes even a desirable trait to be aspired for.
+
+
+
+But the characteristic of happiness is that if it is not developed, it will always resort to its lowest possible form which is to seek hapiness only for oneself. 
+
+
+There have been many attempts in catagorizing the types of happiness. However, after throughly looking into various disciplines from Psychology to Religion, there are three main type of happiness which one could improved.
+
+
+
+
+
+
+Whether or not the world could find peace all depends on how we seeks and define happiness. Happiness matters. It is what create our world, for good or for evil. It dictates people lives and decide how our world will be.
+
+
+
+
+
+World peace is not possible if we, humans, do not know what True Happiness is.
+
+
+
+Thus, <strong>happiness matters.</strong> 
+
+
+
+
+<h2>True Happiness is about overcoming our selfishness.</h2>
+<h2>Happiness is achieved by fulfilling our desire. True Happiness is achieved by overcoming it.</h2>
+<h2>True Happiness is found not by fulfilling in our own selfish desire but by overcoming it.</h2>
+
+ Despite how important happiness is in our lives as well as to the world, we, humans, have put so much emphasis on building and improving what is outside of ourselves that we have neglected and forgotten how and why we should develop what is inside of ourselves. 
+
+<h2>World Peace Begins with Learning About True Happiness</h2>
+
+<strong>So what then would give us world peace?</strong>
+
+<h2>Happiness is what create our world, for good or for evil.</h2>
+
+Happiness, by <a href="/principles_of_happiness/what_is_happiness">definition</a>, is a match between what we want from reality and what reality is. However, no where does the definition of happiness tells us what to want or what we should change the reality into. Its only requirement is for us is to match the reality with our want in order to produce happiness. Thus, <strong>happiness could be attained in any ways imaginable</strong> from taking our kids our to dinner, sacrificing our lives for others, stealing billions of dollars, or getting a tattoo. For some, stealing from others could be a source of happiness. And for many, taking advantage of others is enjoyable and is deemed as 'smart' or sometimes even a desirable trait to be aspired for.
+
+Happiness if not developed always resorted to its lowest possible form which is to seek hapiness only for oneself. There have been many attempts in catagorizing the types of happiness. However, after throughly looking into various disciplines from Psychology to Religion, there are three main type of happiness which one could improved.
+
+
+
+<h2>World Peace can not be achieved by changing what is outside of us, it is achieved through developing our happiness.</h2>
+
+
+
+
+
+<hr>
+
+Our happiness is always outside of us. If I buy this house, I would be happy. If I get this job, I would be happy. If I could be marry this person, I would be happy. 
+
+<h2>World Peace can not be achieved by changing what is outside of us, it is achieved through developing our happiness.</h2>
+
+
+We all seeks to be better and more power in order to be able to control the world. But does making everyone more educated powerful lead us toward world peace?
+
+Giving everyone a big house, and lots of education and money will not stop people from their insatiable greed to have more of this world. 
+
+Thus, 
+
+
+We all want to be give our children the best education but 
+
+
+
+
+We all want to have technologically advanced
+
+But Would being technologically advanced give us world peace?
+
+We all want to be more skilled and educated
+
+But would giving people more and more power lead us toward world peace?
+
+
+
+
+
+Would education leads to world peace if 
+
+Would the world be peaceful 
+
+
+
+or would giving people more and more power and skills lead us toward world peace?
+
+would the world be peaceful if everyone's wishes come true?
+
+would the world be peaceful if 
+
+I would not think so.
+
+Would making the everyone in the world richer give us world peace?
+
+We all want to have technologically advanced
+
+But Would being technologically advanced give us world peace?
+
+We all want to be more skilled and educated
+
+But would giving people more and more power lead us toward world peace?
+
+Would education leads to world peace if
+
+Would the world be peaceful
+
+or would giving people more and more power and skills lead us toward world peace?
+
+would the world be peaceful if everyone’s wishes come true?
+
+would the world be peaceful if
+
+I would not think so.
+
+<strong>What would give us world peace?</strong>
+
+As long as people today still seeks happiness by "taking" rather than "giving", there will be no peace in this world.
+
+As long as people today still seeks happiness in being more power for themselves more than for the benefits of all, there will be no peace in this world.
+
+As long as people today still seeks happiness only for their own riches without any regards for others or the environment, there will be no peace in this world.
+
+If today it rains in gold, people would fight and kill one another for it. It's all for themselves.
+
+<h2>World Peace is not possible without True Happiness.</h2>
+
+There is a world difference between what happiness is and what True Happiness is. Happiness, by <a href="/principles_of_happiness/what_is_happiness">definition</a>, is a match between what we want from reality and what reality is. However, no where does the definition of happiness tells us what to want or what we should change the reality into. Its only requirement is for us is to match the reality with our want in order to produce happiness. Thus, <strong>happiness could be attained in any ways imaginable</strong> from taking our kids our to dinner, sacrificing our lives for others, stealing billions of dollars, or getting a tattoo. For some, stealing from others could be a source of happiness. And for many, taking advantage of others is enjoyable and is deemed as 'smart' or sometimes even a desirable trait to be aspired for.
+
+There are many different level of happiness. The first one 
+
+
+
+
+So what then is True Happiness? And how is it different from normal happiness?
+
+1. True Happiness is not to satisfied oneself.
+
+2. True Happiness is not to have it all but to be satisfied with what is.
+
+3. True Happiness is not the happiness you gain from satisfying yourself.
+
+4. True Happiness does not depends on anything.
+
+5. True Happiness is the highest form of happiness.
+
+6. Happiness can and must be developed through self-mastery to achieve True Happiness.
+
+7. Happiness = ตัณหา True Happiness = ฉันทะ
+
+8. Happiness is for oneself. True Happiness is for all or others or non-self or for the thing sake.
+
+9 True happiness is to give, not to take.
+
+10. True Happiness does need to be satified because it already is.
+
+11. True Happiness is not of chasing but of coming home.
+
+12. True Happiness comes with Truth.
+
+13. 
+
+<h2>Learning to find True Happiness is the best way toward true peace.</h2>
+<h2>Learning to find True Happiness is the best and highest possible thing for human being.</h2>
+<h2>Learning to find True Happiness is good for ourselves, it allows ourselves to transform, and also transform others and also save the world</h2>
+
+<h2>Learning how to find True Happiness is therefore learning how to save the world.</h2>
+
+
+
+
+Happiness Development is the goal of this website.
+
+Level of Happiness
+
+1. Self-Indulgent.
+
+2. Selfless.
+
+
+True Happiness is not for oneself.
+
+
+
+
+Whatever is the case, what is important here is that happiness matters. It dictates people lives and decide how our world will be.
+
+
+<h2>World peace is not possible without True Happiness.</h2>
+
+There is a world difference between what happiness is and what True Happiness is. True Happiness is selfless. Its goal is to find peace and satisfaction from within. 
+
+
+
+
+
+
+So what will save this world?
+
+
+And when we don't look hard enough at what happiness really is. We, humans, become the victim of our own quest for happiness. The problem we have here is nicely summerised by one of the most famous scienctist of all time, Albert Einstein.
+
+<blockquote>Confusion of goals and perfection of means seems, in my opinion, to characterize our age.<br>- Albert Einstein</blockquote>
+
+What we, humans, have is "the perfection of means" to achieve whatever we could desire. Yet, we never really question ourselves about what to want in life. And when we don't look into what we should want in life, we ended up wanting whatever others want.
+
+
+
+<hr>
+
+Would the rich stop fighting with one another? If it rains tomorrow can we expect there to be no fighting among ourselves?
+
+True Happiness is 
+
+
+
+
+True Happiness is what set humans apart from being merely animals
+
+True Happiness is the best way to save the world.
+
+True Happiness is complete solution for life.
+
 What sets human apart of animal?
 
 
 What is the best way save the world?
 
-If people today seeks happiness by "taking" rather than "giving," would the world find peace if it rains in gold tomorrow? 
+If people today seeks happiness by "taking" rather than "giving," would the world find peace even if it rains in gold tomorrow? 
 
-If people today seeks happiness by gaining more power for themselves rather than being better for others, would the world find peace in justice and equality tomorrow?
+If people today seeks happiness by gaining more power for themselves rather than for the benefits of all, would the world find peace, justice and equality tomorrow?
 
 If people today seeks happiness only for their own rich without any regards for others or the environment, would the world find peace tomorrow if ?
 
@@ -22,13 +420,7 @@ If people today seeks happiness in only finding their own rich regardless of oth
 
 If people today seeks happiness is 
 
-
-
-
-Everybody in the whole can be rich, they can be healthy, they be equiped with all the best tools and technology, but world would still not find peace.
-
-
-
+Everybody in the world can be rich, they can be healthy, they be equiped with all the best tools and technology, but world would still not find peace.
 
 Is making everybody rich the answer? Is giving people more knowledge the answer? 
 
@@ -63,13 +455,16 @@ How would true happiness save the world?
 The best world is not a world with the perfect law, but the world with perfect self-awareness. The best police in the wolrd is our mindfulness.
 
 
-The world would be a difference place if everyone knows the different between happiness and True Happiness. Happiness, by the definition we've learn earlier <a href="/principles_of_happiness/what_is_happiness">here</a>, is a match between what we want from reality and what reality is. However, no where does the definition of happiness tells us what to want or what we should change the reality into. Its only requirement is for us to match our want and the reality in order to produce happiness. Thus, happiness could be attained in any ways imaginable from taking our kids our to dinner, sacrificing our lives for others, stealing billions of dollars, or getting a tattoo. For some, stealing from others could be a source of happiness. And for many, taking advantage of others is deemed as 'smart' and sometimes even a desirable ability to be aspired for.
+The world would be a difference place if everyone knows the different between happiness and True Happiness. 
 
-The problem we have here is nicely summerised by one of the most famous scienctist of all time, Albert Einstein.
+Happiness, by the definition we've learn earlier <a href="/principles_of_happiness/what_is_happiness">here</a>, is a match between what we want from reality and what reality is. However, no where does the definition of happiness tells us what to want or what we should change the reality into. Its only requirement is for us to match our want and the reality in order to produce happiness. Thus, happiness could be attained in any ways imaginable from taking our kids our to dinner, sacrificing our lives for others, stealing billions of dollars, or getting a tattoo. For some, stealing from others could be a source of happiness. And for many, taking advantage of others is deemed as 'smart' and sometimes even a desirable ability to be aspired for.
 
-<blockquote>Confusion of goals and perfection of means seems, in my opinion, to characterize our age.<br>- Albert Einstein</blockquote>
 
-What we, humans, have is "the perfection of means" to achieve whatever we could desire. Yet, the real question that we do not often asked is "what and how should we want?" When we have "the perfection of means" with the "confusion of goals" what we get is the world we are living in. A world full of social problems, full of people taking advantages of one another, a world of chaos. 
+
+
+
+
+Yet, the real question that we do not often asked is "what and how should we want?" When we have "the perfection of means" with the "confusion of goals" what we get is the world we are living in. A world full of social problems, full of people taking advantages of one another, a world of chaos. 
 
 
 
@@ -221,6 +616,8 @@ It's good for you.
 It's good for everyone around you.
 
 It's good for the world.
+
+ -->
 
 
 <div>
