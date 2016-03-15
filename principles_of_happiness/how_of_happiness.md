@@ -5,9 +5,11 @@ description: "The Problem Here Is Not So Much That We Cannot Change As Much As W
 header-img: "img/about-bg.jpg"
 ---
 
-<p>To find True Happiness, we must to be willing to change ourselves. There is no way around it. It is the process of learning to understand and better ourselves. The actual process of master ourselves is not hard. What is hard about changing ourselves is the fact that <strong>we do not, cannot, and do not want to alter our own desire.</strong> <strong>The problem here is not so much that we cannot change as much as we do not want to change ourselves.</strong>  I never hear anyone defines happiness as  “how to want what we get.” It’s always the other way around. Worse we say, "It’s what I want, why would I question my own want?”, "It’s what I hate, why I would alter myself to not hate?” The only time we ever decide to change our want is when our unattainable wants has become unbearable. It is the only after the damage that our wants have caused that we are willing to change. This is the common attitude which makes our desire so difficult to change which, in turn, makes it so difficult for us to be happy.</p>
+<p>To find True Happiness, we must to be willing to change ourselves. There is no way around it. It is the process of learning to understand and better ourselves. The actual process of mastering ourselves is not hard. What is hard about changing ourselves is the fact that <strong>we do not, cannot, and do not want to alter our own desire.</strong></p>
 
-<h2>4 Core Habits to True Happiness</h2>
+<p><strong>The problem here is not so much that we cannot change as much as we do not want to change ourselves.</strong>  I never hear anyone defines happiness as  “how to want what we get.” It’s always the other way around. Worse we say, "It’s what I want, why would I question my own want?”, "It’s what I hate, why I would alter myself to not hate?” The only time we ever decide to change our want is when our unattainable wants has become unbearable. It is the only after the damage that our wants have caused that we are willing to change. This is the common attitude which makes our desire so difficult to change which, in turn, makes it so difficult for us to be happy.</p>
+
+<h2>Four Core Habits to True Happiness</h2>
 
 <ol>
 	<li><strong>Know Thyself at All Times</strong></li>

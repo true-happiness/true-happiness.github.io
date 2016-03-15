@@ -7,11 +7,11 @@ header-img: "img/about-bg.jpg"
 
 Would making the everyone in the world richer give us world peace? 
 
-We are so focused on generating incomes and raising GDP. But even if it rains in gold today, can we expect people to be happy and satified with what they have or can we expect a war where people would fight and kill one another for it. 
+We are so focused on generating incomes and raising GDP. But even if it rains in gold today, can we expect people to be happy and satisfied with what they have or can we expect a war where people would fight and kill one another for it. 
 
 <!-- We believe in making the world better and more efficient through technology. But even if we all have the best and latest technology in our hands, would that give us world peace?
  -->
-We have poured billions of dollars into bettering our education system but does giving humans more power and skills without teaching them how to excerise that power lead us toward world peace? Or will we, once again, run in Theodore Roosevelt's truism whic he stated:
+We have poured billions of dollars into bettering our education system but does giving humans more power and skills without teaching them how to excecise that power lead us toward world peace? Or will we, once again, run in Theodore Roosevelt's truism which he stated:
 
 <blockquote>A man who has never gone to school may steal from a freight car; but if he has a university education, he may steal the whole railroad."</blockquote>
 
@@ -25,9 +25,9 @@ As long as people today still seeks happiness in taking advantage of others, the
 
 <h2>World Peace is Not Possible Without True Happiness.</h2>
 
-There is a world difference between what happiness and True Happiness is. <strong>Happiness is achieved by fulfilling our desire. True Happiness is achieved by overcoming it.</strong> True Happiness is about giving. Happiness is mostly about taking. True Happiness is not dependent on anything. Happiness is always depends on something. Happiness is relative happiness. True Happiness is absolute happiness. Happiness needs to be satisfied. True Happiness is the state of already being satisfied. Happiness is a chasing. True Happiness is that of a coming home. 
+There is a world difference between what happiness and True Happiness is. <strong>Happiness is achieved by fulfilling our desire. True Happiness is achieved by overcoming it.</strong> True Happiness is about giving. Happiness is mostly about taking. True Happiness is not dependent on anything. Happiness is always depend on something. Happiness is relative happiness. True Happiness is absolute happiness. Happiness needs to be satisfied. True Happiness is the state of already being satisfied. Happiness is a chasing. True Happiness is that of a coming home. 
 
-The problem with happiness is that <strong>happiness could be attained in any ways imaginable</strong> from taking our kids our to dinner, sacrificing our lives for others, stealing billions of dollars, or getting a tattoo. By <a href="/principles_of_happiness/what_is_happiness">definition</a>, happiness is a match between what we want from reality and what reality is. No where does the definition of happiness tells us what to want or what we should change the reality into. Its only requirement is for us is to match the reality with our want in order to produce happiness. This therefore leave us with a freedom to want anything.
+The problem with happiness is that <strong>happiness could be attained in any ways imaginable</strong> from taking our kids to dinner, sacrificing our lives for others, stealing billions of dollars, or getting a tattoo. By <a href="/principles_of_happiness/what_is_happiness">definition</a>, happiness is a match between what we want from reality and what reality is. No where does the definition of happiness tells us what to want or what we should change the reality into. Its only requirement is for us is to match the reality with our want in order to produce happiness. This therefore leave us with a freedom to want anything.
 
 Despite the nebulous nature of happiness, happiness could still be generalized into 3 main types.
 
@@ -37,13 +37,13 @@ Despite the nebulous nature of happiness, happiness could still be generalized i
 
 3. True Happiness
 
-Happiness if not developed always resort to the lowest possible form which is to seek hapiness only for oneself. This tendency to be selfish is innate and hardwired in our instinct. It is what living things do perserve itself and survive. This is precisely the reason why the world run by the law of "survial of the fittest". This is why we are fighting and taking advantagous of one another. This is why the world in some sense could be cruel and heartless.
+Happiness if not developed always resort to the lowest possible form which is to seek happiness only for oneself. This tendency to be selfish is innate and hardwired in our instinct. It is what living things do preserve itself and survive. This is precisely the reason why the world run by the law of "survival of the fittest". This is why we are fighting and taking advantageous of one another. This is why the world in some sense could be cruel and heartless.
 
-However, this does not mean that we can't change it. In fact, there is one crucial factor which sets humans apart from mere animals. And that is our ability <strong>to know ourselves.</strong> Animals do not have such privilege. When a mosquitos sees a blue light, its instinct tells it to fly toward it even though it might me a zapper. When the moth sees a flame, it has no choice but to instinctively fly toward the fire and its own death. Humans have similar instinct. When we see something we want, we want to take it. When we see a person we romantically interested we want to have him or her. Thus, what sets human apart is our <strong>ability to know and train our own instinct.</strong> This is why when we are attracted to someone we think twice before approaching someone. This is why even though we want something we do not steal.
+However, this does not mean that we can't change it. In fact, there is one crucial factor which sets humans apart from mere animals. And that is our ability <strong>to know ourselves.</strong> Animals do not have such privilege. When a mosquito sees a blue light, its instinct tells it to fly toward it even though it might me a zapper. When the moth sees a flame, it has no choice but to instinctively fly toward the fire and its own death. Humans have similar instinct. When we see something we want, we want to take it. When we see a person we romantically interested we want to have him or her. Thus, what sets human apart is our <strong>ability to know and train our own instinct.</strong> This is why when we are attracted to someone we think twice before approaching someone. This is why even though we want something we do not steal.
 
 This leads us to the main point of this article which is...
 
-<h2>Happiness Can and Must be Developed</h2>
+<h2>Happiness Can and Must Be Developed</h2>
 
 We, humans, have put so much emphasis on building and improving what is outside of ourselves that we have neglected and forgotten how and why we should develop what is inside of ourselves. Happiness is what create our world, for good or for evil. It dictates people lives and decide how our world will be. Thus, happiness matters.
 
@@ -51,7 +51,7 @@ World peace can not be achieved by changing what is outside of us, it is achieve
 
 It is the task that is needed most in todays world where happiness for oneself rules over the happiness for others. It is the task endowed specifically to humans to better ourselves. 
 
-So not only will you find True Happiness to make you a happier person anywhere at any time, but it will also benefits this world as a whole. This is what this website is about.
+So not only will you find True Happiness to make you a happier person anywhere at any time, but it will also benefit this world as a whole. This is what this website is about.
 
 <strong>World Peace Begins Here.</strong>
 
