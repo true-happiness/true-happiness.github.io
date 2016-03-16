@@ -587,3 +587,19 @@ ol, ul {
 ol li {
   list-style-type: decimal;
 }
+#table_of_contents ul li {
+  list-style-type: none;
+}
+#table_of_contents p {
+  margin:5px 0;
+}
+#table_of_contents .section-heading {
+  margin-top: 20px;
+}
+#table_of_contents a {
+  text-decoration: none;
+}
+.short {
+  margin-top: 0;
+  max-width: 50px;
+}
