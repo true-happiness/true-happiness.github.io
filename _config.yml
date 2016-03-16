@@ -6,9 +6,11 @@ email: laohasongkram.supakorn@gmail.com
 description: "This is a blog written by Supakorn Laohasongkram for others to learn more about how to become happier in life."
 baseurl: ""
 url: "http://true-happiness.github.io"
+
 twitter_username: klaoha06
 github_username:  klaoha06
 facebook_username:  true-happiness.github.io
+wordpress_url: https://truehappinessnow.wordpress.com/
 
 # Build settings
 gems: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-feed']
