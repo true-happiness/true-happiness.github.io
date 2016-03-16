@@ -4,17 +4,29 @@ layout: default
 
 {% assign post = page %}
 
+<div itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content="{{site.url}}" itemprop='blogId'/>
+<meta content="{{site.url}}{{ post.url }}" itemprop='postId'/>
+
 <!-- Post Header -->
 <header class="intro-header">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
-                    <h1>{{ page.title }}</h1><hr class="rainbow">
+                    <h1 itemprop='name'>{{ page.title }}</h1><hr class="rainbow">
                  <!--    {% if page.subtitle %}
                     <h4 class="subheading">{{ page.subtitle }}</h4>
                     {% endif %} -->
-                    <span class="meta">By {% if page.author %}<a href="/about" style="color:#808080;">{{ page.author }}</a>{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
+                    <div id="post_info" class="text-center">
+                        <span class="meta" itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person' style="display: inline;">
+                            By {% if page.author %}
+                            <meta content='{{site.url}}' itemprop='url'/>
+                            <a href="/about" style="color:#808080;"><span itemprop='name'>{{ page.author }}</span></a>
+                            {% else %}{{ site.title }}{% endif %} on 
+                        </span>
+                        <span itemprop='datePublished' title='{{ page.date }}'>{{ page.date | date: "%B %-d, %Y" }}</span>
+                    </div>
                 </div>
             </div>
         </div>
@@ -24,7 +36,7 @@ layout: default
 <article>
     <div class="container post_content_padding">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" itemprop='description articleBody'>
 				{{ content }}
 
                 {% if post.tags.size > 0 %}
@@ -103,3 +115,4 @@ layout: default
         </div>
     </div>
 </article>
+</div>

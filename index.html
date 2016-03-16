@@ -3,20 +3,30 @@ layout: page
 header-img: "img/logo.png"
 header-author: "Supakorn Laohasongkram"
 ---
+<div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+<meta content='True Happiness' itemprop='name'/>
+</div>
 
 {% for post in paginator.posts %}
-<div class="post-preview">
+<div class="post-preview" itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+    <meta content="{{site.url}}" itemprop='blogId'/>
+    <meta content="{{site.url}}{{ post.url }}" itemprop='postId'/>
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">            {{ post.title }}
+        <h2 class="post-title" itemprop='name'>            {{ post.title }}
         </h2>
         {% if post.subtitle %}
-        <h3 class="post-subtitle">
+        <h3 class="post-subtitle" itemprop='description'>
             {{ post.subtitle }}
         </h3>
         {% endif %}
     </a>
     <!-- <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p> -->
-    <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+    <meta content="{{site.url}}{{ post.url }}" itemprop='url'/>
+    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+    <meta content='{{site.url}}' itemprop='url'/>
+    <span itemprop='name' style="display: none;">{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</span>
+    </span>
+    <p class="post-meta" itemprop='datePublished' title='{{ post.date }}'>{{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}

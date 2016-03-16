@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+<div itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content="{{site.url}}" itemprop='blogId'/>
+<meta content="{{site.url}}{{ page.url }}" itemprop='postId'/>
 
 <!-- Page Header -->
 <header class="intro-header">
@@ -8,7 +11,7 @@ layout: default
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
                 <div class="site-heading">
-                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <h1 itemprop='name'>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
                     <hr class="rainbow">
                     <span class="subheading">{{ page.description }}</span>
                 </div>
@@ -20,8 +23,16 @@ layout: default
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" itemprop='description articleBody'>
 			{{ content }}
 		</div>
 	</div>
+</div>
+
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='{{site.url}}' itemprop='url'/>
+<span itemprop='name' style="display: none;">{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}</span>
+</span>
+<p style="display: none;" itemprop='datePublished' title='{{ page.date }}'>{{ post.date | date: "%B %-d, %Y" }}</p>
+
 </div>
