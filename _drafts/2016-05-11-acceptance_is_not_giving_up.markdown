@@ -1,0 +1,9 @@
+---
+layout:     post
+title:      "Acceptance Is Not Giving Up"
+subtitle:   ""
+date:       2016-04-16 12:00:00
+author:     "Supakorn Laohasongkram"
+tags: ['practice-of-true-happiness']
+---
+https://www.youtube.com/watch?v=YvOoKHFwqfw

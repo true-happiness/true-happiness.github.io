@@ -4,7 +4,7 @@ title:      "Empty Handed Full Hearted"
 date:       2015-11-21 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-02.jpg"
-tags: ['why-am-i-unhappy']
+tags: ['']
 ---
 
 <p>We often load ourselves up when we travel, because we want to be prepared for various situations. This burden of being prepared leaves us with our arms full, unable to receive whatever is there when we arrive.</p>

@@ -1,14 +1,40 @@
 ---
 layout:     post
-title:      "Complete Guide to Meditation"
+title:      "Why Meditate?"
 subtitle:   ""
-date:       2016-02-20 12:00:00
+date:       2016-03-16 12:00:00
 author:     "Supakorn Laohasongkram"
-header-img: "img/post-bg-02.jpg"
-tags: ['']
+tags: ['practice-of-true-happiness']
 ---
 
-<h2>Why Meditate?</h2>
+There are three goals in meditation.
+
+<ol>
+	<li>
+		To see the true nature of ourselves
+	</li>
+	<li>
+		To experience peace and happiness
+	</li>
+	<li>
+		To become skillful at managing our own desire
+	</li>
+</ol>
+
+Meditation must be practice regularly like when you want to start a fire. You can't pause until you generate enough heat for the wood to catch fire. Meditation is the same.
+
+<h2>How does meditation leads one to True Happiness?</h2>
+
+
+
+<h2>How is it related to mindfulness?</h2>
+<h2>What do people who practice meditation regular gains? How would it improve my daily life?</h2>
+
+<h2>Life Changing</h2>
+
+Meditation, unlike its the general conception, is not always sitting down and watch your breathing.
+
+
 
 Meditation is the tool to make us happy.
 
@@ -53,5 +79,13 @@ When we do sitting meditation or mindfulness with breathing, we simply know the 
 What is mindfulness?
 
 Mindfulness is simply to know. 
+
+All in all, I could tell you all day about how something taste like; but for you to know how it actually taste you have to be the one who try it.
+
+All in all, I could talk about why you should meditate; but in the end only you through meditation will find out for yourself why you should meditate.
+
+This is not a knowledge you gain from reading a book. It is the knowledge you gain from within through practice. 
+
+
 
 
