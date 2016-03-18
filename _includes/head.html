@@ -3,10 +3,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta property="og:image" content="link_to_image">
     <link rel="alternate" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" hreflang="en" />
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | True Happiness</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
