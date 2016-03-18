@@ -5,11 +5,17 @@ layout: default
 {% assign post = page %}
 
 <div itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+
 <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{site.url}}"/>
+
 <meta content='{{ site.url }}{{ page.url }}' itemprop='url'/>
+
 <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
   <meta itemprop="url" content="{{site.url}}{{site.logo}}">
+  <meta itemprop="width" content="1200">
+  <meta itemprop="height" content="630">
 </div>
+
 <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
   <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
     <meta itemprop="url" content="{{site.url}}{{site.logo}}">
@@ -25,7 +31,7 @@ layout: default
                 <div class="post-heading">
                     <h1 itemprop='name headline'>{{ page.title }}</h1><hr class="rainbow">
                  <!--    {% if page.subtitle %}
-                    <h4 class="subheading">{{ page.subtitle }}</h4>
+                    <h4 class="subheading" itemprop='description'>{{ page.subtitle }}</h4>
                     {% endif %} -->
                     <div id="post_info" class="text-center">
                         <span class="meta" itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person' style="display: inline;">
@@ -44,7 +50,7 @@ layout: default
 <article>
     <div class="container post_content_padding">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" itemprop='description articleBody'>
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" itemprop='articleBody'>
 				{{ content }}
 
                 {% if post.tags.size > 0 %}
