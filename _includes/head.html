@@ -35,7 +35,7 @@
     <![endif]-->
 
     <!-- facebook Open Graph Metadatas -->
-    <meta content="120242138335958" property="fb:app_id">
+    <meta content="551919411635360" property="fb:app_id">
     <meta content="{{ site.title }}" property="og:site_name">
     {% if page.title %}
       <meta content="{{ page.title }}" property="og:title">
@@ -47,6 +47,7 @@
     {% else %}
       <meta content="website" property="og:type">
     {% endif %}
+      <meta content="{{ site.url }}{{ site.logo }}" property="og:image">
     {% if page.description %}
       <meta content="{{ page.description }}" property="og:description">
     {% else %}
@@ -59,7 +60,6 @@
       <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
       <meta content="{{ site.url }}/about/" property="article:author">
     {% endif %}
-      <meta content="{{ site.url }}/img/logo.png" property="og:image">
     {% if page.categories %}
       {% for category in page.categories limit:1 %}
       <meta content="{{ category }}" property="article:section">
