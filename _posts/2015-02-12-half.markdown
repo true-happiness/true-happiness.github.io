@@ -3,7 +3,7 @@ layout:     post
 title:      "The Half Step That Will Change Your Life"
 subtitle:   "The journey of a thousand miles begins with a single step."
 date:       2015-02-12 12:00:00
-author:     "Start Bootstrap"
+author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-06.jpg"
 tags: [self-improvement]
 ---
