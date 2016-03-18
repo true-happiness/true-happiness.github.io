@@ -16,7 +16,7 @@ tags: ['why-am-i-unhappy']
 	Meaning emernate from the function of difference. What I mean by that is meaning is only possible by comparing two things. The meaning of something is emernate from what it is not. How
 </p> -->
 
-<img src="/img/stick.jpg">
+<img src="http://true-happiness.github.io/img/stick.jpg"/>
 
 <p>One of the most reowned Theravada Buddhist Monk in Thailand, "Ajahn Chah," once asked his disciples if a wooden stick--just like the one in the picture above--is long or short. Some answered, "It is long." Some answered, "It is short." But Ajahn Chah's answer was not what one would unexpected. His answer is that the stick is neither long nor short. It is only long if we want it to be short. And it is short only if you want it to be long. Thus, the wooden stick is neither short or long. It is what it is. Only our want make it so.</p>
 

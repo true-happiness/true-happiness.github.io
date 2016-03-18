@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    >
   <channel>
     <title>True Happiness</title>
     <description>This is a blog written by Supakorn Laohasongkram for all to learn more about the science and practice of how to become happier in life.</description>
     <link>http://true-happiness.github.io/</link>
     <atom:link href="http://true-happiness.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 18 Mar 2016 15:10:10 +0700</pubDate>
-    <lastBuildDate>Fri, 18 Mar 2016 15:10:10 +0700</lastBuildDate>
+    <pubDate>Fri, 18 Mar 2016 15:29:05 +0700</pubDate>
+    <lastBuildDate>Fri, 18 Mar 2016 15:29:05 +0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
         <title>Cause of Unhappiness Part Four: Mistake in Life</title>
-        <creator>Supakorn Laohasongkram</creator>
+        <dc:creator>Supakorn Laohasongkram</dc:creator>
         <description>&lt;blockquote&gt;You can&#39;t change or erase what happened in the past, all you can change is your attitude toward it.&lt;/blockquote&gt;
 
 &lt;p&gt;Mistake in life is not to be taken lightly. For some, one mistake could define who they are and enslaves our lives in an unending quest to redeem or fix the mistake that we have done in the past. So let’s first begin by understanding what mistake is and how it effects our happiness.&lt;/p&gt;
@@ -83,7 +86,7 @@
     
       <item>
         <title>Cause of Unhappiness Part Three: Fear of Being Meaningless</title>
-        <creator>Supakorn Laohasongkram</creator>
+        <dc:creator>Supakorn Laohasongkram</dc:creator>
         <description>&lt;p&gt;
 	One of the worst fear of our lives is that we become meaningless. Whether this would be meaningless to oneself, meaningless to others, or meaningless to the world. Meaninglessness comes in various forms. The feeling of being useless, most evident in today society where everything is about productivity, to a feeling of inadequency. At True Happiness, this is an important concept to understand as often times, we, humans, equate our self-worth with our meaning. So let&#39;s dig a little deeper on this subject of meaninglessness to see where we could find True Happiness in this.
 &lt;/p&gt;
@@ -92,7 +95,7 @@
 	Meaning emernate from the function of difference. What I mean by that is meaning is only possible by comparing two things. The meaning of something is emernate from what it is not. How
 &lt;/p&gt; --&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/stick.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://true-happiness.github.io/img/stick.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;One of the most reowned Theravada Buddhist Monk in Thailand, &quot;Ajahn Chah,&quot; once asked his disciples if a wooden stick--just like the one in the picture above--is long or short. Some answered, &quot;It is long.&quot; Some answered, &quot;It is short.&quot; But Ajahn Chah&#39;s answer was not what one would unexpected. His answer is that the stick is neither long nor short. It is only long if we want it to be short. And it is short only if you want it to be long. Thus, the wooden stick is neither short or long. It is what it is. Only our want make it so.&lt;/p&gt;
 
@@ -177,7 +180,7 @@ How does meaningless cause us unhappiness?
     
       <item>
         <title>Science of Happiness</title>
-        <creator>Supakorn Laohasongkram</creator>
+        <dc:creator>Supakorn Laohasongkram</dc:creator>
         <description>&lt;p&gt;If I know water would boil at a 100 degrees Celsius. Do I need to hope it would boil at 100 degree Celsius? Or even if I do not want the water to be boiled, could I desire the water not to be boiled even if I heat it up to 100 degrees Celsius?&lt;/p&gt;
 
 &lt;p&gt;Similarly, I can hope, dance, or pray—or do all three at once—for it to rain tomorrow. However, if the causes are not right, it will not rain. Or maybe I do not want it to rain tomorrow. But again, if the conditions are right for it rain, it will rain regardless of what I want or do not want.&lt;/p&gt;
@@ -219,7 +222,7 @@ How does meaningless cause us unhappiness?
     
       <item>
         <title>The Six Greatest Gifts You Can Give Your Loved Ones</title>
-        <creator>Supakorn Laohasongkram</creator>
+        <dc:creator>Supakorn Laohasongkram</dc:creator>
         <description>&lt;blockquote&gt;&lt;p&gt;&amp;#8220;So if we love someone, we should train in being able to listen. By listening with calm and understanding, we can ease the suffering of another person.&amp;#8221; &lt;strong&gt;&amp;#8211; Thich Nhat Hanh&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;It&amp;#8217;s Christmastime and it&amp;#8217;s the season of giving &amp;#8230; what are you giving your loved ones this year?&lt;/p&gt;
 &lt;p&gt;The holidays often mean giving a lot of gifts, sometimes expensive, but often we lose sight of what&amp;#8217;s most important.&lt;span id=&quot;more-2072&quot;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -244,7 +247,7 @@ How does meaningless cause us unhappiness?
     
       <item>
         <title>Cause of Unhappiness Part Two: Comparing Yourself to Others</title>
-        <creator>Supakorn Laohasongkram</creator>
+        <dc:creator>Supakorn Laohasongkram</dc:creator>
         <description>&lt;p&gt;Human&#39;s innate ability to compare ourselves to others is perhaps the root of all sins in life. Knowing that I am better create a sense of pride or even arrogant, while knowing that I am less create a sense of jealousy toward the other. There is no ends to our comparison unless we stop to put any value into it.&lt;/p&gt;
 
 &lt;p&gt;What I mean by &quot;no ends&quot; is this. Let&#39;s say that I want to be better than others. Once I meet someone who is worse of than I am then I become happy because I feel am better. But in reality, there is always someone who is better than you. So there is no ends to this quest of wanting to be better than other people. There is simply no happiness to be found in such unwholesome desire of trying to look better than other people.&lt;/p&gt;
@@ -276,7 +279,7 @@ How does meaningless cause us unhappiness?
     
       <item>
         <title>Cause of Unhappiness Part One: Misplacing Your Happiness</title>
-        <creator>Supakorn Laohasongkram</creator>
+        <dc:creator>Supakorn Laohasongkram</dc:creator>
         <description>&lt;blockquote&gt;Happiness is like a string which ties us to that which we believe is our happiness.&lt;/blockquote&gt;
 
 &lt;p&gt;Let&#39;s say for example that if you tie your happiness with being rich and accepted, then as long as you are not rich or accepted you can not be happy. Similarly if you rest your happiness on your promotion then the promotion itself becomes the happiness which you have put outside of yourself.&lt;/p&gt;
@@ -307,7 +310,7 @@ How does meaningless cause us unhappiness?
     
       <item>
         <title>Empty Handed Full Hearted</title>
-        <creator>Supakorn Laohasongkram</creator>
+        <dc:creator>Supakorn Laohasongkram</dc:creator>
         <description>&lt;p&gt;We often load ourselves up when we travel, because we want to be prepared for various situations. This burden of being prepared leaves us with our arms full, unable to receive whatever is there when we arrive.&lt;/p&gt;
 &lt;p&gt;It leaves us tired from carrying, so that we are not happy when we meet someone new on our travels.&lt;/p&gt;
 &lt;p&gt;What if we traveled with empty hands, ready to embrace new experiences, receive new foods, touch new people?&lt;/p&gt;
@@ -327,7 +330,7 @@ How does meaningless cause us unhappiness?
     
       <item>
         <title>Simplify</title>
-        <creator>Supakorn Laohasongkram</creator>
+        <dc:creator>Supakorn Laohasongkram</dc:creator>
         <description>&lt;blockquote&gt;&lt;p&gt;&amp;#8216;In proportion as he simplifies his life, the laws of the universe will appear less complex, and solitude will not be solitude, nor poverty poverty, nor weakness weakness.&amp;#8217; &lt;strong&gt;~Henry David Thoreau&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;The tendency of life in our society is to become more complicated: Internet, television, shopping, work, family commitments, possessions, eating, debt &amp;#8230; these things pile on top of each other endlessly.&lt;/p&gt;
 &lt;p&gt;This is a rather bad formula, as our days have a limited capacity, and so do we as humans. We can only do so much, only handle so many tasks and possessions and social commitments, and filling ourselves to those limits means we stress our breaking points.&lt;/p&gt;
@@ -360,7 +363,7 @@ How does meaningless cause us unhappiness?
     
       <item>
         <title>The Secret Habit to Success</title>
-        <creator>Supakorn Laohasongkram</creator>
+        <dc:creator>Supakorn Laohasongkram</dc:creator>
         <description>&lt;p&gt;In Og Mandino&amp;#8217;s self-help classic, &lt;a href=&quot;http://www.amazon.com/gp/product/055327757X?ie=UTF8&amp;#038;tag=zenhab-20&amp;#038;linkCode=as2&amp;#038;camp=1789&amp;#038;creative=9325&amp;#038;creativeASIN=055327757X&quot;&gt;The Greatest Salesman in the World&lt;/a&gt;&lt;img src=&quot;http://www.assoc-amazon.com/e/ir?t=zenhab-20&amp;#038;l=as2&amp;#038;o=1&amp;#038;a=055327757X&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;, one of his more powerful concepts is how to form good habits:&lt;/p&gt;
 &lt;blockquote&gt;&lt;p&gt;I will form good habits and become their slave.&lt;/p&gt;
 &lt;p&gt;&amp;#8230;&lt;/p&gt;
@@ -398,7 +401,7 @@ And I make a solemn oath to myself that nothing will retard my new life&amp;#821
     
       <item>
         <title>The Half Step That Will Change Your Life</title>
-        <creator>Supakorn Laohasongkram</creator>
+        <dc:creator>Supakorn Laohasongkram</dc:creator>
         <description>&lt;p&gt;You&amp;#8217;d be surprised to know how many emails I get where people are stuck in their lives.&lt;/p&gt;
 &lt;p&gt;They&amp;#8217;re broke, or unmotivated, or in a job they hate, or they can&amp;#8217;t find their passion, or they can&amp;#8217;t get motivated to get healthy.&lt;/p&gt;
 &lt;p&gt;And they don&amp;#8217;t know where to start.&lt;/p&gt;
