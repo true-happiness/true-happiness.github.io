@@ -2,7 +2,7 @@
 layout:     post
 title:      "Developing Selfless Compassion"
 date:       2012-09-18 12:00:00
-author:     "Start Bootstrap"
+author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-05.jpg"
 tags: ["compassion"]
 ---

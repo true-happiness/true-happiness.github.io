@@ -3,7 +3,7 @@ layout:     post
 title:      "How to Master the Art of Living"
 subtitle:   "Many say exploration is part of our destiny, but it’s actually our duty to future generations."
 date:       2014-07-08 12:00:00
-author:     "Start Bootstrap"
+author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-03.jpg"
 tags: ['passion']
 ---

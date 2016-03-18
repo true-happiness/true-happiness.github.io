@@ -3,7 +3,7 @@ layout:     post
 title:      "The No. 1 Habit of Highly Creative People"
 subtitle:   "Habits make goal, not the other way around."
 date:       2015-01-20 12:00:00
-author:     "Supakorn Laohasngkram"
+author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-06.jpg"
 tags: [self-improvement]
 ---

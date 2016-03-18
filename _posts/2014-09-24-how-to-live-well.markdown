@@ -3,7 +3,7 @@ layout:     post
 title:      "How to Live Well"
 subtitle:   "Problems look mighty small from 150 miles up"
 date:       2014-09-24 12:00:00
-author:     "Start Bootstrap"
+author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-06.jpg"
 tags: [passion, education, self-improvement]
 ---

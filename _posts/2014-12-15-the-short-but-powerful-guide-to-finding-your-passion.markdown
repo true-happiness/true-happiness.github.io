@@ -3,7 +3,7 @@ layout:     post
 title:      "The Short but Powerful Guide to Finding Your Passion"
 subtitle:   ""
 date:       2014-12-15 12:00:00
-author:     "Supakor Laohasongkram"
+author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-03.jpg"
 tags: ['passion']
 ---

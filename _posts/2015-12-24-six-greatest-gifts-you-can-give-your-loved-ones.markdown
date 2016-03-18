@@ -3,7 +3,7 @@ layout:     post
 title:      "The Six Greatest Gifts You Can Give Your Loved Ones"
 subtitle:   "So if we love someone, we should train in being able to listen."
 date:       2015-12-24 12:00:00
-author:     "Supakor Laohasongkram"
+author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-03.jpg"
 tags: []
 ---

@@ -3,7 +3,7 @@ layout:     post
 title:      "Why I don’t care about success"
 subtitle:   "Success is always overated."
 date:       2014-10-22 12:00:00
-author:     "Supakor Laohasongkram"
+author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-03.jpg"
 tags: ['passion']
 ---
