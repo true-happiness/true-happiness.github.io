@@ -3,8 +3,8 @@ layout:     post
 title:      "Cause of Unhappiness Part Four: Mistake in Life"
 subtitle:   "You can't change or erase what happened in the past, all you can change is your attitude toward it."
 date:       2016-03-09 12:00:00
-author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-02.jpg"
+author:     "Supakorn Laohasongkram"
 tags: ['why-am-i-unhappy']
 ---
 

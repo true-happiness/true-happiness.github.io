@@ -4,7 +4,7 @@ title:      "The Secret Habit to Success"
 subtitle:   ""
 date:       2015-05-30 12:00:00
 author:     "Supakorn Laohasongkram"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/logo.png"
 tags: [self-improvement]
 ---
 <p>In Og Mandino&#8217;s self-help classic, <a href="http://www.amazon.com/gp/product/055327757X?ie=UTF8&#038;tag=zenhab-20&#038;linkCode=as2&#038;camp=1789&#038;creative=9325&#038;creativeASIN=055327757X">The Greatest Salesman in the World</a><img src="http://www.assoc-amazon.com/e/ir?t=zenhab-20&#038;l=as2&#038;o=1&#038;a=055327757X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, one of his more powerful concepts is how to form good habits:</p>

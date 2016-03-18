@@ -4,7 +4,7 @@ title:      "How to Read More: A Lover’s Guide"
 subtitle:   "Reading is the door to other's soul."
 date:       2012-6-1 12:00:00
 author:     "Supakorn Laohasongkram"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/logo.png"
 tags: [self-improvement]
 ---
 

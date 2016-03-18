@@ -21,7 +21,7 @@ layout: default
                     <div id="post_info" class="text-center">
                         <span class="meta" itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person' style="display: inline;">
                             By {% if page.author %}
-                            <meta content='{{site.url}}' itemprop='url'/>
+                            <meta content='{{ site.url }}{{ page.url }}' itemprop='url'/>
                             <a href="/about" style="color:#808080;"><span itemprop='name'>{{ page.author }}</span></a>
                             {% else %}{{ site.title }}{% endif %} on 
                         </span>

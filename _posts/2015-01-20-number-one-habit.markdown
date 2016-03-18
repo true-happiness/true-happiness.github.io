@@ -4,7 +4,7 @@ title:      "The No. 1 Habit of Highly Creative People"
 subtitle:   "Habits make goal, not the other way around."
 date:       2015-01-20 12:00:00
 author:     "Supakorn Laohasongkram"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/logo.png"
 tags: [self-improvement]
 ---
 <blockquote><p>&#8220;In order to be open to creativity, one must have the capacity for contructive use of solitude. One must overcome the fear of being alone.&#8221;<strong> ~<a href="http://en.wikipedia.org/wiki/Rollo_May">Rollo May</a></strong></p></blockquote>

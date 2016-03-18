@@ -4,7 +4,7 @@ title:      "How to Live Well"
 subtitle:   "Problems look mighty small from 150 miles up"
 date:       2014-09-24 12:00:00
 author:     "Supakorn Laohasongkram"
-header-img: "img/post-bg-06.jpg"
+header-img: "img/logo.png"
 tags: [passion, education, self-improvement]
 ---
 <p>I&#8217;m not a rich man, nor do I fly around the world and drink champagne with famous people in exotic locales, nor do I own a sports car or SUV or a yacht.</p>
