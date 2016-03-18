@@ -6,7 +6,7 @@ category: 'yoyo'
 date:       2015-08-24 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-04.jpg"
-tags: ["passion"]
+tags: [""]
 ---
 
 <blockquote><p>&#8216;In proportion as he simplifies his life, the laws of the universe will appear less complex, and solitude will not be solitude, nor poverty poverty, nor weakness weakness.&#8217; <strong>~Henry David Thoreau</strong></p></blockquote>

@@ -4,7 +4,7 @@ layout: default
 
 {% assign post = page %}
 
-<div itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<div itemid="{{ site.url }}{{ page.url }}" itemscope itemtype='http://schema.org/BlogPosting'>
 
 <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{site.url}}"/>
 
