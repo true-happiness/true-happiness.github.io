@@ -7,7 +7,7 @@ author:     "Supakorn Laohasongkram"
 tags: ['practice-of-true-happiness']
 ---
 
-There are three goals in meditation.
+There are 3 goals in meditation.
 
 <ol>
 	<li>
@@ -23,12 +23,12 @@ There are three goals in meditation.
 
 <p>Meditation allows us to experience a state of stillness. When our mind is not looking for something it wants or not concern about what its dislike, our mind comes together to produce an experience of True Happiness.</p>
 
-<p>Be careful that the practice of mindfulness is <em>not</em> about not thinking or ignoring or denying the reality of our undesirable thoughts and feelings. Mindfulness is simply to be mindful of everything. All thoughts, feeling and everything that come our senses are <em>allowed.</em> The practice of mindfulness is not a judgement on ourselves. It is not a self-management exercise in which we must assert control over ourselves. It is a practice of knowing and being mindful of everything as it is.</p>
+<p>Be careful that the practice of mindfulness is <em>not</em> about not thinking or ignoring or denying the reality of our undesirable thoughts and feelings. Mindfulness is simply to be mindful of everything. All thoughts, feeling and everything that comes to our senses are <em>allowed.</em> The practice of mindfulness is not a judgment on ourselves. It is not a self-management exercise in which we must assert control over ourselves. It is a practice of knowing and being mindful of everything as it is.</p>
 
-<p>The more we come to know the nature of ourselves the more we will realise the three noble Truth of our lives which are:</p>
+<p>The more we come to know the nature of ourselves the more we will realize the three noble Truths of our lives which are:</p>
 
 <ul>
-<li>Everything-ourselves, our feelings, our attitude, our body, the world-is impermanent.</li>
+<li>Everything-ourselves, our feelings, our attitude, our body, or the world-is impermanent.</li>
 
 <li>Nothing lasted.</li>
 
@@ -41,13 +41,13 @@ There are three goals in meditation.
 
 <p>These are the Truth that your heart will come to know through meditation. It is not about knowing it intellectually. You can know that everything is impermanent in your thought but does your heart truly accept and understand that Truth? When someone we love pass away, regardless of how many books you read about impermanent, it is only the heart that decides our happiness.</p>
 
-<p>For this reason, we need to meditate in order to let our heart see the Truth for itself. It's not an intellectual discovery to be found in books or in logic. It's a spiritual discovery which comes from and by the heart  that see the Truth of life.</p>
+<p>For this reason, <strong>we need to meditate in order to let our heart see the Truth for itself.</strong> It's not an intellectual discovery to be found in books or in logic. It's a spiritual discovery which comes from and by the heart  that see the Truth of life.</p>
 <hr class='short'>
 
 Recommended readings about "Why we meditate?",
 <ul>
 <strong>Why Meditation Matters to The World?</strong>
 <li>If you are curious about why meditation is important to this world, click <a href="/principles_of_happiness/why_true_happiness/">here</a></li><br>
-<strong>What I Have Recieved From Meditation As a Long-Time Practitioner?</strong>
-<li>Click <a href="/principles_of_happiness/why_true_happiness/">here</a> to learn more about what I have recieved from my 10 years experience with meditation.</li>
+<!-- <strong>What I Have Received from Meditation as a Long-Time Practitioner?</strong>
+<li>Click <a href="/principles_of_happiness/why_true_happiness/">here</a> to learn more about what I have received from my 10 years experience with meditation.</li> -->
 </ul>
