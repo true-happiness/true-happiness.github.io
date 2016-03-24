@@ -34,7 +34,7 @@ As a practice, I suggest you to regularly review your life. I personally have a 
 
 Nevertheless, we are learning to be happy. So how could it be a bad journey right? So enjoy your road toward it. Have fun learning it. I promise you it&rsquo;s a beautiful journey.</p>
 
-<p>Knowing where your happiness truly belongs is a skill one which can be improve by learning to quickly identify where you have misplaced your happiness. This is what mindfulness is for. Let go of unnecessary desires because the less ties of "happiness" we have the easier for us to find happiness in life.</p>
+<p>Knowing where your happiness truly belongs is a skill one which can be improve by learning to quickly identify where you have misplaced your happiness. This is what mindfulness is for. (Click <a href="/tags/practice-of-true-happiness/">here</a> to learn more about the practice of True Happiness.) Let go of unnecessary desires because the less ties of "happiness" we have the easier for us to find happiness in life.</p>
 
 <blockquote>A happy life must always be simple no matter how complicate our lives have become.</blockquote>
 
