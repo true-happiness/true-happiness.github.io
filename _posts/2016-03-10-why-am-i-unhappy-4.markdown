@@ -10,7 +10,7 @@ tags: ['why-am-i-unhappy']
 
 <blockquote>You can't change or erase what happened in the past, all you can change is your attitude toward it.</blockquote>
 
-Mistake in life is not to be taken lightly. For some, one mistake could define who they are and enslaves our lives in an unending quest to redeem or fix the mistake that we have done in the past. So let's first begin by understanding what mistake is and how it effects our happiness.
+Mistake in life is not to be taken lightly. For some, one mistake could define who they are and enslave our lives in an unending quest to redeem or fix the mistake that we have done in the past. So let's first begin by understanding what mistake is and how it effects our happiness.
 
 <h2>Understanding the Nature of Life Mistake</h2>
 
@@ -18,15 +18,15 @@ Mistake in life is not to be taken lightly. For some, one mistake could define w
 
 When we do not reconcile or do not know how to reconcile with our mistake, the mistake becomes an open loop which endlessly haunts our lives. The more we wish to not think about our mistake, the more our minds irresistibly wander back to the mistake to relive it over and over again. Even though it might have happened years ago, or you might be at work or in the middle of a party, our mistake will not rest or give us a break. It will continue to enter into our conscious mind to remind us of its presence. 
 
-Worse, we even welcome it in our lives by letting the mistake take over us. This is similar to when you are sad and want to listen to a sad song just to make life sadder. We feel it is not enough for us to feel the pain of the mistake, so we begin rubbing the salt in the wound just so the pain can seep a little deeper.
-
+<!-- Worse, we even welcome it in our lives by letting the mistake take over us. This is similar to when you are sad and want to listen to a sad song just to make life sadder. We feel it is not enough for us to feel the pain of the mistake, so we begin rubbing the salt in the wound just so the pain can seep a little deeper.
+ -->
 <strong>2. The mistake itself is not what makes us unhappy. It's our attitude towards it that makes us unhappy.</strong><br>
 
 Mistake is fueled by our biases toward it. The more we resist, avoid, hide, deny, blame others, bend, or twist the reality of our mistake the more powerful it becomes in our lives. It draws power from our hate toward it. It draws power from our inability accept or come to term with it. It draws power from our feeling of guilt, depression, anger, frustration, self-hating, and embarrassment. All of which originate from our desire that the past should or should not have been otherwise. It's the void in our want from reality which could never be changed. The only way for a mistake to lose its power is for us to allow our mistake to be, without disliking it or denying its reality. This is how a mistake loses its power and slowly fade away from our lives.
 
 <strong>3. Mistake is by default inevitable.</strong>
 
-Nobody wants to make mistake. Yet, why do we make mistake? Nobody would make a mistake if they know ahead of time what would be the consequence of that action. <em>But the point here is we don't.</em> That is why we must make mistake. There is no avoiding it. So when we look back at our mistake in life especially ones that our minds often replay in our heads, it is important to understand that there was nothing for us to change the past. It is something that must happen the way it did and not any other way.
+Nobody wants to make mistake. Yet, why do we make mistake? Nobody would make a mistake if they know ahead of time what would be the consequence of that action. <em>But the point here is we don't.</em> That is why we must make mistake. There is no avoiding it. So when we look back at our mistake in life especially ones that our minds often replay in our heads, it is important to understand that there was nothing we can do to change the past. It is something that must happen the way it did and not any other way.
 
 <h2>Changing Our Attitude with Our Mistakes in Life</h2>
 
@@ -36,7 +36,7 @@ So how does one deal with one's mistake? Here are 4 definitive steps to overcomi
 
 <ul>
 	<li>
-		If we are unwilling to accept its consequences, then we are not ready to fully come to terms with our mistake. Have the courage to face your mistake. Be responsible for it. Don't run away from it. Mistake is by definition undesirable. But when we made a mistake, we must be mature enough to take full responsibility for it whether or not it directly or indirectly effects others. 
+		If we are unwilling to accept its consequences, then we are not ready to fully come to terms with our mistake. Have the courage to face your mistake. Be responsible for it. Don't run away from it. Mistake is by definition undesirable. But when we made a mistake, we must be strong and mature enough to take full responsibility for it whether or not it was intentionally or unintentionaly, whether it effects just you or many other people.
 	</li>
 </ul>
 
@@ -64,6 +64,6 @@ So how does one deal with one's mistake? Here are 4 definitive steps to overcomi
 
 <h2>Learning to Be with Your Mistake</h2>
 
-The best way to reconcile with any mistakes in life is to accept it. Accepting is different from justifying our wrong doing. Accepting our mistake is to understand that there is no way of going back to fix the past of what we have done. Accepting our mistake is to be courageous and mature enough to accept whatever outcome and ramification that come as the direct or indirect results of our mistake. Accepting is to see no value in brooding or regreting our mistake, but intead see the value in what is in front of us. It is to be in the now by taking in the mistake as is, not as what you hope or do not hope it would be.
+The best way to reconcile with any mistakes in life is to accept it. Accepting is different from justifying our wrong doing. Accepting our mistake is to understand that there is no way of going back to fix the past of what we have done. Accepting our mistake is to be courageous and mature enough to accept whatever outcome and ramification that come as the direct or indirect results of our mistake. Accepting is to see no value in brooding or regreting our mistake, but instead see the value in what is in front of us. It is to be in the now by taking in the mistake as is, not as what you hope or do not hope it would be.
 
-As a basic practice, when the mind wanders back to your mistake in life. Do not fight it. Do not find excuses for yourself about why you were not wrong. Observe the feelings associated with our mistakes, but do not let it overwhelm or take control of our lives. Do not hope the mistake would happen otherwise. Simply, know it and be mindful of it. Take it as it is. And understand that it must happen the way it did. Remind yourself of what is the best thing to do right now by knowing what you can and what you can't control at this very moment. And let go of our feelings by seeing how the bad feelings that comes with your mistake does not help you or anyone to be better. Eventually, your mistake will begin to lose its power as you slowly come to see it for what it is. <strong>Don't let your mistake of the past clouds what is in front you today. Don't let what you can't control hinders what you can control.</strong> 
+As a basic practice, when the mind wanders back to your mistake in life. Do not fight it. Do not find excuses for yourself about why you were not wrong. Observe the feelings associated with our mistakes, but do not let it overwhelm or take control of our lives. Do not hope the mistake would happen otherwise. Simply, know it and be mindful of it. Take it as it is. And understand that it must happen the way it did. Remind yourself of what is the best thing to do right now by knowing what you can and what you can't control at this very moment. And let go of our feelings by seeing how the bad feelings that comes with your mistake does not help you or anyone to be better. Eventually, your mistake will begin to lose its power as you slowly come to see it for what it is. <strong>Don't let your mistake of the past clouds what is in front you today.</strong> 
