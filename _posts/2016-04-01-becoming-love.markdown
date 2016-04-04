@@ -9,7 +9,7 @@ tags: ['love']
 
 <blockquote>"And in the end, the love you take is equal to the love you make." ― The Beatles</blockquote>
 
-Everything is and can be the object of our love. When we exercise our capacity to love on anything at all--ourselves, love ones, work, pets or even an insect--we become love itself. 
+Everything is and can be the object of our love. When we exercise our capacity to love on anything at all--ourselves, love ones, stranger, work, pets or even an insect--we become love itself. 
 
 
 This site is about finding True Happiness. And love is definitely one of the ways in which one could come to understand and experience True Happiness. But unlike the convention kind of romantic love, the kind of love we are talking about is an act of compassion and selflessness, to look beyond ourselves for the well-being of others without expecting anything in return. It is an act done entirely for the benefits of others. There is no exchange in this kind of love. It is not a give and take. We get nothing for it. It is a <strong>gift</strong> in its truest sense.
