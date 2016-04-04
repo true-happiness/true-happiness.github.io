@@ -12,7 +12,7 @@ tags: ['love']
 Everything is and can be the object of our love. When we exercise our capacity to love on anything at all--ourselves, love ones, work, pets or even an insect--we become love itself. 
 
 
-This site is about finding True Happiness. And love is definitely one of the ways in which one could come to understand and experience True Happiness. But unlike the convention kind of romantic love, the kind of love we are talking about is an act of compassion and selflessness, to look beyond ourselves for the well-being of others without expecting anything in return. It is entirely for the benefits of others. There is no exchange in this kind of love. It is not a give and take. We get nothing for it. It is a <strong>gift</strong> in its truest sense.
+This site is about finding True Happiness. And love is definitely one of the ways in which one could come to understand and experience True Happiness. But unlike the convention kind of romantic love, the kind of love we are talking about is an act of compassion and selflessness, to look beyond ourselves for the well-being of others without expecting anything in return. It is an act done entirely for the benefits of others. There is no exchange in this kind of love. It is not a give and take. We get nothing for it. It is a <strong>gift</strong> in its truest sense.
 
 
 <!-- Many believe it never worth to do anything if it does not pay. Just like this website, I do not gain anything. Th
@@ -21,13 +21,15 @@ it's a waste of time for me to write these articles on True Happiness. Their log
 
 <h2>Love is Happiness</h2>
 
-Love is probably one of the stronger emotion which dominates and dissipates all doubts, hates, politics, and the dramas of human's life. So look no further to find True Happiness because <strong>True Happiness is in the very act of love.</strong> You will be surprised how quickly can love turn your day around. 
+Love is probably one of the strongest emotion. It dominates and dissipates all doubts, hates, politics, and the dramas of human's life. You will be surprised how quickly can love turn your day around. So look no further to find True Happiness because <strong>True Happiness is in the very act of love.</strong> 
 
 Mother Teresa once said:
 
 <blockquote>"Let no one ever come to you without leaving better and happier. Be the living expression of God's kindness: kindness in your face, kindness in your eyes, kindness in your smile."</blockquote>
 
-We all have the capacity for love. So exercise it. And exercise it epecially on those who you dislike. Exercise it on yourself and everything that come into your life until it becomes your nature to love.
+We all have the capacity for love. So exercise it. And exercise it often epecially on those who you dislike. Exercise it on yourself and everything that come into your life until it becomes your nature to love.
+
+When you look at someone, always ask the question of "How can I love?" or "How can I love this person?" Just in that very thought, you are already setting up yourself to be happy. Regardless of who he is she is, this is our only duty. It's perhaps the only attitude we all should have toward life. This kind of attitude has no boundery, it can be applied to anything anytime. So you can also ask question like "How can I love myself?" or "What is the best thing to do for myself right now?" I have been waking up with the question of "How can I love today?" It's a great question to start the day.
 
 In conclusion, I would like to leave you with these beautiful and memorable quotes below which I believe fully summarise my point about love and True Happiness.
 
