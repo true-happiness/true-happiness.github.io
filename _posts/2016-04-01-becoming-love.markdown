@@ -20,7 +20,7 @@ it's a waste of time for me to write these articles on True Happiness. Their log
 
 <h2>Love is Happiness</h2>
 
-Love is probably one of the strongest emotion. It dominates and dissipates all doubts, hates, politics, and the dramas of human's life. You will be surprised how quickly can love turn your day around. We always think that we would be happy if others love us. But what do we not realise is that we would be just as happy if we were to love others. So look no further to find True Happiness because <strong>True Happiness is in the very act of love.</strong>
+Love is probably one of the strongest emotion. It dominates and dissipates all doubts, hates, politics, and the dramas of human's life. You will be surprised how quickly can love turn your day around. We always think that we would be happy if others love us. But what we do not realise is that we would be just as happy if we were to love others. So look no further to find True Happiness because <strong>True Happiness is in the very act of love.</strong>
 
 Mother Teresa once said:
 
