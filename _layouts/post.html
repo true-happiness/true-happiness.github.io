@@ -5,24 +5,19 @@ layout: default
 {% assign post = page %}
 
 <div itemid="{{ site.url }}{{ page.url }}" itemscope itemtype='http://schema.org/BlogPosting'>
-
 <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{site.url}}"/>
-
 <meta content='{{ site.url }}{{ page.url }}' itemprop='url'/>
-
 <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
   <meta itemprop="url" content="{{site.url}}{{site.logo}}">
   <meta itemprop="width" content="1200">
   <meta itemprop="height" content="630">
 </div>
-
 <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
   <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
     <meta itemprop="url" content="{{site.url}}{{site.logo}}">
   </div>
   <meta itemprop="name" content="{{site.title}}">
 </div>
-
 <!-- Post Header -->
 <header class="intro-header">
     <div class="container">
@@ -71,18 +66,8 @@ layout: default
                     {% assign tags_content = '' %}
                 {% endif %}
 
-                <p id="post-meta">{{ tags_content }}</p>
-                
-                <hr>
-
-             <!--    <div class="text-center">
-                    <h3>About Author</h3>
-                        <p>Supakorn Laohasongkram's dream is to open a university where the goal of teaching is <em>to inspire the students</em> through real-practical work which purpose is aim at actually bettering their lives the lives of all people around them.</p>
-                        <br><a href="/about" title="About Author">- Learn more here -</a>
-                </div>
-                <hr> -->
-
-                
+                <p id="post-meta">{{ tags_content }}</p>            
+                <hr>                
                 <aside class="social-share text-center">
                     <h3>Share this on</h3>
                         <a href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}{% if page.description %}&text={{ page.description | url_escape }}{% else %}{{ page.title | url_escape }}{% endif %}{% if site.twitter %}&via={{ site.twitter }}{% endif %}" title="Share on Twitter"><i class="fa fa-twitter fa-2x"> </i></a>
@@ -106,7 +91,6 @@ layout: default
                     {% endif %}
                 </ul>
                 <hr>
-
                 <div id="disqus_thread"></div>
                 <script>                
                 var disqus_config = function () {
