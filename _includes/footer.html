@@ -57,5 +57,8 @@
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
 <!-- Custom Fonts -->
 <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+{% if page.title == 'Forum' %}
+<script src="{{ "/js/forum.js " | prepend: site.baseurl }}"></script>
+{% endif%}
 <!-- Pygments Github CSS -->
 <!-- <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}"> -->
