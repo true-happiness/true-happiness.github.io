@@ -1,12 +1,11 @@
 ---
 layout:     post
 title:      "Why Meditate?"
-subtitle:   "We meditate to let our heart see its own Truth."
+subtitle:   "We meditate to let the heart sees its own Truth."
 date:       2016-03-22 12:00:00
 author:     "Supakorn Laohasongkram"
 tags: ['practice-of-true-happiness']
 ---
-
 There are 3 goals in meditation.
 
 <ol>
