@@ -47,5 +47,5 @@ Recommended readings about "Why we meditate?":
 <strong>Why Meditation Matters to The World?</strong>
 <li><a href="/principles_of_happiness/why_true_happiness/">If you are curious about why meditation is important to this world, click here</a></li><br>
 <strong>What I Have Received from Meditation as a Long-Time Practitioner?</strong>
-<li><a href="/principles_of_happiness/why_true_happiness/">Click here to learn more about my experience with meditation.</a></li>
+<li><a href="/2016/04/02/my-experience-with-meditation/">Click here to learn more about my experience with meditation.</a></li>
 </ul>
