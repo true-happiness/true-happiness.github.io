@@ -45,7 +45,7 @@ There are 3 goals in meditation.
 Recommended readings about "Why we meditate?":
 <ul>
 <strong>Why Meditation Matters to The World?</strong>
-<li>If you are curious about why meditation is important to this world, click <a href="/principles_of_happiness/why_true_happiness/">here</a></li><br>
-<!-- <strong>What I Have Received from Meditation as a Long-Time Practitioner?</strong>
-<li>Click <a href="/principles_of_happiness/why_true_happiness/">here</a> to learn more about what I have received from my 10 years experience with meditation.</li> -->
+<li><a href="/principles_of_happiness/why_true_happiness/">If you are curious about why meditation is important to this world, click here</a></li><br>
+<strong>What I Have Received from Meditation as a Long-Time Practitioner?</strong>
+<li><a href="/principles_of_happiness/why_true_happiness/">Click here to learn more about my experience with meditation.</a></li>
 </ul>
