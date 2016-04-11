@@ -2,7 +2,7 @@
 layout:     post
 title:      "When You Love, You Become Love"
 subtitle:   "And in the end, the love you take is equal to the love you make."
-date:       2016-04-01 12:00:00
+date:       2016-04-10 12:00:00
 author:     "Supakorn Laohasongkram"
 tags: ['love']
 ---
