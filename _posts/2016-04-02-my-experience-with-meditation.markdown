@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "My Experience With Meditation"
-subtitle:   "What I've recieved as a long-time practitioner of mindfulness."
+subtitle:   "What I've received as a long-time practitioner of mindfulness."
 date:       2016-04-02 12:00:00
 author:     "Supakorn Laohasongkram"
 tags: ['practice-of-true-happiness']
