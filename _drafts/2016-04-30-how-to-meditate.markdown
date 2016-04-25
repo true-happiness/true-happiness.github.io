@@ -7,17 +7,17 @@ author:     "Supakorn Laohasongkram"
 tags: ['practice-of-true-happiness']
 ---
 
-<blockquote>Meditation can be summarised in one word: "know."</blockquote>
+<blockquote>Meditation can be summarised in one word: "to know".</blockquote>
 
 <h2>Introduction</h2>
 
 To meditate is simply to know. Know in this sense is not knowing in our thoughts or knowing from reading, listening, or thinking but knowing in the meditation sense is to experience and be mindful of.
 
-<strong>So what do we know in meditation?</strong>
+<strong>What do we know in meditation?</strong>
 
-The objects that we must know in meditation is ourselves. The self can easily be divided into two parts: the mind and the body. But to further seperate the self in all its part we can seperate it into five parts which are body, consciousness, memories, thoughts, and feeling. These are the objects of meditations.
+The objects that we must know in meditation is ourselves. The self can be divided into two parts: the mind and the body. But to further seperate the self in all its part we can seperate it into five parts which are body, consciousness, knowledge, thoughts, and feeling. These are the objects of meditations.
 
-<strong>What do we do with our body, consciousness, memories, thoughts, and feeling?</strong>
+<strong>What do we do with our body, consciousness, knowledge, thoughts, and feeling?</strong>
 
 Nothing. We simply watch and be with them. By being mindful of ourselves, we will come to know the Truth of ourselves as well as find True Happiness. To learn more about "Why Meditate?" and the goals of meditation, <a href="/2016/03/22/why-meditate/">Click Here.</a>
 
@@ -75,13 +75,9 @@ All in all, I could talk about why you should meditate; but in the end only you 
 
 This is not a knowledge you gain from reading a book. It is the knowledge you gain from within through practice.
 
-
 Meditation is not things you do only at the center. You go to center to learn the basic. But you must also apply that to your daily life in order for it to have a practical and beneficial to our lives. It is something you practice at every moment, from dusk to dawn from dawn to dusk, it is something you should practice at all times.
 
-
 Meditation must be practice regularly like when you want to start a fire. You can't pause until you generate enough heat for the wood to catch fire. Meditation is the same.
-
-
 
 Recommended readings about "Why we meditate?":
 <ul>

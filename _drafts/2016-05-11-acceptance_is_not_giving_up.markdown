@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Acceptance Is Not Giving Up"
+title:      "Acceptance Is Not The Same As Giving Up"
 subtitle:   ""
 date:       2016-04-16 12:00:00
 author:     "Supakorn Laohasongkram"

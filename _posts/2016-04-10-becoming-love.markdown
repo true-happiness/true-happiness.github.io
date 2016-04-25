@@ -38,7 +38,7 @@ This task is not limited to others but it can be applied to anything at anytime.
  -->
 <h2>Conclusion</h2>
 
-I would like to leave you with these beautiful and memorable quotes below which I believe better summarise my point about love and True Happiness.
+I would like to leave you with these beautiful and memorable quotes below which I believe better summarise my point about love and True Happiness. (I think it would also be a good ideas to put these quotes up on our desks and in our bedrooms.)
 
 <blockquote>“Seize the moments of happiness, love and be loved! That is the only reality in the world, all else is folly. It is the one thing we are interested in here.” 
 ― Leo Tolstoy</blockquote>
@@ -82,3 +82,13 @@ Help people anyway.<br><br>
 Give the world the best you have and you'll get kicked in the teeth.
 Give the world the best you have anyway.” 
 ― Kent M. Keith, The Silent Revolution: Dynamic Leadership in the Student Council</blockquote>
+
+<hr class="short">
+
+Related resources about "love and compassion":
+<ul>
+<strong>Ted Talk by Ex-Googler Chade-Meng Tan on "Everyday Compassion at Google"</strong>
+
+<iframe src="https://embed-ssl.ted.com/talks/lang/en/chade_meng_tan_everyday_compassion_at_google.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</ul>
+

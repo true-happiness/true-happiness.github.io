@@ -23,7 +23,10 @@ layout: default
             <div class="col-md-10 col-md-offset-1">
                 <div class="site-heading">
                     <h1 itemprop='name'>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
-                    <hr class="rainbow">
+                <!--     {% if page.title == 'True Happiness' %}
+                    <small class="text-center" style="font-size: 0.8em; color:#808080;">Make a man happy and he will be happy for a day. Teach a man how to be happy and he will be happy for a life-time.</small>
+                    {% endif%} -->
+                   <hr class="rainbow">
                     <span class="subheading">{{ page.description }}</span>
                 </div>
             </div>
@@ -45,5 +48,4 @@ layout: default
 <span itemprop='name' style="display: none;">{% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %}</span>
 </span>
 <p style="display: none;" itemprop='datePublished' title='{{ page.date }}'>{{ post.date | date: "%B %-d, %Y" }}</p>
-
 </div>
