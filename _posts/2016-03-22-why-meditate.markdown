@@ -31,7 +31,7 @@ There are 3 goals in meditation.
 
 <li>Nothing lasted.</li>
 
-<li>Reality has nothing to do with what we want. (<a href="/2016/01/07/no-room-for-desire-in-life/">Click to Learn More</a>)</li>
+<li>Reality has nothing to do with what we want. (<a href="/2016/01/07/no-room-for-desire-in-life/">For a more detailed explanation, click here.</a>)</li>
 </ul>
 
 <p>How could the heart be unhappy if it knows everything is impermanent? How could the heart be unhappy if it knows everything will not last forever? How could our heart be unhappy if it knows that reality is not about what we want but about the absolute law of cause and effect that determined reality? It can't be unhappy.</p>
