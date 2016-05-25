@@ -71,7 +71,13 @@ And there are two ways one could develop mindfulness in our daily life.
 		<p>In our daily life, we can develop our mindfulness by knowing our bodies in the present moment like when we are breathing, walking, eating, sitting, and etc. Simple right? Just know our bodily movement through out the day and we are all set!</p>
 </ol>
 
-In short, meditation in daily life is to know our body, consciousness, knowledge, thoughts, and feelings. True practictioners of mindfulness begin their practice starting from the moment they wake up until the moment they go to bed. They are mindful of when they get out of bed, brush their teeth, eat, walk, go to work, come home, and go to bed. They are mindful of all their positive or negative thoughts and emotions through out the day. The practice of mindfulness is easy; but to practice it consistently through out the day is not. Slowly build your mindfulness in daily life until it becomes a second-nature.
+In short, meditation in daily life is to know our body, consciousness, knowledge, thoughts, and feelings. 
+
+<ul>
+	<li>How much daily meditation is enough?</li>
+	<p>All day is enough. True practictioners of mindfulness begin their practice starting from the moment they wake up until the moment they go to bed. They are mindful of when they get out of bed, brush their teeth, eat, walk, go to work, come home, and go to bed. They are mindful of all their positive or negative thoughts and emotions through out the day. The practice of mindfulness is easy; but to practice it consistently through out the day is not. Slowly build your mindfulness in daily life until it becomes a second-nature.
+</p>
+</ul>
 
 <strong>2. Sitting and Walking Meditation</strong>
 
@@ -99,6 +105,11 @@ In short, meditation in daily life is to know our body, consciousness, knowledge
 			<li><a href="https://www.youtube.com/embed/LPqhDiHmQWw">Video on "How to practice walking meditation?" #1</a></li>
 			<li><a href="https://www.youtube.com/embed/zJRBu5uYrjI">Video on "How to practice walking meditation?" #2</a></li>
 		</ul>
+</ul>
+
+<ul>
+	<li>How much sitting/walking meditation is enough?</li>
+	<p>Twice a day. I would suggest to make this into a habit by chaining it with some daily routine you have been doing. For example, right after you shower or before you go to bed. It does not need to be a hour long session. In fact one minute would do. But the important thing is to not lose the routine. Onece you keep the routine for around 3 weeks, the habit of meditating will stick with you.</p>
 </ul>
 
 <h2>Conclusion</h2>
