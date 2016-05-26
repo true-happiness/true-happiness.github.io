@@ -109,7 +109,7 @@ In short, meditation in daily life is to know our body, consciousness, knowledge
 
 <ul>
 	<li>How much sitting/walking meditation is enough?</li>
-	<p>Twice a day. I would suggest to make this into a habit by chaining it with some daily routine you have been doing. For example, right after you shower or before you go to bed. It does not need to be a hour long session. In fact one minute would do. But the important thing is to not lose the routine. Onece you keep the routine for around 3 weeks, the habit of meditating will stick with you.</p>
+	<p>Twice a day. I would suggest to make this into a habit by chaining it with some daily routine you have been doing. For example, right after you shower or before you go to bed. It does not need to be a hour long session. In fact one minute would do. But the important thing is to not lose the routine. Once you keep the routine for around 3 weeks, the habit of meditating will stick with you.</p>
 </ul>
 
 <h2>Conclusion</h2>
