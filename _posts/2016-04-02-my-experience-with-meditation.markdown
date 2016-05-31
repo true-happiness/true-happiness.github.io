@@ -4,7 +4,7 @@ title:      "My Experience With Meditation"
 subtitle:   "What I've received as a long-time practitioner of mindfulness."
 date:       2016-04-02 12:00:00
 author:     "Supakorn Laohasongkram"
-tags: ['practice-of-true-happiness']
+tags: ['practice-oftrue-happiness']
 ---
 
 <p>It is not wrong to be curious about meditation and where it would take us. So as a long-time practitioner of mindfulness, here is a short list of what I have received in these last 10 years of meditation.</p>
@@ -17,7 +17,7 @@ People today are finding life more difficult to be happy and easier to be discon
 
 <blockquote>"If you can't be happy now. You will never be happy."</blockquote>
 
-Meditation is a method which allows us to be in touch with our inner balance. It is not about chasing, but about coming home. When we are in touch with our inner balance, we become more conscious of our inner imbalances. And that is how mindfulness builds and becomes awareness. What I mean by "imbalance" is our unhappiness; namely anger, worry, jealousy, greed, frustration, despair, disappointment and etc. (For more information about what unhappiness is, click <a href="/principles_of_happiness/what_is_happiness/">here</a>.) 
+Meditation is a method which allows us to be in touch with our inner balance. It is not about chasing, but about coming home. When we are in touch with our inner balance, we become more conscious of our inner imbalances. And that is how mindfulness builds and becomes awareness. What I mean by "imbalance" is our unhappiness; namely anger, worry, jealousy, greed, frustration, despair, disappointment and etc. (For more information about what unhappiness is, click <a href="/2015/06/01/what_is_happiness/">here</a>.) 
 
 Whether or not we will be happy or unhappy all depends on how much we can be awared of our own imbalances. When we are unawared of the unhappiness in our lives, the unhappiness spreads in our mind like wildfire. 
 
@@ -96,6 +96,6 @@ All in all, I am not here to prove to you why you should meditate. <strong>Medit
 <p>For other suggested/related readings...</p>
 
 <ul>
-	<li><a href="/principles_of_happiness/why_true_happiness/">How Meditation Will Save The World?</a></li>
+	<li><a href="/2015/08/24/why_true_happiness/">How Meditation Will Save The World?</a></li>
 	<li><a href="/2016/03/22/why-meditate/">Why Meditate?</a></li>
 </ul>

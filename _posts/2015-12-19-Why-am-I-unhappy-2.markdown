@@ -53,5 +53,5 @@ What I eventually realise is that it was too hard for me to find happiness in su
 	<li>Better could mean worse and less is sometimes more. It all depends on which standard or perspective are you putting yourself against</li>
 	<li>Seeing the negative effect it has on oneself and everyone around you.</li>
 	<li>Compare yourself today with yourself yesterday</li>
-	<li>Learn the art of mindfulness! <a href="/tags/practice-of-true-happiness/">Click here to learn now!</a></li>
+	<li>Learn the art of mindfulness! <a href="/tags/true-happiness-essential/">Click here to learn now!</a></li>
 </ul>

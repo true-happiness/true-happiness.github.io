@@ -20,7 +20,7 @@ title: "Archive"
 					    {% endif %}
 					{% endif %}					
 					<a href="{{ post.url }}" class="list-group-item">
-					      <h4 class="list-group-item-heading">{{ post.title }}</h4>
+					      <h4 class="list-group-item-heading capitalized">{{ post.title }}</h4>
 					      <small>{{post.date | date: '%B %d, %Y'}}</small>
 					</a>
 					{% if forloop.last %}
@@ -30,9 +30,9 @@ title: "Archive"
 			</ul>
 		</div>
 		<div class="col-sm-2">
-			<h2>Tags</h2>
+			<h2 class="text-center">Tags</h2>
 			{% for data_tag in site.data.tags %}
-			       <hr class="small"><a href="/tags/{{ data_tag.slug }}"><li>{{ data_tag.name }}</li></a>
+			       <hr class="small"><a href="/tags/{{ data_tag.slug }}"><li class="no_decoration text-center">{{ data_tag.name }}</li></a>
 			{% endfor %}
 		</div>
 	</div>

@@ -603,3 +603,9 @@ ol li {
   margin-top: 0;
   max-width: 50px;
 }
+.capitalized {
+  text-transform: capitalize;
+}
+.no_decoration {
+  list-style: none;
+}

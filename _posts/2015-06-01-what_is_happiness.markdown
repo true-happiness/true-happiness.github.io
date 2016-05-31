@@ -2,9 +2,9 @@
 layout:     post
 title:      "What is Happiness?"
 subtitle:   ""
-date:       2015-11-21 12:00:00
+date:       2015-06-01 12:00:00
 author:     "Supakorn Laohasongkram"
-tags: ['practice-of-true-happiness']
+tags: ['true-happiness-essential', 'what-is-true-happiness']
 ---
 
 Happiness, in its most typical definition, is to get what we want. We would be happy if we always get what we want. We would be happy if everything goes exactly like how we want life to be. Once we get all that we want, we become content and satisfied with life. This sense of contentment, fulfilment, and satisfaction is ultimately what happiness is.
@@ -25,18 +25,6 @@ Unhappiness, on the other hand, is when the reality is not like what you want it
 
 So far, understanding happiness is the easy part. The hard part is how to attain one. Why are we <em>not</em> always happy despite our knowledge of happiness? If happiness is simply to match reality and our want then where did we go wrong in this simple process to produce happiness? Why does our pursuit of happiness still lead us toward discontent and sometimes even a sense of meaninglessness in life?
 
-To answer these questions, the next section, "<strong>What is the Cause of Happiness?</strong>", will introduce you into the nature of happiness, so that we will understand how to attain one. Click on the button below!
+To answer these questions, the next article, "<strong><a href="/2015/06/29/cause_of_happiness/">What is the Cause of Happiness?</a></strong>", will introduce you into the nature of happiness, so that we will understand how to attain one. Click on the button below!
 
 <div>
-	<ul class="pager">
-<!--                     <li class="previous">
-                        <a href="1" data-toggle="tooltip" data-placement="top" title="1">&larr; Previous Post</a>
-                      </li> -->
-                      <li class="next">
-                      	<a href="/principles_of_happiness/cause_of_happiness" data-toggle="tooltip" data-placement="top" title="Cause of Happiness">Cause of Happiness &rarr;</a>
-                      </li>
-                    </ul>
-                  </div>
-
-https://www.youtube.com/watch?v=YvOoKHFwqfw
-

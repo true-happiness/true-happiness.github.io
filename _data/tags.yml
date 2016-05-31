@@ -1,11 +1,20 @@
-- slug: true-happiness-essentials
-  name: True Happiness Essentials
+- slug: true-happiness-essential
+  name: True Happiness Essential
 
-- slug: why-am-i-unhappy
-  name: Why am I unhappy?
+- slug: what-is-true-happiness
+  name: What is True Happiness?
+
+- slug: cause-of-true-happiness
+  name: Cause of True Happiness
 
 - slug: practice-of-true-happiness
   name: Practice of True Happiness
+
+- slug: why-true-happiness
+  name: Why True Happiness?
+
+- slug: why-am-i-unhappy
+  name: Why am I unhappy?
 
 - slug: passion
   name: Passion

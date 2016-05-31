@@ -5,7 +5,7 @@ subtitle:   "Life doesn't revolve around what we desire from reality because rea
 date:       2016-1-07 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-03.jpg"
-tags: []
+tags: ['cause-of-true-happiness', 'true-happiness-essential']
 ---
 
 <p>If I know water would boil at a 100 degrees Celsius. Do I need to hope it would boil at 100 degree Celsius? Or even if I do not want the water to be boiled, could I desire the water not to be boiled even if I heat it up to 100 degrees Celsius?</p>
