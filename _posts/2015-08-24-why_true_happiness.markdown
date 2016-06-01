@@ -7,7 +7,7 @@ author:     "Supakorn Laohasongkram"
 tags: ['true-happiness-essential', 'why-true-happiness']
 ---
 
-Would making the everyone in the world richer give us world peace? 
+Would making everyone in the world richer give us world peace? 
 
 We are so focused on generating incomes and raising GDP. But even if it rains in gold today, can we expect people to be happy and satisfied with what they have or can we expect a war where people would fight and kill one another for it. 
 
