@@ -7,50 +7,24 @@ author:     "Supakorn Laohasongkram"
 tags: ['true-happiness-essential', 'why-true-happiness']
 ---
 
-Would making everyone in the world richer give us world peace? 
+Would making everyone in the world richer give us world peace? If wealth can save the world, why are we no where near world peace despite the fact that our GDP has increased by the thousand folds compare to what it was hundreds years ago? Even if it rains in gold today, what we will have is not world peace. But more likely wars in which people would fight one another to be richer even though they might already be rich. 
 
-We are so focused on generating incomes and raising GDP. But even if it rains in gold today, can we expect people to be happy and satisfied with what they have or can we expect a war where people would fight and kill one another for it. 
-
-<!-- We believe in making the world better and more efficient through technology. But even if we all have the best and latest technology in our hands, would that give us world peace?
- -->
-We have poured billions of dollars into bettering our education system but does giving humans more power and skills without teaching them how to excecise that power lead us toward world peace? Or will it creates more exploitation of power like Theodore Roosevelt once stated:
+Would giving humans more power give us world peace? Since the beginning of our civilization, humanity has poured unimaginable amount of resources into bettering our education system. But does giving humans more power and skills without teaching how to excecise that power lead us toward world peace? Theodore Roosevelt once stated:
 
 <blockquote>A man who has never gone to school may steal from a freight car; but if he has a university education, he may steal the whole railroad."</blockquote>
 
-As long as people today still seek happiness by "taking" rather than "giving", there will be no peace in this world.
+Power is a double-edged sword. One which must not be taken lightly. Imagine a simple senario in which you are a swordmaster. And you are now deciding which of your pupils to teach. Would you give someone the ability to take life to someone who finds happiness in taking from others or would you give it to someone who finds happiness in giving to others? The obvious answer is the latter. Thus..
 
-As long as people today still seek happiness in being more powerful only for themselves more than for the benefits of all, there will be no peace in this world.
-
-As long as people today still seek happiness only for their own riches without any regards for others or the environment, there will be no peace in this world.
-
-As long as people today still seek happiness in taking advantage of others, there will be no peace in this world.
-
-<h2>World Peace is Not Possible Without True Happiness</h2>
-
-There is a world difference between what happiness and True Happiness is. <strong>Happiness is achieved by fulfilling our desire. True Happiness is achieved by overcoming it.</strong> True Happiness is about giving. Happiness is mostly about taking. True Happiness is not dependent on anything. Happiness is always dependant on something. Happiness is relative. True Happiness is absolute. Happiness needs to be satisfied. True Happiness is the state of already being satisfied. Happiness is a chasing. True Happiness is that of a coming home. 
-
-<strong>Happiness could be attained in any ways imaginable</strong> from taking our kids to dinner, sacrificing our lives for others, stealing billions of dollars, getting a tattoo, and so on. By <a href="/2015/06/01/what_is_happiness/">definition</a>, happiness is a match between what we want from reality and what reality is. No where does the definition of happiness tells us what to want or what we should change the reality into. Its only requirement is for us to match the reality with our want in order to produce happiness. This, therefore, left us with a freedom to want anything.
-
-Despite the nebulous nature of happiness, happiness can be generalized into 3 main types.
-
-1. Happiness for oneself.
-
-2. Happiness for others.
-
-3. True Happiness
-
-Happiness if not developed always resort to the lowest possible form which is to seek happiness only for oneself. This tendency to be selfish is innate in our instinct. It is what living things do to preserve itself and survive. Human's selfishness is what lies at the crux of every world and social problems. It is the reason why humans are fighting and taking advantageous of one another. It is why the world can become a be cruel and heartless place where its law has become "survival of the fittest".
-
-Sadly, we are living in such a world right now. But this does not mean that we can't change it. In fact, we are also <strong>born with an ability to change and better ourselves.</strong> Human's ability to know and train ourselves is precisely what sets us apart from mere animals. Animals do not have such privilege. When a mosquito sees a blue light, its instinct tells it to fly toward it even though it might me a zapper. When a moth sees a flame, it has no choice but to instinctively fly toward the fire and its own death. Humans have similar urges and instincts. When we see something we like, we want to take it. When we see a person we romantically interested we want to have him or her. But what sets human apart is our ability to know our own instinct and to step out of our own instinct simply just by being conscious of it. This is why when we are attracted to someone we think twice before approaching. This is why even though we want something we do not give in to our urge to cheat or steal.
-
-This leads us to the main point of this article which is...
-
-<h2>Happiness Can and Must Be Developed</h2>
+<h2 class="capitalized">Happiness can and must be developed.</h2>
 
 Happiness matters. It is what create our world, for good or for evil. It dictates people lives and decides how our world will be. 
 
-We, humans, have put too much emphasis on building and improving what is outside of ourselves that we have neglected and forgotten how and why we should develop what is inside of ourselves. But <strong>world peace can not be achieved by changing what is outside of us, it is achieved by developing how each and everyone of us seek and define happiness inside of ourselves.</strong> This is the task that is needed most in the world where happiness for oneself rules over the happiness for all. It is the task endowed specifically to humans.
+By developing our happiness, not only will humanity finds both Truth and True Happiness, but it will also along the way create the right condition for world peace. 
 
-By developing our happiness, not only will we find both Truth and True Happiness, but it will also benefit this world as a whole. This is the best thing that one can do for oneself as well as the world. And this is what this website is about.
+<h2 class="capitalized">World Peace is not possible without True Happiness.</h2>
+
+More wealth will not stop people from their greed. And more power will not stop people from abusing it. World peace cannot be achieved by changing what is outside of us, it is achieved by developing how each and every one of us seeks and defines happiness inside of ourselves. 
+
+This is what this website is about.
 
 <strong class="float-center text-center">World Peace Begins Here In Our Journey Toward True Happiness.</strong>
