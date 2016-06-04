@@ -48,7 +48,7 @@ What I eventually realise is that it was too hard for me to find happiness in su
 <h2>How to Stop Comparing Yourself to Others</h2>
 
 <ul>
-	<li>Reflect. Reflect. Reflect. As long as you are biased toward yourself and your ways of attaining happiness, you will never find True Happiness. You will say, "This is my happiness. Why would I change?" Thus, it is necessary to reflect often. Question yourself. Why I am still unhappy? And if possible, learn to be mindful of your actions to see whether they are driven by this unwholesome desire or the desire to prove yourself. Know thyself and change yourself before it's too late!</li>
+	<li>Reflect. As long as you are biased toward yourself and your ways of attaining happiness, you will never find True Happiness. You will say, "This is my happiness. Why would I change?" Thus, it is necessary to reflect often. Question yourself. Why I am still unhappy? And if possible, learn to be mindful of your actions to see whether they are driven by this unwholesome desire or the desire to prove yourself. Know thyself and change yourself before it's too late!</li>
 	<li>Knowing that that there is no ends to comparing yourself to others. You will never be satisfied. Because your satisfaction is relative to how others are.</li>
 	<li>Better could mean worse and less is sometimes more. It all depends on which standard or perspective are you putting yourself against</li>
 	<li>Seeing the negative effect it has on oneself and everyone around you.</li>
