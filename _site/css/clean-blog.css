@@ -609,3 +609,6 @@ ol li {
 .no_decoration {
   list-style: none;
 }
+.light_weight{
+  font-weight: 100;
+}
