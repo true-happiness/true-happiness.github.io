@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Cause of Unhappiness Part Five: When Life Is At a Lost"
+title:      "Cause of Unhappiness Part Five: When Life Is At A Lost"
 subtitle:   "You are only lost when you give up. So never give up."
 date:       2016-06-09 12:00:00
 author:     "Supakorn Laohasongkram"
