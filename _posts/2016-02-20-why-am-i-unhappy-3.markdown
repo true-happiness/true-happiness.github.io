@@ -9,7 +9,7 @@ tags: ['why-am-i-unhappy']
 ---
 
 <p>
-	One of the worst fear of our lives is that we become meaningless. Whether this would be meaningless to oneself, meaningless to others, or meaningless to the world. Meaninglessness comes in various forms. The feeling of being useless, most evident in today society where everything is about productivity, to a feeling of inadequency. At True Happiness, this is an important concept to understand as often times, we, humans, equate our self-worth with our meaning. So let's dig a little deeper on this subject of meaninglessness to see where we could find True Happiness in this.
+	One of the worst fear of our lives is that we become meaningless. Whether this would be meaningless to oneself, meaningless to others, or meaningless to the world. Meaninglessness comes in various forms. The feeling of being useless, most evident in today society where everything is about productivity, to a feeling of inadequency. At True Happiness, this is an important concept to understand as often times, we, humans, equate our self-worth with our meaning. So let's dig a little deeper on this subject of meaninglessness to see where we could find True Happiness.
 </p>
 <!-- 
 <p>
@@ -18,20 +18,19 @@ tags: ['why-am-i-unhappy']
 
 <img src="{{ site.url }}/img/stick.jpg"/>
 
-<p>One of the most reowned Theravada Buddhist Monk in Thailand, "Ajahn Chah," once asked his disciples if a wooden stick--just like the one in the picture above--is long or short. Some answered, "It is long." Some answered, "It is short." But Ajahn Chah's answer was not what one would unexpected. His answer is that the stick is neither long nor short. It is only long if we want it to be short. And it is short only if you want it to be long. Thus, the wooden stick is neither short or long. It is what it is. Only our want make it so.</p>
+<p>One of the most reowned Theravada Buddhist Monk in Thailand, "Ajahn Chah," once asked his disciples if a wooden stick--just like the one in the picture above--is long or short. Some answered, "It is long." Some answered, "It is short." But Ajahn Chah's answer was not what one would unexpected. His answer is that the stick is neither long nor short. It is only long if we want it to be short. And it is short only if you want it to be long. Thus, the wooden stick is neither short or long. It is what it is. Only our want make it short or long.</p>
 
-<p>Similarly, our life is the same as that wooden stick. <strong>We are as meaningless as how much meaningful we want to be.</strong> A rich person who want to be richer always feels he or she is not meaningful enough. So in a sense, he is "poor." A poor person who feels that he or she has all that he or she ever wants is in way "rich." It all depends on your want. If you want to be richer then immediately you are "poor." If you feel you already have more than you want then at that very moment you are "rich."
+<p>Similarly, our life is the same as that wooden stick. <strong>We are as meaningless as how much meaningful we want to be.</strong> A rich person who want to be richer always feels he or she is not meaningful enough. So in a sense, he is "poor." A poor person who feels that he or she has all that he or she could ever want is in way "rich." It all depends on your want. If you want to be richer then immediately you are "poor." If you feel you already have more than you want then at that very moment you are "rich."
 
-<blockquote>We are as meaningless as how much meaningful we want to be.</blockquote>
+<blockquote><h2>We are as meaningless as how much meaningful we want to be.</h2></blockquote>
 
 <p>The moment you want to be more meaningful is the moment that you have become meaningless. Those who feels they are already meaningful has no need to search for more meaning in their life. They are already happy and satisfied with life. They have finished looking for more meaning to fill the void of their meaninglessness.</p>
 
-<p>Thus, to find true happiness is not to look for more meaning, but to stop looking for one.</p>
+<p>Thus, <strong>to find true happiness is not to look for more meaning, but to stop looking for one</strong>.</p>
 
 <h2 class="section-heading">What to take away</h2>
-<blockquote>
-	We are as meaningless as how much meaningful we want to be. Thus, to find true happiness is not to look for meaning, but to stop looking for one.
-</blockquote>
+
+<p>We are as meaningless as how much meaningful we want to be. Thus, to find true happiness is not to look for meaning, but to stop looking for one.</p>
 <!-- 
 <p>Life, in essense, is incomparable to one another. Life is just is. You can compare all you want but at the end of the day how could you ever compare something so different to one another? So live and let live.</p>
 
