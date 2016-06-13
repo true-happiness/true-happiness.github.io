@@ -21,7 +21,7 @@ So what should one do when life is at a lost? Here are four simple steps to gett
 
 Above is exactly what we do with our life when it is at a lost. Thich Nhat Hanh equates our senses as the doors and windows of our life. <strong>You can't pick yourself up in the middle of the storm.</strong> Sometimes it is wise to just stop and take a step back from it all. Of course, the purpose of this is not to give up. Its purpose is to give ourselves the chance to recover and prepare to face life again.
 
-To stop and take a step back from life could be anything from spending time with yourself, a solo vacation, meditate, to participating in a meditation retreat. I do not recommend losing yourself into something or putting the problem off by blurring the reality of the situation like making ourselves busy on purpose or go out to do something just to forget the problem. The point is not to run away but to allow you to step a out of your situation to look inward and review your life so that you can begin anew.
+To stop and take a step back from life could be anything from spending time with yourself, turning off all your electronics, a solo vacation, meditate, to participating in a meditation retreat. I do not recommend losing yourself to something else or putting the problem off by blurring the reality of the situation like making ourselves busy on purpose or do something just to forget the problem. The point is not to run away. The point is to allow you to step a out of your situation to look inward and review your life with more clarity so that you can begin anew.
 
 <strong class="capitalized">2. Understand that it's ok to be lost.</strong>
 <blockquote>It's ok to not be ok.</blockquote>
