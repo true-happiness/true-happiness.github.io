@@ -37,13 +37,14 @@ What I am explaining here is also captured by Epictetus as follows:
 <blockquote>Do not seek to have events happen as you want them to, but instead want them to happen as they do happen, and your life will go well.
 -Epictetus</blockquote>
 <h2>Our Duty To Reality</h2>
-When someone—like me—is applying for graduate school I might, right away, desires to be accepted. But who am I to want or not want things from reality without ever creating the right causes for it to happen? In reality, whether or not anyone would or would not be accepted has many different factors—many beyond one’s control. So just by applying or having a great supporting resume doesn’t mean I have the right to demand or hope from reality my admission. So why hope? Why put my desire ahead of the reality? Why worry?And why not channel this energy, instead, at creating the right causes, which are writing the best application?
+When someone—like me—is applying for graduate school I might, right away, desires to be accepted. But who am I to want or not want things from reality without ever creating the right causes for it to happen? In reality, whether or not anyone would or would not be accepted has many different factors—many beyond one’s control. So just by applying or having a great supporting resume doesn’t mean I have the right to demand or hope from reality my admission. So why hope? Why put my desire ahead of the reality? Why worry? And why not channel this energy, instead, at creating the right causes, which are writing the best application?
 
-One does not need to desire to achieve whatever he or she set out to accomplish. By creating the right causes, you can attain anything in life <em>with or without</em> the need to desire for it.
+One does not need to desire to achieve whatever he or she set out to accomplish. By creating the right causes, you can attain anything in life <em>with or without</em> the need to desire for it--the different being that you are happy or you are not.
 
-Reality runs by the absolute law of cause and effect. It does not obey one's desire from it. It doesn't matter to reality how much you want something, what matters is whether or not there is enough causes for the effect to occur.
+Since reality runs by the absolute law of cause and effect, it does not obey one's desire no matter how much you want something. What matters is whether or not there is enough causes for the effect to occur.
 
-Hence, <strong>our duty and happiness is not to desire, but to create the right causes to produce the right effect.</strong> This is our only duty to life. And depending on how well one could live in accordance with this natural law, the happier he or she becomes.
+Hence, <strong>our duty and happiness is not to desire, but to create the right causes to produce the right effect.</strong> This is our only duty to life. And depending on how well one could live in accordance with this natural law and not according to what he or she demands of reality, the happier he or she becomes.
+
 <h2>Conclusion</h2>
 <span style="line-height: 1.7;">All in all, the message here is simple: life is happier, better, and more satisfactory if one lives in accordance with reality and its law rather than living in accordance with what one wants from reality. </span>
 
