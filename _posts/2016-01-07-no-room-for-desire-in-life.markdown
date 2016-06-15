@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Science of Happiness"
+title:      "Science of Happiness: The Law of Cause and Effect."
 subtitle:   "Life doesn't revolve around what we desire from reality because reality revolves around the absolute law of cause and effect."
 date:       2016-1-07 12:00:00
 author:     "Supakorn Laohasongkram"
