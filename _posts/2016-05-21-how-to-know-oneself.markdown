@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      "How to Meditate?"
-subtitle:   "Meditation is simply knowing oneself."
+title:      "How to Know Oneself?"
+subtitle:   "Practice of Mindfulness"
 date:       2016-05-21 12:00:00
 author:     "Supakorn Laohasongkram"
 tags: ['practice-of-true-happiness']
 ---
-<h2 class="text-center">Meditation is simply to know.</h2>
+<h2 class="text-center">We Meditate.</h2>
 
-"Know" in this sense is not knowing in our thoughts or knowing from reading, listening, or thinking but knowing as in <em>to experience, be aware of, or be mindful of.</em>
+Meditation is simply to know. "Know" in this sense is not knowing in our thoughts or knowing from reading, listening, or thinking but knowing as in <em>to experience, be aware of, or be mindful of.</em>
 
 <strong>What do we know in meditation?</strong>
 

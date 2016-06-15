@@ -35,7 +35,7 @@ tags: ['practice-of-true-happiness', 'true-happiness-essential']
 
 	<li><strong>Be an Expert: Truly Understand the Nature of Happiness</strong></li>
 
-	<p>Once you have your practice of knowing yourself or mindfulness rock solid, you are now ready to walk toward True Happiness. Being able to walk is different from knowing where to walk to. Thus, the next step is to learn as much as you can from those who have walked before us so that we will have a road map of where we are taking ourselves toward. Happiness is delicate science which could even take more than a life-time to learn. But it is definitely the most meaningful, fulfulling, and beautiful journey you will ever take.</p>
+	<p>Once you have your practice of knowing yourself or mindfulness rock solid, you are now ready to walk toward True Happiness. Being able to walk is different from knowing where to walk to. Thus, the next step is to learn as much as you can from those who have walked before us so that we will have a road map of where we are taking ourselves toward. Happiness is delicate science which could even take more than a life-time to learn. But it is definitely the most meaningful, fulfilling, and beautiful journey you will ever take.</p>
 
 	<li><strong class="capitalized">Learn to see life for what it is and not for what you want or don't want it to be.</strong></li>
 
@@ -43,7 +43,7 @@ tags: ['practice-of-true-happiness', 'true-happiness-essential']
 
 	<li><strong>Find a Role Model and a Learning Communities</strong></li>
 
-	<p>There will be times when it is difficult for us to continue on our journey. There will be struggles. There will be confusions about how to go about one's inner path. Thus, what you need is others to go with you especially those who have already walked the path. Don't expect this to be a solo journey. It's nearly impossible alone. Thus, finding your supportive community of practictioners and people who have mastered this art of happiness is a must.</p>
+	<p>There will be times when it is difficult for us to continue on our journey. There will be struggles. There will be confusions about how to go about one's inner path. Thus, what you need is others to go with you especially those who have already walked the path. Don't expect this to be a solo journey. It's nearly impossible alone. Thus, finding your supportive community of practitioners and people who have mastered this art of happiness is a must.</p>
 </ol>
 
 True Happiness is impossible if we are unwilling to change ourselves. And the only steps toward True Happiness is just to know ourselves. It is as simple as that.

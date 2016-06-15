@@ -108,7 +108,12 @@ hr.small {
 }
 li {
   list-style-type: disc;
-  margin-top: 15px;
+  margin-top: 25px;
+  font-family: 'Proxima Nova','Helvetica Neue','Open Sans', 'Times New Roman', serif;
+  line-height: 1.7;
+  font-size: 1em;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
 }
 .dropdown-menu li {
   list-style-type: none;

@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      "Why Meditate?"
-subtitle:   "We meditate to let the heart sees its own Truth."
+title:      "Why Know Oneself?"
+subtitle:   "To let the heart sees its own Truth."
 date:       2016-03-22 12:00:00
 author:     "Supakorn Laohasongkram"
 tags: ['practice-of-true-happiness']
 ---
-There are 3 goals in meditation.
+There are 3 goals in knowing oneself.
 
 <ol>
 	<li>
@@ -20,7 +20,7 @@ There are 3 goals in meditation.
 	</li>
 </ol>
 
-<p>Meditation allows us to experience a state of stillness. When the mind is not looking for something it wants and is not concern about its dislike, our mind comes together to produce an experience of True Happiness.</p>
+<p>This practice is known since ancient times as "<strong>meditation</strong>". Meditation allows us to experience a state of stillness. When the mind is not looking for something it wants and is not concern about its dislike, our mind comes together to produce an experience of True Happiness.</p>
 
 <p>Be careful though that the practice of mindfulness is <em>not</em> about not thinking or ignoring or denying the reality of our undesirable thoughts and feelings. Mindfulness is simply to be mindful. All thoughts, feeling and everything that comes to our senses are <em>allowed.</em> The practice of mindfulness is not a judgment on ourselves. It is not a self-management exercise in which we must assert control over ourselves. It is a practice of knowing and being mindful of life as it is.</p>
 
@@ -41,10 +41,10 @@ There are 3 goals in meditation.
 <p>For this reason, <strong>we need to meditate in order to let our heart see the Truth for itself.</strong> It's not an intellectual discovery to be found in books or in logic. It's a spiritual discovery which comes from and by the heart that see the Truth of life.</p>
 <hr class='short'>
 
-Recommended readings about "Why we meditate?":
+Recommended readings about "Why we know oneself?":
 <ul>
-<strong>Why Meditation Matters to The World?</strong>
+<strong>Why Knowing Oneself Matters to The World?</strong>
 <li><a href="/2015/08/24/why_true_happiness/">If you are curious about why meditation is important to this world, click here</a></li><br>
-<strong>What I Have Received from Meditation as a Long-Time Practitioner?</strong>
+<strong class='capitalized'>What I Have Received from my self-study as a Long-Time Practitioner?</strong>
 <li><a href="/2016/04/02/my-experience-with-meditation/">Click here to learn more about my experience with meditation.</a></li>
 </ul>
