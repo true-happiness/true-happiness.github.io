@@ -51,5 +51,5 @@ Hence, <strong>our duty and happiness is not to desire, but to create the right 
 <blockquote>'What's worse, the falling rain, or your resistance to getting wet?'
 - Jeff Foster</blockquote>
 <span style="line-height: 1.7;">So let’s keep our feet on the ground; and stay with reality and its law. Never forget that the way to live happily, correctly, and more efficiently, is not to put our desires in front of our action, but the other way around.</span>
-<h2 class="section-heading">What To Take Away</h2>
+<h2>What To Take Away</h2>
 Life doesn't revolve around what we desire from reality because reality revolves around the absolute law of cause and effect. So forget about all your fantasies about how reality should be. Instead, focus on, be satisfied, and accept what is. Begin living in the now! And keep on working with reality by making the right causes to achieve the right effect.
