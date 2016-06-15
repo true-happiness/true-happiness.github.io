@@ -9,7 +9,7 @@ tags: ['why-am-i-unhappy']
 ---
 
 <p>
-Human's innate ability to compare ourselves to others is perhap the root of all sins in this world. Knowing that I am better create a sense of pride or even arrogant, while knowing that I am less create a sense of envy and jealousy toward the other. There can be no ends to our comparison unless we stop to put any value into it.</p>
+Human's innate ability to compare ourselves to others is perhaps the root of all sins in this world. Knowing that I am better create a sense of pride or even arrogant, while knowing that I am less create a sense of envy and jealousy toward the other. There can be no ends to our comparison unless we stop to put any value into it.</p>
 
 <!-- <p>
 Knowing this, I am reminded of story of Adam and Even in the Holy Bible where God warned Adam and Eve not eat the forbidden fruit of knowledge of good and evil. But they did and now it has began our original sin.
@@ -50,7 +50,7 @@ What I eventually realise is that it was too hard for me to find happiness. My h
 <ul>
 	<li><p>Reflect. As long as you are biased toward yourself and your ways of attaining happiness, you will never find True Happiness. You will say, "This is my happiness. Why would I change?" Thus, it is necessary to have the desire to improve one's happiness by reflecting often. Question yourself. Why I am still unhappy even though I am trying to be happy? And if possible, learn to be mindful of your actions to see whether they are driven by your unwholesome desire or the desire to prove yourself. Know thyself and change yourself before it's too late!</p></li>
 	<li><p>Knowing that there is no ends to comparing yourself to others. You will never be satisfied because your satisfaction is relative to how others are.</p></li>
-	<li><p>Better could mean worse and less is sometimes more. It all depends on which standard or perspective are you putting yourself against. No one is better or worse. Everyone has different background and upbring and naturally each is incomparably different from one another.</p></li>
+	<li><p>Better could mean worse and less is sometimes more. It all depends on which standard or perspective are you putting yourself against. No one is better or worse. Everyone has different background and up-bring and naturally each is incomparably different from one another.</p></li>
 	<li><p>Seeing the negative effects it has on oneself and everyone around you.</p></li>
 	<li><p>Compare yourself today with yourself yesterday</p></li>
 	<li><p>Learn the art of mindfulness! <a href="/tags/practice-of-true-happiness/">Click here to learn!</a></p></li>
