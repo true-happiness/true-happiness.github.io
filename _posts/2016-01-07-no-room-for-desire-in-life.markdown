@@ -37,20 +37,22 @@ What I am explaining here is also captured by Epictetus as follows:
 <blockquote>Do not seek to have events happen as you want them to, but instead want them to happen as they do happen, and your life will go well.
 -Epictetus</blockquote>
 <h2>Our Duty To Reality</h2>
-When someone—like me—is applying for graduate school I might, right away, desires to be accepted. But who am I to want or not want things from reality without ever creating the right causes for it to happen? In reality, whether or not anyone would or would not be accepted has many different factors—many beyond one’s control. So just by applying or having a great supporting resume doesn’t mean I have the right to demand or hope from reality my admission. So why hope? Why put my desire ahead of the reality? Why worry? And why not channel this energy, instead, at creating the right causes, which are writing the best application?
+When someone—like me—is applying for graduate school I might, right away, desires to be accepted. But who am I to want or not want things from reality without ever creating the right causes for it to happen? In reality, whether or not anyone would or would not be accepted has many different factors—many beyond one’s control. So just by applying or having a great supporting resume doesn’t mean I have the right to demand or hope from reality my admission. So why hope? Why put my desire ahead of the reality? Why worry? And why not channel this energy, instead, at creating the right causes which are writing the best application?
 
-One does not need to desire to achieve whatever he or she set out to accomplish. By creating the right causes, you can attain anything in life <em>with or without</em> the need to desire for it--the different being that you are happy or you are not.
+You can attain anything in life <em>with or without</em> the need to desire for it. But since reality runs by the absolute law of cause and effect, it does not obey one's desire no matter how large or small the desire. The only that matters is whether or not there is enough causes for the effect to occur. Thus, there is no need to desire because...
 
-Since reality runs by the absolute law of cause and effect, it does not obey one's desire no matter how much you want something. What matters is whether or not there is enough causes for the effect to occur.
+<ol>
+	<li>One simply can't. <strong>There is no room for desire in reality.</strong></li>
+	<li>It is unscientific. How can I hope the tree to grow instantly if I just put the seed into the soil? Every effect must has it rightful causes.</li>
+	<li>Putting our demands of the reality before the reality is the root of all unhappiness of life. Why suffer?</li>
+</ol>
 
-Hence, <strong>our duty and happiness is not to desire, but to create the right causes to produce the right effect.</strong> This is our only duty to life. And depending on how well one could live in accordance with this natural law and not according to what he or she demands of reality, the happier he or she becomes.
+One does not need to desire to achieve whatever he or she set out to accomplish. Our duty to life is not to desire, but to create the right causes to produce the right effect. And depending on how well one could live in accordance with this natural law and not according to what he or she demands of reality, the happier he or she becomes.
 
 <h2>Conclusion</h2>
 <span style="line-height: 1.7;">All in all, the message here is simple: life is happier, better, and more satisfactory if one lives in accordance with reality and its law rather than living in accordance with what one wants from reality. </span>
 
-<span style="line-height: 1.7;">Reality does not revolves around what one wants from it; it revolves around the absolute law of cause and effect. Thus, life is never like what one wants it to be. The only way for anyone to feel the unsatisfactoriness of life is to be unmindful of the law of conditionality and desire life or reality to be the way one wants. </span>
+<span style="line-height: 1.7;"><strong>Reality does not revolves around what one wants from it; it revolves around the absolute law of cause and effect.</strong> Thus, life is never like what one wants it to be. The only way for anyone to feel the unsatisfactoriness of life is to be unmindful of the law of conditionality and desire life or reality to be the way one wants. </span>
 <blockquote>'What's worse, the falling rain, or your resistance to getting wet?'
 - Jeff Foster</blockquote>
-<span style="line-height: 1.7;">So let’s keep our feet on the ground; and stay with reality and its law. Never forget that the way to live happily, correctly, and more efficiently, is not to put our desires in front of our action, but the other way around.</span>
-<h2>What To Take Away</h2>
-Life doesn't revolve around what we desire from reality because reality revolves around the absolute law of cause and effect. So forget about all your fantasies about how reality should be. Instead, focus on, be satisfied, and accept what is. Begin living in the now! And keep on working with reality by making the right causes to achieve the right effect.
+<span style="line-height: 1.7;">So let’s keep our feet on the ground; and stay with reality and its law. Forget about all your fantasies about how reality should be. Instead, focus on, be satisfied, and accept what is. Begin living in the now! Keep on working with reality by making the right causes to achieve the right effect. And always remember that the way to live happily, correctly, and more efficiently, is not to put our desires in front of our reality, but the other way around.</span>
