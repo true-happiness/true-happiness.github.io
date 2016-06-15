@@ -18,7 +18,7 @@ If the causes are right for an effect to occur, it will occur regardless of what
 
 The common way, we, humans, achieve happiness in life is to put what we desire in front of the causes we must perform to achieve the result. We start a project by wanting it to be finished. We run a business by hoping to gain and never to lose. We often live by being afraid of dying even though we are perfectly fine. Even when we are deeply in love with someone, we can't help ourselves feeling a little insecure about how long the good time will last. Humans always put our desire in front of what the reality is. For this reason, our pursue of happiness has led us to constantly become fearful, worried, impatient, and frustrated by what we demand from reality.
 
-But is this really necessary? or is there a better way of pursue happiness?
+But is this really necessary? or is there a better way of pursuing happiness?
 <h2>Two Approaches Toward True Happiness: One Is Scientific And Other Is Not.</h2>
 There are two ways of achieving anything in life.
 
