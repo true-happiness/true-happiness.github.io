@@ -5,7 +5,7 @@ subtitle:   "You can't change or erase what happened in the past, all you can ch
 date:       2016-03-09 12:00:00
 header-img: "img/post-bg-02.jpg"
 author:     "Supakorn Laohasongkram"
-tags: ['why-am-i-unhappy']
+tags: ['why-am-i-unhappy', 'true-happiness-essential']
 ---
 
 <blockquote>You can't change or erase what happened in the past, all you can change is your attitude toward it.</blockquote>
