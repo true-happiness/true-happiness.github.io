@@ -79,10 +79,10 @@ In short, meditation in daily life is to know our body, consciousness, knowledge
 </p>
 </ul>
 
-<strong id="sitting_meditation">2. Sitting and Walking Meditation</strong>
+<strong >2. Sitting and Walking Meditation</strong>
 
 <ul>
-	<li><strong>Sitting Meditation</strong></li>
+	<li><strong id="sitting_meditation">Sitting Meditation</strong></li>
 		<p>Sitting meditation is ultimately to be mindful of our in breath and out breath. Let's first begin with the steps:</p>
 
 		<ol>

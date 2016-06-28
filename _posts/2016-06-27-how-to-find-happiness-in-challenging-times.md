@@ -14,17 +14,20 @@ We all face different kinds of challenging situations in our lives. I have perso
 
 Right then and there. The result? Lighter, clearer mind, more relaxed mood, and a compassionate heart towards yourself, the situation, and the people in it. There are countless tactics to accomplish this. Here are the common tactics I have used which had worked for me. 
 
-<strong>1.	Think of death. </strong>
+<strong>1.	Think of death.</strong>
 
 Of yourself. Of the ones you love. Of the ones you hate. Of you and all these people altogether. Of the very people you are trapped with. 
 
 Consider this very real, and inescapable fact of life. No matter how everlasting the torture or pain you are experiencing, it does not go beyond death. 
 
-<strong>2.	Find a quiet room/corner/space. </strong>
+<strong>2.	Find a quiet room/corner/space.</strong>
 
 Turn your face to the wall, gently close your eyes, sit comfortably and breathe slowly. Just simply relax. This is your space. This is your moment. Feel the air traveling in and out of your whole body.
 
-<strong>3.	A go-to, comforting thought(s). </strong>
+<a href="/2016/05/21/how-to-know-oneself#sitting_meditation">(If you want to learn more about how to do sitting meditation, click here.)
+</a>
+
+<strong>3.	A go-to, comforting thought(s).</strong>
 
 Of your loved one, a sacred place, anything. If thinking of Dalai Lama often brings you a sense of relaxation and calm, use it. Practice it often so when you are deep in that hole of despair, the calm that arise with those thoughts can ease your pain. 
 
