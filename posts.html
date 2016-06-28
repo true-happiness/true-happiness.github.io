@@ -2,7 +2,6 @@
 layout: page
 title: "Archive"
 ---
-
 	<div class="row">
 		<div class="col-sm-10">
 			<ul style="padding: 0;">
@@ -32,7 +31,7 @@ title: "Archive"
 		<div class="col-sm-2">
 			<h2 class="text-center">Tags</h2>
 			{% for data_tag in site.data.tags %}
-			       <hr class="small"><a href="/tags/{{ data_tag.slug }}"><li class="no_decoration text-center">{{ data_tag.name }}</li></a>
+			       <hr class="small"><a href="/tags/{{ data_tag.slug }}"><li class="no_decoration text-center tag_list"><small>{{ data_tag.name }}</small></li></a>
 			{% endfor %}
 		</div>
 	</div>
