@@ -648,3 +648,6 @@ ol li {
     transform: rotate(45deg);
     width: 120px;
 }
+.padding_right {
+  padding-right: 30px;
+}

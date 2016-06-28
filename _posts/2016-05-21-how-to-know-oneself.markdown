@@ -56,7 +56,7 @@ Once the hearts could come to understand the truth of life. Life becomes easier 
 
 <h2>Types of Meditation</h2>
 
-<strong>1. Meditation in Daily Life</strong>
+<strong id="meditation_in_daily_life">1. Meditation in Daily Life</strong>
 
 The most important type of meditation is not one in which most people believe. Many have the idea of meditation as sitting down, closing our eyes, and watch our breathing. But for meditation to be effective it must be practical in our daily life. 
 
@@ -79,7 +79,7 @@ In short, meditation in daily life is to know our body, consciousness, knowledge
 </p>
 </ul>
 
-<strong>2. Sitting and Walking Meditation</strong>
+<strong id="sitting_meditation">2. Sitting and Walking Meditation</strong>
 
 <ul>
 	<li><strong>Sitting Meditation</strong></li>
