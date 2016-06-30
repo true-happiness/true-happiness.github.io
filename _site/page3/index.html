@@ -16,6 +16,38 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/clean-blog.css">
+    <!-- jQuery -->
+    <script src="/js/jquery.min.js "></script>
+    
+    <script src="/js/typed.min.js "></script>
+    <script>
+      $(function(){
+
+          $("#typed").typed({
+              // strings: ["Typed.js is a <strong>jQuery</strong> plugin.", "It <em>types</em> out sentences.", "And then deletes them.", "Try it out!"],
+              stringsElement: $('#typed-strings'),
+              typeSpeed: 30,
+              backDelay: 500,
+              loop: false,
+              contentType: 'html', // or text
+              // defaults to false for infinite loop
+              loopCount: false,
+              callback: function(){ foo(); },
+              resetCallback: function() { newTyped(); }
+          });
+
+          $(".reset").click(function(){
+              $("#typed").typed('reset');
+          });
+
+      });
+
+      function newTyped(){ /* A new typed object */ }
+
+      function foo(){ console.log("Callback"); }
+    </script>
+    
+
     <!-- Google+ author -->
     <link rel="author" href="https://plus.google.com/+SupakornLaohasongkram"/>
 
@@ -126,294 +158,51 @@
 </nav>
 
 
-	    <div itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
-<meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="http://true-happiness.github.io"/>
-<meta content="http://true-happiness.github.io" itemprop='url'/>
-<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-  <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-  <meta itemprop="width" content="1200">
-  <meta itemprop="height" content="630">
-</div>
-<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-  <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-    <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-  </div>
-  <meta itemprop="name" content="True Happiness">
-</div>
-<!-- Page Header -->
-<header class="intro-header">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-10 col-md-offset-1">
-                <div class="site-heading">
-                    <h1 itemprop='name'>True Happiness</h1>
-                <!--     
-                    <small class="text-center" style="font-size: 0.8em; color:#808080;">Make a man happy and he will be happy for a day. Teach a man how to be happy and he will be happy for a life-time.</small>
-                     -->
-                   <hr class="rainbow">
-                    <span class="subheading"></span>
-                </div>
-            </div>
-        </div>
-    </div>
-</header>
-
-<!-- Main Content -->
-<div class="container">
-	<div class="row">
-		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1" itemprop='description articleBody'>
-			<div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+	    <div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
 <meta content='True Happiness' itemprop='name'/>
 </div>
 
-<div class="post-preview" itemscope itemtype='http://schema.org/BlogPosting'>
-    <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="http://true-happiness.github.io"/>
-    <meta content="http://true-happiness.github.io/2016/02/20/why-am-i-unhappy-3/" itemprop='url'/>
-    <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-      <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      <meta itemprop="width" content="1200">
-      <meta itemprop="height" content="630">
-    </div>
-    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-      <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-        <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      </div>
-      <meta itemprop="name" content="True Happiness">
-    </div>
-    <a href="/2016/02/20/why-am-i-unhappy-3/">
-        <h2 class="post-title" itemprop='name headline'>            Philosophy of Meaning
-        </h2>
-        
-        <h3 class="post-subtitle" itemprop='description'>
-            	We are as meaningless as how much meaningful we want to be. Thus, to find true happiness is not to look for meaning, but to stop looking for one.
-        </h3>
-        
-    </a>
-    <!-- <p class="post-meta">Posted by Supakorn Laohasongkram on February 20, 2016</p> -->
-    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
-    <meta content='http://true-happiness.github.io' itemprop='url'/>
-    <span itemprop='name' style="display: none;">Supakorn Laohasongkram</span>
-    </span>
-    <p class="post-meta" itemprop='datePublished' title='2016-02-20 19:00:00 +0700'>February 20, 2016</p>
-</div>
-<hr>
+<body id="landing">
 
-<div class="post-preview" itemscope itemtype='http://schema.org/BlogPosting'>
-    <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="http://true-happiness.github.io"/>
-    <meta content="http://true-happiness.github.io/2016/01/07/no-room-for-desire-in-life/" itemprop='url'/>
-    <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-      <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      <meta itemprop="width" content="1200">
-      <meta itemprop="height" content="630">
-    </div>
-    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-      <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-        <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      </div>
-      <meta itemprop="name" content="True Happiness">
-    </div>
-    <a href="/2016/01/07/no-room-for-desire-in-life/">
-        <h2 class="post-title" itemprop='name headline'>            Science of Happiness: The Law of Cause and Effect.
-        </h2>
-        
-        <h3 class="post-subtitle" itemprop='description'>
-            Life doesn't revolve around what we desire from reality because reality revolves around the absolute law of cause and effect.
-        </h3>
-        
-    </a>
-    <!-- <p class="post-meta">Posted by Supakorn Laohasongkram on January 7, 2016</p> -->
-    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
-    <meta content='http://true-happiness.github.io' itemprop='url'/>
-    <span itemprop='name' style="display: none;">Supakorn Laohasongkram</span>
-    </span>
-    <p class="post-meta" itemprop='datePublished' title='2016-01-07 19:00:00 +0700'>January 7, 2016</p>
-</div>
-<hr>
-
-<div class="post-preview" itemscope itemtype='http://schema.org/BlogPosting'>
-    <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="http://true-happiness.github.io"/>
-    <meta content="http://true-happiness.github.io/2015/12/24/six-greatest-gifts-you-can-give-your-loved-ones/" itemprop='url'/>
-    <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-      <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      <meta itemprop="width" content="1200">
-      <meta itemprop="height" content="630">
-    </div>
-    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-      <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-        <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      </div>
-      <meta itemprop="name" content="True Happiness">
-    </div>
-    <a href="/2015/12/24/six-greatest-gifts-you-can-give-your-loved-ones/">
-        <h2 class="post-title" itemprop='name headline'>            The Six Greatest Gifts You Can Give Your Loved Ones
-        </h2>
-        
-        <h3 class="post-subtitle" itemprop='description'>
-            So if we love someone, we should train in being able to listen.
-        </h3>
-        
-    </a>
-    <!-- <p class="post-meta">Posted by Supakorn Laohasongkram on December 24, 2015</p> -->
-    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
-    <meta content='http://true-happiness.github.io' itemprop='url'/>
-    <span itemprop='name' style="display: none;">Supakorn Laohasongkram</span>
-    </span>
-    <p class="post-meta" itemprop='datePublished' title='2015-12-24 19:00:00 +0700'>December 24, 2015</p>
-</div>
-<hr>
-
-<div class="post-preview" itemscope itemtype='http://schema.org/BlogPosting'>
-    <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="http://true-happiness.github.io"/>
-    <meta content="http://true-happiness.github.io/2015/12/19/why-am-I-unhappy-2/" itemprop='url'/>
-    <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-      <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      <meta itemprop="width" content="1200">
-      <meta itemprop="height" content="630">
-    </div>
-    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-      <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-        <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      </div>
-      <meta itemprop="name" content="True Happiness">
-    </div>
-    <a href="/2015/12/19/why-am-I-unhappy-2/">
-        <h2 class="post-title" itemprop='name headline'>            Cause of Unhappiness Part Two: Comparing Yourself to Others
-        </h2>
-        
-        <h3 class="post-subtitle" itemprop='description'>
-            There is no true happiness to be found in the image of oneself.
-        </h3>
-        
-    </a>
-    <!-- <p class="post-meta">Posted by Supakorn Laohasongkram on December 19, 2015</p> -->
-    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
-    <meta content='http://true-happiness.github.io' itemprop='url'/>
-    <span itemprop='name' style="display: none;">Supakorn Laohasongkram</span>
-    </span>
-    <p class="post-meta" itemprop='datePublished' title='2015-12-19 19:00:00 +0700'>December 19, 2015</p>
-</div>
-<hr>
-
-<div class="post-preview" itemscope itemtype='http://schema.org/BlogPosting'>
-    <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="http://true-happiness.github.io"/>
-    <meta content="http://true-happiness.github.io/2015/12/12/why-am-I-unhappy-1/" itemprop='url'/>
-    <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-      <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      <meta itemprop="width" content="1200">
-      <meta itemprop="height" content="630">
-    </div>
-    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-      <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-        <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      </div>
-      <meta itemprop="name" content="True Happiness">
-    </div>
-    <a href="/2015/12/12/why-am-I-unhappy-1/">
-        <h2 class="post-title" itemprop='name headline'>            Cause of Unhappiness Part One: Externalizing Our Happiness
-        </h2>
-        
-        <h3 class="post-subtitle" itemprop='description'>
-            True Happiness is not dependent upon anything.
-        </h3>
-        
-    </a>
-    <!-- <p class="post-meta">Posted by Supakorn Laohasongkram on December 12, 2015</p> -->
-    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
-    <meta content='http://true-happiness.github.io' itemprop='url'/>
-    <span itemprop='name' style="display: none;">Supakorn Laohasongkram</span>
-    </span>
-    <p class="post-meta" itemprop='datePublished' title='2015-12-12 19:00:00 +0700'>December 12, 2015</p>
-</div>
-<hr>
-
-<div class="post-preview" itemscope itemtype='http://schema.org/BlogPosting'>
-    <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="http://true-happiness.github.io"/>
-    <meta content="http://true-happiness.github.io/2015/11/21/empty-handed-full-hearted/" itemprop='url'/>
-    <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-      <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      <meta itemprop="width" content="1200">
-      <meta itemprop="height" content="630">
-    </div>
-    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-      <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-        <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      </div>
-      <meta itemprop="name" content="True Happiness">
-    </div>
-    <a href="/2015/11/21/empty-handed-full-hearted/">
-        <h2 class="post-title" itemprop='name headline'>            Empty Handed Full Hearted
-        </h2>
-        
-    </a>
-    <!-- <p class="post-meta">Posted by Supakorn Laohasongkram on November 21, 2015</p> -->
-    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
-    <meta content='http://true-happiness.github.io' itemprop='url'/>
-    <span itemprop='name' style="display: none;">Supakorn Laohasongkram</span>
-    </span>
-    <p class="post-meta" itemprop='datePublished' title='2015-11-21 19:00:00 +0700'>November 21, 2015</p>
-</div>
-<hr>
-
-<div class="post-preview" itemscope itemtype='http://schema.org/BlogPosting'>
-    <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="http://true-happiness.github.io"/>
-    <meta content="http://true-happiness.github.io/yoyo/2015/09/17/simplify/" itemprop='url'/>
-    <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-      <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      <meta itemprop="width" content="1200">
-      <meta itemprop="height" content="630">
-    </div>
-    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-      <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-        <meta itemprop="url" content="http://true-happiness.github.io/img/logo-fb.png">
-      </div>
-      <meta itemprop="name" content="True Happiness">
-    </div>
-    <a href="/yoyo/2015/09/17/simplify/">
-        <h2 class="post-title" itemprop='name headline'>            Simplify
-        </h2>
-        
-        <h3 class="post-subtitle" itemprop='description'>
-            Less is more.
-        </h3>
-        
-    </a>
-    <!-- <p class="post-meta">Posted by Supakorn Laohasongkram on September 17, 2015</p> -->
-    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
-    <meta content='http://true-happiness.github.io' itemprop='url'/>
-    <span itemprop='name' style="display: none;">Supakorn Laohasongkram</span>
-    </span>
-    <p class="post-meta" itemprop='datePublished' title='2015-09-17 19:00:00 +0700'>September 17, 2015</p>
-</div>
-<hr>
-
-<!-- Pager -->
-
-<ul class="pager">
+<div id="body">
     
-    <li class="previous">
-        <a href="/page2">&larr; Newer Posts</a>
-    </li>
-    
-    <li>
-        <a href="/posts">See All Posts</a>
-    </li>
-    
-    <li class="next">
-        <a href="/page4">Older Posts &rarr;</a>
-    </li>
-    
-</ul>
+    <div class="site-landing">
+        <section class="landing-section">
+            <div class="section__inner text-center">
+            <header class="intro-header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-10 col-md-offset-1">
+                            <div class="site-heading">
+                                <h1 itemprop='name'>True Happiness</h1>
+                               <hr class="rainbow">
+                                <span class="subheading"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>               
+                <h1>Learn the science and practice of how to truly become happy</h1>
+                <div class="type-wrap">
+                    <div id="typed-strings">
+                        <p>Why am I unhappy?</p>
+                        <p>What is Happiness?</p>
+                        <p>What is the cause and condition of happiness?</p>
+                        <p>Why is life difficult?</p>
+                        <p>How can I be happier in life?</p>
+                    </div>
+                    <span id="typed" style="white-space:pre; color:black;"></span>
+                </div>
+            </div>
+        </section>
+    </div>
 
-		</div>
-	</div>
+
 </div>
 
-<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
-<meta content='http://true-happiness.github.io' itemprop='url'/>
-<span itemprop='name' style="display: none;">True Happiness</span>
-</span>
-<p style="display: none;" itemprop='datePublished' title=''></p>
-</div>
+
+</body>
+
 
 	    <!-- Footer -->
 <footer>
@@ -467,13 +256,15 @@
     </div>
 </footer>
 <!-- jQuery -->
-<script src="/js/jquery.min.js "></script>
+<!-- <script src="/js/jquery.min.js "></script> -->
 <!-- Bootstrap Core JavaScript -->
 <script src="/js/bootstrap.min.js "></script>
 <!-- Custom Theme JavaScript -->
 <script src="/js/clean-blog.min.js "></script>
 <!-- Custom Fonts -->
-<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/css/font-awesome.min.css">
+
+
 
 <!-- Pygments Github CSS -->
 <!-- <link rel="stylesheet" href="/css/syntax.css"> -->
