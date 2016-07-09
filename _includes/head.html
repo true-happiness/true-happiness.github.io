@@ -7,7 +7,7 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} {% if page.title == "True Happiness" %}{% else %}- True Happiness{% endif %}</title>
     <link rel="alternate" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" hreflang="en" />
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    
+
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
     <!-- Custom CSS -->
@@ -41,6 +41,8 @@
       <meta content="website" property="og:type">
     {% endif %}
       <meta content="{{ site.url }}{{ site.logo }}" property="og:image">
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="630" />
     {% if page.description %}
       <meta content="{{ page.description }}" property="og:description">
     {% else %}
