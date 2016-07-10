@@ -50,6 +50,37 @@
     font-weight: 300;
     font-style: italic;
 }
+@font-face {
+    font-family: freightsans_blackregular;
+    src: url(fonts/FreightSans/freightsans_black-webfont.eot);
+    src: url(fonts/FreightSans/freightsans_black-webfont.eot?#iefix) format("embedded-opentype"), url(fonts/FreightSans/freightsans_black-webfont.woff2) format("woff2"), url(fonts/FreightSans/freightsans_black-webfont.woff) format("woff"), url(fonts/FreightSans/freightsans_black-webfont.ttf) format("truetype"), url(fonts/FreightSans/freightsans_black-webfont.svg#freightsans_blackregular) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: freightsans_boldregular;
+    src: url(fonts/FreightSans/freightsans-bold-webfont.eot);
+    src: url(fonts/FreightSans/freightsans-bold-webfont.eot?#iefix) format("embedded-opentype"), url(fonts/FreightSans/freightsans-bold-webfont.woff2) format("woff2"), url(fonts/FreightSans/freightsans-bold-webfont.woff) format("woff"), url(fonts/FreightSans/freightsans-bold-webfont.ttf) format("truetype"), url(fonts/FreightSans/freightsans-bold-webfont.svg#freightsans_boldregular) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: freightsans_bookregular;
+    src: url(fonts/FreightSans/freightsans_book-webfont.eot);
+    src: url(fonts/FreightSans/freightsans_book-webfont.eot?#iefix) format("embedded-opentype"), url(fonts/FreightSans/freightsans_book-webfont.woff2) format("woff2"), url(fonts/FreightSans/freightsans_book-webfont.woff) format("woff"), url(fonts/FreightSans/freightsans_book-webfont.ttf) format("truetype"), url(fonts/FreightSans/freightsans_book-webfont.svg#freightsans_lightregular) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: freightsans_mediumregular;
+    src: url(fonts/FreightSans/freightsans_medium-webfont.eot);
+    src: url(fonts/FreightSans/freightsans_medium-webfont.eot?#iefix) format("embedded-opentype"), url(fonts/FreightSans/freightsans_medium-webfont.woff2) format("woff2"), url(fonts/FreightSans/freightsans_medium-webfont.woff) format("woff"), url(fonts/FreightSans/freightsans_medium-webfont.ttf) format("truetype"), url(fonts/FreightSans/freightsans_medium-webfont.svg#freightsans_mediumregular) format("svg");
+    font-weight: 400;
+    font-style: normal
+}
 
 body {
   font-family: 'Proxima Nova','Open Sans', 'Times New Roman', serif;
@@ -713,45 +744,6 @@ ol li {
   margin: 0;
 }
 
-
-/* code for animated blinking cursor */
-.typed-cursor{
-    opacity: 1;
-    font-weight: 100;
-    -webkit-animation: blink 0.7s infinite;
-    -moz-animation: blink 0.7s infinite;
-    -ms-animation: blink 0.7s infinite;
-    -o-animation: blink 0.7s infinite;
-    animation: blink 0.7s infinite;
-}
-@-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-@-webkit-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-@-moz-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-@-ms-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-@-o-keyframes blink{
-    0% { opacity:1; }
-    50% { opacity:0; }
-    100% { opacity:1; }
-}
-
-
-
 #landing {
   position: relative;
 }
@@ -763,6 +755,7 @@ ol li {
       display: -moz-flexbox;
       display: -webkit-flex;
       display: flex;
+      position: relative;
       -ms-justify-content: center;
       -moz-justify-content: center;
       -webkit-justify-content: center;
@@ -783,7 +776,11 @@ ol li {
 .big-quote {
   font-weight: 100; 
   margin:0; 
-  color: #777;
+  color: #000;
+  font-style: normal;
+  letter-spacing: 0.5px;
+  /*font-family: 'freightsans_mediumregular'*/
+  line-height: 1.5
 }
 .scroll-down {
   display: block;

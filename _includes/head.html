@@ -7,7 +7,6 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} {% if page.title == "True Happiness" %}{% else %}- True Happiness{% endif %}</title>
 
     <link rel="alternate" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" hreflang="en" />
-
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Bootstrap Core CSS -->
@@ -16,38 +15,6 @@
     <link rel="stylesheet" href="{{ "/css/clean-blog.css" | prepend: site.baseurl }}">
     <!-- Animate.css -->
     <link rel="stylesheet" href="{{ "/css/animate.css" | prepend: site.baseurl }}">
-    <!-- jQuery -->
-    <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
-    {% if page.title == 'True Happiness' %}
-    <script src="{{ "/js/typed.min.js " | prepend: site.baseurl }}"></script>
-    <script>
-      $(function(){
-
-          $("#typed").typed({
-              // strings: ["Typed.js is a <strong>jQuery</strong> plugin.", "It <em>types</em> out sentences.", "And then deletes them.", "Try it out!"],
-              stringsElement: $('#typed-strings'),
-              typeSpeed: 30,
-              backDelay: 1000,
-              loop: true,
-              contentType: 'html', // or text
-              // defaults to false for infinite loop
-              loopCount: false,
-              callback: function(){ foo(); },
-              resetCallback: function() { newTyped(); }
-          });
-
-          $(".reset").click(function(){
-              $("#typed").typed('reset');
-          });
-
-      });
-
-      function newTyped(){ /* A new typed object */ }
-
-      function foo(){ console.log("Callback"); }
-    </script>
-    {% endif%}
-
     <!-- Google+ author -->
     <link rel="author" href="https://plus.google.com/+SupakornLaohasongkram"/>
 
@@ -66,43 +33,33 @@
     <!-- facebook Open Graph Metadatas -->
     <meta content="551919411635360" property="fb:app_id">
     <meta content="{{ site.title }}" property="og:site_name">
+    {% if page.title %}<meta content="{{ page.title }}" property="og:title">{% else %}<meta content="{{ site.title }}" property="og:title">{% endif %}
     {% if page.title %}
-      <meta content="{{ page.title }}" property="og:title">
+    <meta content="article" property="og:type">
     {% else %}
-      <meta content="{{ site.title }}" property="og:title">
+    <meta content="website" property="og:type">
     {% endif %}
-    {% if page.title %}
-      <meta content="article" property="og:type">
-    {% else %}
-      <meta content="website" property="og:type">
-    {% endif %}
-      <meta content="{{ site.url }}{{ site.logo }}" property="og:image">
+    <meta content="{{ site.url }}{{ site.logo }}" property="og:image">
     {% if page.description %}
-      <meta content="{{ page.description }}" property="og:description">
+    <meta content="{{ page.description }}" property="og:description">
     {% else %}
-      <meta content="{{ site.description }}" property="og:description">
+    <meta content="{{ site.description }}" property="og:description">
     {% endif %}
     {% if page.url %}
-      <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
     {% endif %}
     {% if page.date %}
-      <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-      <meta content="{{ site.url }}/about/" property="article:author">
+    <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+    <meta content="{{ site.url }}/about/" property="article:author">
     {% endif %}
-    {% if page.categories %}
-      {% for category in page.categories limit:1 %}
-      <meta content="{{ category }}" property="article:section">
-      {% endfor %}
-    {% endif %}
-    {% if page.tags %}
-      {% for tag in page.tags %}
-      <meta content="{{ tag }}" property="article:tag">
-      {% endfor %}
-    {% endif %}
+    {% if page.categories %}{% for category in page.categories limit:1 %}<meta content="{{ category }}" property="article:section">{% endfor %}{% endif %}
+    {% if page.tags %}{% for tag in page.tags %}<meta content="{{ tag }}" property="article:tag">{% endfor %}{% endif %}
+    <meta property='article:author' content='https://www.facebook.com/supakorn.laohasongkram'/>
+
     <!-- Twitter cards metadatas -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@klaoha06">
-    <meta name="twitter:creator" content="@klaoha06">
+    <meta name="twitter:site" content="@_truehappiness">
+    <meta name="twitter:creator" content="@_truehappiness">
     {% if page.title %}
       <meta name="twitter:title" content="{{ page.title }}">
     {% else %}
