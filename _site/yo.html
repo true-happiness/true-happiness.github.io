@@ -1,0 +1,62 @@
+
+<body id="landing">
+
+<div id="body" style="height: 100vh;">
+    
+    <div class="site-landing">
+        <div class="landing-section">
+            <div class="slide text-center">
+            <header class="intro-header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-10 col-md-offset-1">
+                            <div class="site-heading" style="padding-top: 0;">
+                            <h3 id="intro-heading">This is where you find..{{ page.description }}</h3>
+                                <!-- <span class="subheading">This is where you find it.{{ page.description }}</span> -->
+                                <h1 class="site-heading" style="padding-top: 40px;">True Happiness</h1>
+                                <hr class="rainbow-thick">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            <!--      <h1 itemprop='name'>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                <hr class="rainbow"> -->
+            </header>
+            <a id="first-down" class="scroll-down" href="#slide2" page-scroll>
+                <!-- <p class="no_margin">Start Here</p> -->
+                <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span>
+            </a>          
+         <!--        <div class="type-wrap">
+                    <div id="typed-strings">
+                        <p>Why am I unhappy?</p>
+                        <p>What is Happiness?</p>
+                        <p>What is the cause and condition of happiness?</p>
+                        <p>Why is life difficult?</p>
+                        <p>How can I be happier in life?</p>
+                    </div>
+                    <span id="typed" style="white-space:pre; color:black;"></span>
+                </div> -->
+            </div>
+            <div id="slide2" class="slide">
+                <h1>If you are looking for ways to be happier then you are in the right place!</h1>
+            </div>
+            <div id="slide3" class="slide">
+                <h1>If you are looking for ways to be happier then you are in the right place!</h1>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+<script type="text/javascript">
+    $.fn.extend({
+        animateCss: function (animationName) {
+            var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
+            $(this).addClass('animated ' + animationName).one(animationEnd, function() {
+                $(this).removeClass('animated ' + animationName);
+            });
+        }
+    });
+    $('#first-down').animateCss('bounce');
+</script>
