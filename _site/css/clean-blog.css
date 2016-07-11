@@ -172,6 +172,7 @@ li {
 }
 .landing-heading {
   font-size: 1em;
+  padding-top: 0;
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
@@ -784,12 +785,15 @@ ol li {
 }
 .scroll-down-arrow {
   display: block;
-  width: 300px;
+  width: 100px;
+  height: 100px;
   margin: 40px auto 0;
   position: absolute;
   bottom: 20px;
+  margin-bottom:-50px;
   left: 0;
   right: 0;
+  text-align: center;
   -webkit-animation-duration: 6s !important;
   -webkit-animation-iteration-count: infinite !important;
 }
@@ -799,5 +803,8 @@ ol li {
 }
 .scroll-down-arrow, a:hover {
   text-decoration: none;
+}
+.down-arrow {
+  position:absolute; top: unset; bottom: 55px; right: 42%;
 }
 

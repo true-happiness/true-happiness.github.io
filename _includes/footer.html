@@ -1,4 +1,4 @@
-{% if page.title != 'True Happiness'%}
+{% if page.url != site.url %}
 <!-- Footer -->
 <footer>
     <div class="container">
@@ -51,16 +51,17 @@
     </div>
 </footer>
 {% endif %}
+<!-- Custom Fonts -->
+<link rel="stylesheet" href="{{ "/css/font-awesome.min.css" | prepend: site.baseurl }}">
 <!-- jQuery -->
 <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
 <!-- Bootstrap Core JavaScript -->
 <script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
-<!-- Custom Fonts -->
-<link rel="stylesheet" href="{{ "/css/font-awesome.min.css" | prepend: site.baseurl }}">
+<!-- Jquery Easing -->
+<script src="{{ "/js/jquery.easing.min.js " | prepend: site.baseurl }}"></script>
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.js " | prepend: site.baseurl }}"></script>
-{% if page.title == 'Forum' %}
-<script src="{{ "/js/forum.js " | prepend: site.baseurl }}"></script>
-{% endif%}
+<!-- Muut Forum -->
+{% if page.title == 'Forum' %}<script src="{{ "/js/forum.js " | prepend: site.baseurl }}"></script>{% endif%}
 <!-- Pygments Github CSS -->
 <!-- <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}"> -->
