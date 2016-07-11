@@ -807,4 +807,22 @@ ol li {
 .down-arrow {
   position:absolute; top: unset; bottom: 55px; right: 42%;
 }
-
+.landing-subheading {
+  font-size: 2.2em;
+}
+.landing-paragraph {
+  font-weight: 100; 
+  margin:0; 
+  font-family:'Open Sans';
+  color: #777;
+  line-height: 1.7;
+  font-size: 18px;
+}
+@media screen and (min-width: 900px) {
+  .landing-paragraph {
+      font-size: 25px;
+  }
+  .landing-subheading {
+    font-size: 3em;
+  }
+}
