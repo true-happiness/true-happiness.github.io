@@ -782,7 +782,7 @@ ol li {
   /*font-family: 'freightsans_mediumregular'*/
   line-height: 1.5
 }
-.scroll-down {
+.scroll-down-arrow {
   display: block;
   width: 300px;
   margin: 40px auto 0;
@@ -790,16 +790,14 @@ ol li {
   bottom: 20px;
   left: 0;
   right: 0;
+  -webkit-animation-duration: 6s !important;
+  -webkit-animation-iteration-count: infinite !important;
 }
-.scroll-down svg {
+.scroll-down-arrow svg {
   height: 100%;
   width: 100%;
 }
-#first-down {
-  -webkit-animation-duration: 6s;
-  -webkit-animation-iteration-count: infinite;
-}
-#first-down, a:hover {
+.scroll-down-arrow, a:hover {
   text-decoration: none;
 }
 
