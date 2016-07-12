@@ -5,7 +5,7 @@ subtitle:   "True Happiness is not dependent upon anything."
 date:       2015-12-12 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-02.jpg"
-tags: ['why-am-i-unhappy']
+tags: ['dealing-with-unhappiness']
 ---
 
 <blockquote>Happiness is like a string which ties us to that which we believe is our happiness.</blockquote>

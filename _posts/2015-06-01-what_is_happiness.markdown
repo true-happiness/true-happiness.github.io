@@ -4,7 +4,7 @@ title:      "What is Happiness?"
 subtitle:   ""
 date:       2015-06-01 12:00:00
 author:     "Supakorn Laohasongkram"
-tags: ['true-happiness-essential', 'what-is-true-happiness']
+tags: ['true-happiness-essential', 'understanding-of-true-happiness']
 ---
 
 Happiness, in its most typical definition, is to get what we want. We would be happy if we always get what we want. We would be happy if everything goes exactly like how we want life to be. Once we get all that we want, we become content and satisfied with life. This sense of contentment, fulfilment, and satisfaction is ultimately what happiness is.

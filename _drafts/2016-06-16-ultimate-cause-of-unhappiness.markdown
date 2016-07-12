@@ -5,7 +5,7 @@ subtitle:   ""
 date:       2016-06-09 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-02.jpg"
-tags: ['why-am-i-unhappy']
+tags: ['dealing-with-unhappiness']
 important: "yes"
 ---
 

@@ -4,7 +4,7 @@ title:      "Causes and Conditions of Happiness"
 subtitle:   "We Are Unhappy Because We Only Work on One Half of Our Happiness."
 date:       2015-06-29 12:00:00
 author:     "Supakorn Laohasongkram"
-tags: ['true-happiness-essential', 'cause-of-true-happiness']
+tags: ['true-happiness-essential', 'understanding-of-true-happiness']
 ---
 
 By looking at the <a href="/2015/06/01/what_is_happiness/">definition of happiness</a> alone, one could come to the conclusion that there are two ways of approaching happiness in life. 

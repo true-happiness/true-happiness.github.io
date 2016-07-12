@@ -5,7 +5,7 @@ subtitle:   "You are only truly lost when you give up. So never give up."
 date:       2016-06-09 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-02.jpg"
-tags: ['why-am-i-unhappy']
+tags: ['dealing-with-unhappiness']
 ---
 
 There will be times when life becomes too overwhelming. There will be times in our lives where we have no idea how to go on. There will be times where doubt, fear, confusion, and uncertainty will set in and cloud our minds. 

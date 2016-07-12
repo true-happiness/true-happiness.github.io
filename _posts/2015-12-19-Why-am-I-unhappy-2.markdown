@@ -5,7 +5,7 @@ subtitle:   "There is no true happiness to be found in the image of oneself."
 date:       2015-12-19 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post-bg-02.jpg"
-tags: ['why-am-i-unhappy']
+tags: ['dealing-with-unhappiness']
 ---
 
 Human's innate ability to compare ourselves to others is perhaps the root of all sins in this world. Knowing that I am better create a sense of pride or even arrogant, while knowing that I am less create a sense of envy and jealousy toward the other. There can be no ends to our comparison unless we stop to put any value into it.

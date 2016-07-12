@@ -5,7 +5,7 @@ subtitle:   "No matter how difficult the situation you face, there are ways to u
 date:       2016-06-27 12:00:00
 author:     "V"
 header-img: "img/post-bg-02.jpg"
-tags: ['why-am-i-unhappy']
+tags: ['dealing-with-unhappiness']
 ---
 
 We all face different kinds of challenging situations in our lives. I have personally struggled throughout life with my loved ones’ poor judgments and decision-making, leaving me stuck with the unpleasant fruit of their actions. As I go on living, I realize that there are numerous times in which I have no choice or control over my environment. I encounter selfish, greedy, and uncooperative coworkers in my workplace, yet I had to put up with it and get my tasks done as best as I could. I return to my home at the end of each day, to find more stress rather than relaxation. With the build up of stress everywhere I turn, I needed a quick and practical relief.
