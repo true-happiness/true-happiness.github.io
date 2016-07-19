@@ -771,7 +771,7 @@ ol li {
 .light-heading {
   font-weight: 100; 
   margin:0; 
-  font-family:'Open Sans';
+  /*font-family:'Open Sans';*/
   color: #777;
 }
 .big-quote {
@@ -813,7 +813,7 @@ ol li {
 .landing-paragraph {
   font-weight: 100; 
   margin:0; 
-  font-family:'Open Sans';
+  font-family:'Open Sans, Proxima Nova, Helvetica Neue, Helvetica, Arial, sans-serif';
   color: #777;
   line-height: 1.7;
   font-size: 18px;
