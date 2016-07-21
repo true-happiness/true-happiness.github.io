@@ -7,6 +7,7 @@ author:     "V"
 header-img: "img/post-bg-02.jpg"
 tags: ['understanding-of-true-happiness']
 --- 
+<blockquote class="text-center"><h3>"The happiness ahead does not exist. It's now or never."</h3></blockquote>
 
 Happiness only blooms within your heart when certain conditions are met. Like a seed that needs the right combination of soil, water, sunlight, and ecosystem to develop into a full-grown tree, the state of true happiness is achieved once their requirements are fulfilled too. 
 
