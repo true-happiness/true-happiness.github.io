@@ -813,7 +813,7 @@ ol li {
 .landing-paragraph {
   font-weight: 100; 
   margin:0; 
-  font-family:'Open Sans, Proxima Nova, Helvetica Neue, Helvetica, Arial, sans-serif';
+  font-family:'Open Sans','Proxima Nova','Helvetica Neue', 'Times New Roman', serif;
   color: #777;
   line-height: 1.7;
   font-size: 18px;
