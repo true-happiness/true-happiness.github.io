@@ -12,7 +12,7 @@ Human's innate ability to compare ourselves to others is perhaps the root of all
 <h2>The fuels behind our comparisons are our likes and dislikes.</h2>
 Let's say for example that we would like to be promoted. However, someone was promoted instead. We can't help but feel disappointed or even a sense of hate or jealousy. Why? Because we believe a promotion has value and is desirable. But if we did not want to be promoted in the first place then we simply would not care who got promoted or didn't.
 
-I used to be someone who enjoyed being better than others. My identity was dependent upon others being less than who I am. Every conservation I start every word I speak leak a sense of pride and the desperate need to show off myself. When I met someone who is worse of than I am then I became overjoyed because I felt I was "better". But when I met someone who was better suddenly I felt scared and inferior.
+I used to be someone who enjoyed being better than others. My identity was dependent upon others being less than who I am. Every conversation I start every word I speak leak a sense of pride and the desperate need to show off myself. When I met someone who is worse of than I am then I became overjoyed because I felt I was "better". But when I met someone who was better suddenly I felt scared and inferior.
 
 My happiness was contextual. I thought my happiness was to look better than others, but what I couldn't see is how tiresome it was for me as well as those around me to put up with my own inferiority complex.
 

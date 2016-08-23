@@ -8,9 +8,9 @@ header-img: "img/post-bg-02.jpg"
 tags: ['dealing-with-unhappiness']
 ---
 
-<blockquote>Happiness is like a string which ties us to that which we believe is our happiness.</blockquote>
+<h2 class="section-heading capitalized">Happiness is like a string which ties us to that which we believe is our happiness.</h2>
 We, humans, have many things which our happiness is dependent upon whether it would be our wealth, health, or our love ones. Let's say for example that if you tie your happiness with being rich and accepted, then as long as you are not rich and accepted you can not be happy. Similarly, if you rest your happiness on your promotion then the promotion becomes the happiness which you have put outside of yourself.
-
+<blockquote>"The person who seeks all their applause from outside has their happiness in another's keeping ." - Dale Carnegie</blockquote>
 Nowadays, the society <em>only</em> encourages us to put our happiness outside of ourselves. The media is telling us that for one to be happy one needs to have a new iPhone, a big house, a good job, and a beautiful spouse, a degree from Harvard and on and on. Imagine ourselves being tied to millions of these strings which we come to know as “happiness”. What we soon realise is that “happiness” starts to become a spider webs in which we are the preys. Each "happiness" is pulling us left and right to the point that it becomes impossible to obtain any happiness or freedom in life.
 <h2 class="section-heading capitalized">So What Do We Do?</h2>
 How do we keep our happiness with us? Here are some interesting concepts to contemplate and chew on which will help you find True Happiness in this chaotic world.
