@@ -2,7 +2,7 @@
 layout:     post
 title:      "True Happiness Is Found, Not Chased"
 subtitle:   "The happiness ahead does not exist. It's now or never."
-date:       2016-06-27 12:00:00
+date:       2016-07-28 12:00:00
 author:     "V"
 header-img: "img/post-bg-02.jpg"
 tags: ['understanding-of-true-happiness']
