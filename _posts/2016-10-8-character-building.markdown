@@ -12,7 +12,7 @@ tags: ['true-happiness-essential', 'understanding-of-true-happiness']
 </blockquote>
 If there is a hundred dollar bill dropped in front of us while no one is watching, would snatching the opportunity considered "smart?" If there is an opportunity for us evade taxes and take advantages of the system's loop hole, would profitting from such tactics be "smart?" If we can cut corners and manipulate others to do the work we don't want to do, would that be a "smart" thing to do? Here, Aristotle would not only said that it is <em>not</em> "smart." But worse, <strong>giving in to our own greed and desire is what Aristotle would described as a weakness of character.</strong>
 
-For Aristotle, a moderate man becomes moderate because his ability to abstain from his greed. A couragous man becomes couragous because in spite of his fear he is able to act in ways which opposes it. The ability to rise above one's impulses is the essense of human is.  It is what make human "excellence."
+For Aristotle, a moderate man becomes moderate because his ability to abstain from his greed. A courageous man becomes courageous because in spite of his fear he is able to act in ways which opposes it. The ability to rise above one's impulses is the essense of human is.  It is what make human "excellence."
 
 When a group of monkeys are hungry, they do not rationalize whether the act of stealing food is moral or immoral, they do whatever their impulses demand of them. When a dog is in shock or in a state of panic, it will attack even its owner if its instinct calls for such action. A termite swarmer will fly into a bon fire if its impulse demands it to do so.
 
