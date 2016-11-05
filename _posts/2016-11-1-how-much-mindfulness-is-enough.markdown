@@ -1,13 +1,13 @@
 ---
 layout:     post
 title:      "How Much Mindfulness is Enough?"
-subtitle:   "The moment you wake to the moment you go to bed"
+subtitle:   "The moment you wake to the moment you go to bed."
 date:       2016-11-1 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post/howmuchmindfulnessisenough.png"
 img-width: "1024"
 img-height: "512"
-tags: ['true-happiness-essential', 'understanding-of-true-happiness']
+tags: ['true-happiness-essential', 'understanding-of-true-happiness', 'practice-of-true-happiness']
 ---
 <blockquote>
 <p style="text-align: center;"><strong>Disciple:</strong> "How many hours should I spent doing mindfulness, master?"</p>
@@ -36,5 +36,3 @@ When sitting at your desk, you might often be distracted and sidetrack by going 
 Clearly, meditation is not just something you do for a period of time. It is what one can do all day in every activity. So how much mindfulness is enough? That depends on how much you want to better yourself and how much you care about your happiness. The more you do it the more change you can be for yourself and the happier you become!
 
 Remember, mindfulness is your inner school. No one is in class when you are unmindful. So be present. (Literally and figuratively!)
-
-
