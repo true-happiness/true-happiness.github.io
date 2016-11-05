@@ -4,7 +4,7 @@ title:      "How Much Mindfulness is Enough?"
 subtitle:   "The moment you wake to the moment you go to bed"
 date:       2016-11-1 12:00:00
 author:     "Supakorn Laohasongkram"
-header-img: "img/post-bg-02.jpg"
+header-img: "img/How Much Mindfulness is Enough-.png"
 tags: ['true-happiness-essential', 'understanding-of-true-happiness']
 ---
 <blockquote>

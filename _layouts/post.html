@@ -8,13 +8,13 @@ layout: default
 <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{site.url}}"/>
 <meta content='{{ site.url }}{{ page.url }}' itemprop='url'/>
 <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-  <meta itemprop="url" content="{{site.url}}{{site.logo}}">
+  <meta itemprop="url" content="{% if post.header-img %}{{site.url}}/{{ post.header-img }}{% else %}{{site.url}}{{site.logo}}{% endif %}">
   <meta itemprop="width" content="1200">
   <meta itemprop="height" content="630">
 </div>
 <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
   <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-    <meta itemprop="url" content="{{site.url}}{{site.logo}}">
+    <meta itemprop="url" content="{% if post.header-img %}{{site.url}}/{{ post.header-img }}{% else %}{{site.url}}{{site.logo}}{% endif %}">
   </div>
   <meta itemprop="name" content="{{site.title}}">
 </div>
