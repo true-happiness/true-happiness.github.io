@@ -5,6 +5,8 @@ subtitle:   "The moment you wake to the moment you go to bed"
 date:       2016-11-1 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post/howmuchmindfulnessisenough.png"
+img-width: "1024"
+img-height: "512"
 tags: ['true-happiness-essential', 'understanding-of-true-happiness']
 ---
 <blockquote>
