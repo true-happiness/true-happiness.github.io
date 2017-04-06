@@ -4,7 +4,7 @@ title:      "My Experience as a Buddhist Monk"
 subtitle:   "The best time I ever have in my life was when I was a Theravada Buddhist monk."
 date:       2017-04-5 12:00:00
 author:     "Supakorn Laohasongkram"
-header-img: "img/post-bg-02.jpg"
+header-img: "img/post/experience-as-buddhist-monk.png"
 img-width: "1024"
 img-height: "512"
 tags: ['understanding-of-true-happiness', 'practice-of-true-happiness']
