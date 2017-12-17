@@ -588,8 +588,10 @@ section {
   margin:5px;
 }
 
-hr.rainbow{margin: 40px auto; background-color:white; width: 50%; position: relative;}
+hr.rainbow{background-color:white; width: 50%; border-top: none;}
 hr.rainbow:after {
+  margin: 40px auto 0px auto;
+  width: 50%;
   content: "";
   position: absolute;
   left: 0px;
@@ -601,9 +603,11 @@ hr.rainbow:after {
   background-image: linear-gradient(to right, #F78181 16.666667%, #BEF781 16.666667%, #BEF781 33.333333%, #58ACFA 33.333333%, #58ACFA 50%, #9b59b6 50%, #9b59b6 66.666667%, #BDBDBD 66.666667%, #BDBDBD 83.333333%, #F3F781 83.333333%);
   /*background-image: -webkit-linear-gradient(0deg, #F78181 40px, #BEF781 40px, #BEF781 70px,#58ACFA 70px, #58ACFA 100px, #9b59b6 100px,#9b59b6 130px,#BDBDBD 130px,#BDBDBD 160px,#F3F781 160px,#F3F781 190px,#58FAD0 190px,#58FAD0 220px,#FE642E 220px,#FE642E 250px,#DA81F5 250px,#DA81F5 280px,#886A08 280px,#886A08 310px,#088A29 310px,#088A29 340px,#cff9d5 340px, #cff9d5 370px, #ffc823 370px, #ffc823 400px, #7A00E5 400px, #7A00E5 430px, #fb9e9e 430px);*/
 }
-hr.rainbow-thick{margin: 40px auto; background-color:white; width: 60%; position: relative;}
+hr.rainbow-thick{margin: 10px auto; background-color:white; border-top: none;}
 hr.rainbow-thick:after {
   content: "";
+  width: 60%;
+  margin: 40px auto 0px auto;
   position: absolute;
   left: 0px;
   right:0px;
