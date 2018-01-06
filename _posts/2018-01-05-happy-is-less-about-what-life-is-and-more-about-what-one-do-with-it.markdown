@@ -12,22 +12,29 @@ tags: ['understanding-of-true-happiness']
 <h2>Summary</h2>
 Happiness is less about what life is and more about what you do with it.
 <h2>Content</h2>
-There will be a time in everyone's life where we think we are at the lowest point of our lives. We think to ourselves how we will never be able to succeed and achieve what we set out to do. We think to ourselves how miserable or unfortunate our lives have become. We see ourselves as failures, losers, and etc. The list goes on.
+There will be a time in everyone's life where we think we are at the lowest point of our lives. We think to ourselves how we will never be able to succeed and achieve what we set out to do. We pity ourselves about how miserable or unfortunate our lives have become. We see ourselves as failures, losers, and etc. The list goes on.
 
-Yet, none of those negative thoughts are going to get us out of our misery. There is a famous quote which goes:
+However, <strong>the secret to happiness is not what life is to us what we do with it</strong>. Only those are able to accept the reality for what it is and continue to move forward or those who are able to keep their heads up even in the bleakest moment of life knows the secret to happiness.
+
+Viktor Frankl, a famous psychologist and a Holocaust survivor who observed what happened in the concentration camp, posted the following questions in his most well-known book, <em>Man's Search for Meaning</em>:
+<blockquote>“Is there no spiritual freedom in regard to behavior and reaction to any given surroundings? Is that theory true which would have us believe that man is no more than a product of many conditional and environmental factors—be they of a biological, psychological or sociological nature? ... Most important, do the prisoners’ reactions to the singular world of the concentration camp prove that man cannot escape the influences of his surroundings? Does man have no choice of action in the face of such circumstances?”</blockquote>
+Here, he questioned if life or our circumstance is what <em>entirely</em> determines the quality of our life. His answer was plain and simple: no.
+<blockquote>"In the final analysis it becomes clear that the sort of person the prisoner became was the result of an inner decision, and not the result of camp influences alone. Fundamentally, therefore, any man can, even under such circumstances, decide what shall become of him--mentally and spiritually."</blockquote>
+<strong>Man's attitude to his existence is what determines life meaning and purpose.</strong> Those who could find meaning and happiness in the worst of circumstance knows the secret to happiness. We can't always choose our circumstance but we can choose is how we react to our circumstance.
+<blockquote>“And there were always choices to make. Every day, every hour, offered the opportunity to make a decision, a decision which determined whether you would or would not submit to those powers which threatened to rob you of your very self, your inner freedom; which determined whether or not you would become the plaything of circumstance, ...”</blockquote>
+If we are miserable, drowning ourselves in our sorrow or in our fate will not improve the situation instead what we become what Viktor described as "the plaything of circumstance." There is a famous quote which goes:
 <blockquote>"Insanity Is Doing the Same Thing Over and Over Again and Expecting Different Results."</blockquote>
-If we are miserable, drowning ourselves in our sorrow or in our fate will not improve the situation instead what we need is a change.
-
-<h2>Taking action to change.</h2>
-Change requires action. It doesn't have to be THE right action. It does not have to be drastic. It can even just be extremely small change. However, it has to be something which allows us to at the end of the day look back and feel proud that we did not succumb to our fate but actually did something to improve and take charge of our lives.
+Our negative and depressive thoughts are not going to get us out of our misery what will is our choice to live above our circumstance and do what is necessary to change.
+<h3>Taking action to change.</h3>
+Happiness requires action. It doesn't have to be THE right action. It does not have to be drastic. It can even be extremely small action to change the circumstance or yourself. However, it has to be something which allows us to at the end of the day look back and feel proud that we did not succumb to our fate but actually did something to improve and take charge of our lives.
 
 This, in short, is growth or progress. It is a key ingredient to turning our life around. And it is something we all need to do every day keep ourselves out of depression--the feeling/belief that we can't accomplish what we set out to do or that we are not in control of our situation which as a result leads us to take no action which in turn create a self-fulfilling prophecy cycle in the story of how we can't.
-<h2>Change is possible but action is required.</h2>
-Even if you don't feel like taking any action, you should train yourself to take it. Even if it entails you to step outside of your comfort zone, you should still do it. Even if the action does not give you any immediate benefit, you should try it. The key is to not do what you are already doing and expecting to get a different result because that would be insanity.
 
-So get your ass out and change your life.
+Even if you don't feel like taking any action, you should challenge yourself to take it. Even if it entails you to step outside of your comfort zone, you should still do it. Even if the action does not give you any immediate benefit, you should try it. The key is to not do what you are already doing and expecting to get a different result.
 
-<hr/>
+Remember, the circumstance of your life is what you can't control. But what you can control is how what do with it. And that is what determines your happiness.
 
-<em>A Little Mental Candy For You</em>
-https://youtu.be/edkbfvJIo_k
+<hr />
+
+<em>A Little Mental Candy For You <3</em>
+<a href="https://youtu.be/edkbfvJIo_k" target="_blank" rel="noopener">https://youtu.be/edkbfvJIo_k</a>
