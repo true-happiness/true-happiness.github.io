@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Happiness Is Less About What Life Is and More About What You Do with It."
-subtitle:   ""
+subtitle:   "Man’s attitude to his existence is what determines life meaning and purpose."
 date:       2018-01-04 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/post/happiness-is-in-your-control.png"
