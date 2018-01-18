@@ -73,7 +73,7 @@ When we are lost it is difficult to know what to do first, how to prioritized yo
 		<li>Learn to truly understand the nature of the thing in which you are engaging</li>
 		<li>Do only that which is right and good</li>
 		<li>Diligent on all tasks</li>
-<ul>
+</ul>
 
 All of these 6 areas are only a generalization which might point you toward an area in which you feel you need to work on. For example, finding a good role model will help you to find someone who you would like to become in the future. This allows you to learn how he or she got there. And once you learned his or her technique and how he or she get to where they want to be then you have a way or a direction in which you can be hopeful about. If you don't have a good role model then perhaps it is time to find one. And better yet, contact them! They might even help you out!
 
