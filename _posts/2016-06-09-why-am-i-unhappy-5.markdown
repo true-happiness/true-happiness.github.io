@@ -4,7 +4,7 @@ title:      "Cause of Unhappiness Part Five: Losing One's Way In Life"
 subtitle:   "You are only truly lost when you give up. So never give up."
 date:       2016-06-09 12:00:00
 author:     "Supakorn Laohasongkram"
-header-img: "img/post-bg-02.jpg"
+header-img: "https://truehappinessnow.files.wordpress.com/2016/06/wisdom-compassion.png"
 tags: ['dealing-with-unhappiness']
 ---
 
