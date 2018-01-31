@@ -9,9 +9,6 @@ img-width: "1024"
 img-height: "512"
 tags: ['understanding-of-true-happiness']
 ---
-<h2>Summary</h2>
-Happiness is less about what life is and more about what you do with it.
-<h2>Content</h2>
 There will be a time in everyone's life where we think we are at the lowest point of our lives. We think to ourselves how we will never be able to succeed and achieve what we set out to do. We pity ourselves about how miserable or unfortunate our lives have become. We see ourselves as failures, losers, and etc. The list goes on.
 
 However, <strong>the secret to happiness is not what life is to us but what we do with it</strong>. Only those are able to accept the reality for what it is and continue to move forward or those who are able to keep their heads up even in the bleakest moment of life knows the secret to happiness.
