@@ -14,7 +14,7 @@ facebook_username:  true-happiness.github.io
 wordpress_url: https://truehappinessnow.wordpress.com/
 
 # Build settings
-gems: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-feed']
+plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-feed']
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
