@@ -168,6 +168,9 @@
 <loc>http://localhost:4000/main/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/index_slides/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/join_us/</loc>
 </url>
 <url>
@@ -213,10 +216,10 @@
 <loc>http://localhost:4000/principles_of_happiness/why_true_happiness/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/main/page2/</loc>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/main/page3/</loc>
+<loc>http://localhost:4000/page3/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/googleace9067e30b64044.html</loc>

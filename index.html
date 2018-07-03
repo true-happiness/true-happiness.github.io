@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "True Happiness"
 header-img: "img/logo.png"
 header-author: "Supakorn Laohasongkram"
@@ -7,106 +7,54 @@ header-author: "Supakorn Laohasongkram"
 <div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
 <meta content='True Happiness' itemprop='name'/>
 </div>
-<body>
-    <div id="landing" class="container-fluid">
-        <div class="slide">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="landing-heading">
-                                <h1 class="site-heading" style="padding-top: 40px; font-size:3em;">True Happiness</h1>
-                                <hr class="rainbow-thick">
-                                <div class="clearfix"></div>
-                        </div>
-                    </div>
-                    <div class="col-md-12">
-                        <h4 class="light-heading" style="margin-top: 40px;">The science, art, and practice of how to truly be happy{{ page.description }}</h4>
-                    </div>
-                </div>
-                <a class="animated bounce scroll-down-arrow page-scroll" href="#slide2">
-                    <i class="fa fa-2x fa-angle-down down-arrow"></i>
-                </a> 
-        </div>
-        <div id="slide2" class="slide">
-            <div class="container">
-                <div  class="row">
-                    <blockquote><h2 class="big-quote">"Make yourself happy and you will be happy for a day. Teach yourself how to be happy and you will be happy for a lifetime."</h2></blockquote>
-                    <a class="animated bounce scroll-down-arrow page-scroll" href="#slide3">
-                        <i class="fa fa-2x fa-angle-down down-arrow"></i>
-                    </a> 
-                </div>
-            </div>
-        </div>
-        <div id="slide3" class="slide">
-            <div class="container">
-                <h1>Our goal is to help you become a </h1><div class="clearfix"></div><h1 style='font-size: 50px;'>"Happiness Expert."</h1>
-                <small></small>
-                <a class="animated bounce scroll-down-arrow page-scroll" href="#slide4">
-                    <i class="fa fa-2x fa-angle-down down-arrow"></i>
-                </a> 
-            </div>
-        </div>
-
-        <div id="slide4" class="slide">
-            <div class="container">
-                <h1 class="landing-subheading" style="margin-top:0">How</h1>
-                <div style="position: relative;">
-                    <hr class="rainbow">
-                </div>
-                <h3 class="landing-paragraph">Put True Happiness to work and let the results speak for itself.</h3>
-                <a class="animated bounce scroll-down-arrow page-scroll" href="#slide5">
-                    <i class="fa fa-2x fa-angle-down down-arrow"></i>
-                </a> 
-            </div>
-        </div>
-        <div id="slide5" class="slide">
-            <div class='container'>
-                <h1 class="landing-subheading">What True Happiness can and cannot offer</h1>
-                <div style="position: relative;">
-                    <hr class="rainbow">
-                </div>
-                <div class="col-lg-3 col-md-6 col-xs-6 text-center">
-                    <div class="service-box">
-                        <h3>Contentment Above Indulgence</h3>
-                        <i class="fa fa-2x fa-heart sr-icons"></i>
-                        <p class="text-muted hidden-xs" style="margin-top:10px;">Real happiness generates from contentment not from the endless chase of self-indulgence.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-xs-6 text-center">
-                    <div class="service-box">
-                        <h3>Truth Above Wants</h3>
-                        <i class="fa fa-2x fa-circle-thin sr-icons"></i>
-                        <p class="text-muted hidden-xs" style="margin-top:10px;">Happiness is not about what one wishes. And it is not some optimistic fantasies or self-hypnotic wishful thinkings. Instead, happiness is about truth and how to live with the truth.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-xs-6 text-center">
-                    <div class="service-box">
-                        <h3>Self-Growth Above Self-Coddling</h3>
-                        <i class="fa fa-2x fa-map-signs sr-icons"></i>
-                        <p class="text-muted hidden-xs" style="margin-top:10px;">Happiness requires work. Only those who are willing to grow beyond and step outside of who they are already are can achieve it.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 col-xs-6 text-center">
-                    <div class="service-box">
-                        <h3>Others Above Self</h3>
-                        <i class="fa fa-2x fa-globe sr-icons"></i>
-                        <p class="text-muted hidden-xs" style="margin-top:10px;">Learning to find happiness above and beyond oneself is key to True Happiness. It is also the key to creating a better world starting with ourselves.</p>
-                    </div>
-                </div>
-                <a class="animated bounce scroll-down-arrow page-scroll" href="#slide6">
-                    <i class="fa fa-2x fa-angle-down down-arrow"></i>
-                </a> 
-            </div>            
-        </div>
-        <div id="slide6" class="slide">
-            <div class='container'>
-                <h1 class="landing-subheading">Who we are and what is True Happiness about.</h1>
-                <div style="position: relative;">
-                    <hr class="rainbow">
-                </div>
-                <h3 class="landing-paragraph">
-                   In the world where taking is the way of life, True Happiness's mission is to give. The goal of True Happiness is to help you find greater happiness. It is created out of love and run entirely on the generosity of the people. We have a strict policy of no-charging on all of our contents and will accept only donation. Together let's improve our lives! What are you waiting for?
-                </h3><br><br>
-                <a href="/main"><h2>Let's Get Started!</h2></a>
-            </div>            
-        </div>
-</body>
+{% for post in paginator.posts %}
+<div class="post-preview" itemscope itemtype='http://schema.org/BlogPosting'>
+    <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{site.url}}"/>
+    <meta content="{{site.url}}{{ post.url }}" itemprop='url'/>
+    <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+      <meta itemprop="url" content="{{site.url}}{{site.logo}}">
+      <meta itemprop="width" content="1200">
+      <meta itemprop="height" content="630">
+    </div>
+    <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+      <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+        <meta itemprop="url" content="{{site.url}}{{site.logo}}">
+      </div>
+      <meta itemprop="name" content="{{site.title}}">
+    </div>
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title" itemprop='name headline'>            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle" itemprop='description'>
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <!-- <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p> -->
+    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+    <meta content='{{site.url}}' itemprop='url'/>
+    <span itemprop='name' style="display: none;">{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}</span>
+    </span>
+    <p class="post-meta" itemprop='datePublished' title='{{ post.date }}'>{{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
+<hr>
+{% endfor %}
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    <li>
+        <a href="/posts">See All Posts</a>
+    </li>
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
