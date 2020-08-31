@@ -9,7 +9,7 @@ img-width: "1024"
 img-height: "512"
 ---
 
-Hey guys! We are changing our name to "Happiness Studies" from now on! And this is the official announcement for it since Facebook won't let me change the name unless I made a public announce on this website (Weird...). Anyhow, we will now start a <a href="https://www.youtube.com/channel/UC3hq2yzrllJzqLrxE1BtuUw">youtube channel<a> as well as change our website this https://thehappinessstudies.school/ Thank you!
+Hey guys! We are changing our name to "Happiness Studies" from now on! And this is the official announcement for it since Facebook won't let me change the name on the facebook page unless I made a public announce about it on this website (Weird...). Anyhow, we will now start a <a href="https://www.youtube.com/channel/UC3hq2yzrllJzqLrxE1BtuUw">youtube channel<a> as well as change our website this https://thehappinessstudies.school/ Thank you!
 
 
 
