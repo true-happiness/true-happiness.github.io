@@ -2,7 +2,7 @@
 layout:     post
 title:      "We are changing our name to 'Happiness Studies'"
 subtitle:   ""
-date:       2020-7-31 12:00:00
+date:       2020-8-31 12:00:00
 author:     "Supakorn Laohasongkram"
 header-img: "img/logo.png"
 img-width: "1024"
